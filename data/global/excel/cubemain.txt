@@ -4984,32 +4984,32 @@ Frozen Soul + Shadow Quartz > Heart	1			100					2	xr0	xr1						hrt														
 Bleeding Stone + Burning Sukphur > Treehead woodfist arm	1			100					6	"xr2,qty=3"	"xr3,qty=3"						00t																																																																																							0
 Dark Azurite + Bitter Peridot + PO + EC  > Radament's Head	1			100					8	"xr4,qty=2"	"xr5,qty=2"	"xr6,qty=2"	"xr7,qty=2"				00r																																																																																							0
 TJ + SM + SA + TT	1			100					8	"xr8,qty=2"	"xr9,qty=2"	"xrx,qty=2"	"xry,qty=2"				00h																																																																																							0
-Tinkering Adds Life +1: Equipment + 3 Hearts	1			100	16	7	600		2	"weap,any"	hrt						useitem				hp			3	3																																																																															0
-Tinkering Adds Mana +1: Equipment + 3 Souls	1			100	16	9	600		2	"weap,any"	sol						useitem				mana			3	3																																																																															0
+Tinkering Adds Life +1: Equipment + 3 Hearts	1			100					2	"weap,any"	hrt						useitem				hp			2	2																																																																															0
+Tinkering Adds Mana +1: Equipment + 3 Souls	1			100					2	"weap,any"	sol						useitem				mana			2	2																																																																															0
 Tinkering Adds Fdam 1-3: Equipment + Fang	1			100	16	48	500		2	"weap,any"	fng						useitem				dmg-fire			3	9																																																																															0
 Tinkering Adds Ldam 1-3: Equipment + Horn	1			100	16	50	500		2	"weap,any"	hrn						useitem				dmg-ltng			3	9																																																																															0
 Tinkering Adds Cdam 1-2: Equipment + Spleen	1			100	16	54	750		2	"weap,any"	spe						useitem				dmg-cold		5	3	6																																																																															0
-Tinkering Adds red-mag 1: Equipment + Tail	1			100	16	35	50		2	"weap,any"	tal						useitem				red-mag			3	3																																																																															0
+Tinkering Adds red-mag 1: Equipment + Tail	1			100	16	35	50		2	"weap,any"	tal						useitem				red-mag			1	1																																																																															0
 Tinkering Adds Regen Life +1: Equipment + 2 Jawbones	1			100	16	74	2000		2	"weap,any"	jaw						useitem				regen			10	10																																																																															0
 Tinkering Adds Regen Mana 2%: Equipment Scalp	1			100					2	"weap,any"	scz						useitem				regen-mana			6	6																																																																															0
-Tinkering Adds red-dmg 1: Equipment + quill	1			100	16	34	50		2	"weap,any"	qll						useitem				red-dmg			3	3																																																																															0
+Tinkering Adds red-dmg 1: Equipment + quill	1			100	16	34	50		2	"weap,any"	qll						useitem				red-dmg			1	1																																																																															0
 Tinkering Adds Max Dam 1: Equipment + Griswold's Hand	1			100					2	"weap,any"	00g						useitem				dmg-max			6	6	dmg-min			3	3																																																																										0
-Tinkering Adds Min Dam 1: Equipment + Hephasto's Hand	1			100	16	9	600		2	"weap,any"	00h						useitem				mana			9	9	mana-kill			3	3																																																																										0
+Tinkering Adds Min Dam 1: Equipment + Hephasto's Hand	1			100					2	"weap,any"	00h						useitem				mana			6	6	mana-kill			3	3																																																																										0
 Tinkering Adds vsD Dam 5%: Equipment + Treehead Woodfist's Arm	1			100					2	"weap,any"	00t						useitem				dmg-demon			27	27	dmg-undead			27	27																																																																										0
-Tinkering Adds VsU Dam 5%: Equipment + Radament's Head	1			100	16	7	600		2	"weap,any"	00r						useitem				hp			9	9	heal-kill			3	3																																																																										0
-Tinkering Adds Life +1: Equipment + 3 Hearts	1			100	16	7	600		2	"armo,any"	hrt						useitem				hp			3	3																																																																															0
-Tinkering Adds Mana +1: Equipment + 3 Souls	1			100	16	9	600		2	"armo,any"	sol						useitem				mana			3	3																																																																															0
+Tinkering Adds VsU Dam 5%: Equipment + Radament's Head	1			100					2	"weap,any"	00r						useitem				hp			6	6	heal-kill			3	3																																																																										0
+Tinkering Adds Life +1: Equipment + 3 Hearts	1			100					2	"armo,any"	hrt						useitem				hp			2	2																																																																															0
+Tinkering Adds Mana +1: Equipment + 3 Souls	1			100					2	"armo,any"	sol						useitem				mana			2	2																																																																															0
 Tinkering Adds Fdam 1-3: Equipment + Fang	1			100	16	48	500		2	"armo,any"	fng						useitem				dmg-fire			3	9																																																																															0
 Tinkering Adds Ldam 1-3: Equipment + Horn	1			100	16	50	500		2	"armo,any"	hrn						useitem				dmg-ltng			3	9																																																																															0
 Tinkering Adds Cdam 1-2: Equipment + Spleen	1			100	16	54	750		2	"armo,any"	spe						useitem				dmg-cold		5	3	6																																																																															0
-Tinkering Adds red-mag 1: Equipment + Tail	1			100	16	35	50		2	"armo,any"	tal						useitem				red-mag			3	3																																																																															0
+Tinkering Adds red-mag 1: Equipment + Tail	1			100	16	35	50		2	"armo,any"	tal						useitem				red-mag			1	1																																																																															0
 Tinkering Adds Regen Life +1: Equipment + 2 Jawbones	1			100	16	74	2000		2	"armo,any"	jaw						useitem				regen			3	3																																																																															0
 Tinkering Adds Regen Mana 2%: Equipment Scalp	1			100					2	"armo,any"	scz						useitem				regen-mana			6	6																																																																															0
-Tinkering Adds red-dmg 1: Equipment + quill	1			100	16	34	50		2	"armo,any"	qll						useitem				red-dmg			3	3																																																																															0
+Tinkering Adds red-dmg 1: Equipment + quill	1			100	16	34	50		2	"armo,any"	qll						useitem				red-dmg			1	1																																																																															0
 Tinkering Adds Max Dam 1: Equipment + Griswold's Hand	1			100					2	"armo,any"	00g						useitem				dmg-max			6	6	dmg-min			3	3																																																																										0
-Tinkering Adds Min Dam 1: Equipment + Hephasto's Hand	1			100	16	9	600		2	"armo,any"	00h						useitem				mana			9	9	mana-kill			3	3																																																																										0
+Tinkering Adds Min Dam 1: Equipment + Hephasto's Hand	1			100					2	"armo,any"	00h						useitem				mana			6	6	mana-kill			3	3																																																																										0
 Tinkering Adds VsD Dam 5%: Equipment + Treehead Woodfist's Arm	1			100					2	"armo,any"	00t						useitem				dmg-demon			27	27	dmg-undead			27	27																																																																										0
-Tinkering Adds VsU Dam 5%: Equipment + Radament's Head	1			100	16	7	600		2	"armo,any"	00r						useitem				hp			9	9	heal-kill			3	3																																																																										0
+Tinkering Adds VsU Dam 5%: Equipment + Radament's Head	1			100					2	"armo,any"	00r						useitem				hp			6	6	heal-kill			3	3																																																																										0
 Trap Token	1			100					4	tokn	"rune,qty=2"	gem					void																																																																																							0
 Trap Token	1			100					5	tokn	"rune,qty=2"	"gem,qty=2"					void																																																																																							0
 Trap Token	1			100					6	tokn	"rune,qty=2"	"gem,qty=3"					void																																																																																							0
@@ -20096,30 +20096,30 @@ Tinkering Adds +1 All - ring	1			100					3	ring,any	xt3	r44					useitem				allsk
 Stat Potion Test	0			100					2	wms	yps						srj																																																																																							0
 Slurp Juice from Skill Book	1			100					4	sbs	"qqq,qty=3"						srj																																																																																							0
 Skill Book from Slurp Juice	1			100					4	srj	"qqq,qty=3"						sbs																																																																																							0
-Tinkering Adds Life +1: Equipment + 3 Hearts	1			100	16	7	600		2	"ring,any"	"hrt,qty=1"						useitem				hp			3	3																																																																															0
-Tinkering Adds Mana +1: Equipment + 3 Souls	1			100	16	9	600		2	"ring,any"	"sol,qty=1"						useitem				mana			3	3																																																																															0
+Tinkering Adds Life +1: Equipment + 3 Hearts	1			100					2	"ring,any"	"hrt,qty=1"						useitem				hp			2	2																																																																															0
+Tinkering Adds Mana +1: Equipment + 3 Souls	1			100					2	"ring,any"	"sol,qty=1"						useitem				mana			2	2																																																																															0
 Tinkering Adds Fdam 1-3: Equipment + Fang	1			100	16	48	500		2	"ring,any"	fng						useitem				dmg-fire			3	9																																																																															0
 Tinkering Adds Ldam 1-3: Equipment + Horn	1			100	16	50	500		2	"ring,any"	hrn						useitem				dmg-ltng			3	9																																																																															0
 Tinkering Adds Cdam 1-2: Equipment + Spleen	1			100	16	54	750		2	"ring,any"	spe						useitem				dmg-cold		5	3	6																																																																															0
-Tinkering Adds red-mag 1: Equipment + Tail	1			100	16	35	50		2	"ring,any"	tal						useitem				red-mag			3	3																																																																															0
+Tinkering Adds red-mag 1: Equipment + Tail	1			100	16	35	50		2	"ring,any"	tal						useitem				red-mag			1	1																																																																															0
 Tinkering Adds Regen Life +1: Equipment + 2 Jawbones	1			100	16	74	2000		2	"ring,any"	jaw						useitem				regen			3	3																																																																															0
 Tinkering Adds Regen Mana 2%: Equipment Scalp	1			100					2	"ring,any"	scz						useitem				regen-mana			6	6																																																																															0
-Tinkering Adds red-dmg 1: Equipment + quill	1			100	16	34	50		2	"ring,any"	qll						useitem				red-dmg			3	3																																																																															0
+Tinkering Adds red-dmg 1: Equipment + quill	1			100	16	34	50		2	"ring,any"	qll						useitem				red-dmg			1	1																																																																															0
 Tinkering Adds Max Dam 1: Equipment + Griswold's Hand	1			100					2	"ring,any"	00g						useitem				dmg-max			6	6	dmg-min			3	3																																																																										0
-Tinkering Adds Min Dam 1: Equipment + Hephasto's Hand	1			100	16	9	600		2	"ring,any"	00h						useitem				mana			9	9	mana-kill			3	3																																																																										0
+Tinkering Adds Min Dam 1: Equipment + Hephasto's Hand	1			100					2	"ring,any"	00h						useitem				mana			6	6	mana-kill			3	3																																																																										0
 Tinkering Adds vsD Dam 5%: Equipment + Treehead Woodfist's Arm	1			100					2	"ring,any"	00t						useitem				dmg-demon			27	27	dmg-undead			27	27																																																																										0
-Tinkering Adds VsU Dam 5%: Equipment + Radament's Head	1			100	16	7	600		2	"ring,any"	00r						useitem				hp			9	9	heal-kill			3	3																																																																										0
-Tinkering Adds Life +1: Equipment + 3 Hearts	1			100	16	7	600		2	"amul,any"	"hrt,qty=1"						useitem				hp			3	3																																																																															0
-Tinkering Adds Mana +1: Equipment + 3 Souls	1			100	16	9	600		2	"amul,any"	"sol,qty=1"						useitem				mana			3	3																																																																															0
+Tinkering Adds VsU Dam 5%: Equipment + Radament's Head	1			100					2	"ring,any"	00r						useitem				hp			6	6	heal-kill			3	3																																																																										0
+Tinkering Adds Life +1: Equipment + 3 Hearts	1			100					2	"amul,any"	"hrt,qty=1"						useitem				hp			2	2																																																																															0
+Tinkering Adds Mana +1: Equipment + 3 Souls	1			100					2	"amul,any"	"sol,qty=1"						useitem				mana			2	2																																																																															0
 Tinkering Adds Fdam 1-3: Equipment + Fang	1			100	16	48	500		2	"amul,any"	fng						useitem				dmg-fire			3	9																																																																															0
 Tinkering Adds Ldam 1-3: Equipment + Horn	1			100	16	50	500		2	"amul,any"	hrn						useitem				dmg-ltng			3	9																																																																															0
 Tinkering Adds Cdam 1-2: Equipment + Spleen	1			100	16	54	750		2	"amul,any"	spe						useitem				dmg-cold		5	3	6																																																																															0
-Tinkering Adds red-mag 1: Equipment + Tail	1			100	16	35	50		2	"amul,any"	tal						useitem				red-mag			3	3																																																																															0
+Tinkering Adds red-mag 1: Equipment + Tail	1			100	16	35	50		2	"amul,any"	tal						useitem				red-mag			1	1																																																																															0
 Tinkering Adds Regen Life +1: Equipment + 2 Jawbones	1			100	16	74	2000		2	"amul,any"	jaw						useitem				regen			3	3																																																																															0
 Tinkering Adds Regen Mana 2%: Equipment Scalp	1			100					2	"amul,any"	scz						useitem				regen-mana			6	6																																																																															0
-Tinkering Adds red-dmg 1: Equipment + quill	1			100	16	34	50		2	"amul,any"	qll						useitem				red-dmg			3	3																																																																															0
+Tinkering Adds red-dmg 1: Equipment + quill	1			100	16	34	50		2	"amul,any"	qll						useitem				red-dmg			1	1																																																																															0
 Tinkering Adds Max Dam 1: Equipment + Griswold's Hand	1			100					2	"amul,any"	00g						useitem				dmg-max			6	6	dmg-min			3	3																																																																										0
-Tinkering Adds Min Dam 1: Equipment + Hephasto's Hand	1			100	16	9	600		2	"amul,any"	00h						useitem				mana			9	9	mana-kill			3	3																																																																										0
+Tinkering Adds Min Dam 1: Equipment + Hephasto's Hand	1			100					2	"amul,any"	00h						useitem				mana			6	6	mana-kill			3	3																																																																										0
 Tinkering Adds VsD Dam 5%: Equipment + Treehead Woodfist's Arm	1			100					2	"amul,any"	00t						useitem				dmg-demon			27	27	dmg-undead			27	27																																																																										0
 Multi Stocker Steak -> Selected Organ/Ear	0			100	15	452	5		2	t55	skz						useitem				item-04			-3	-3	item-14			3	3																																																																										0
 Remove Aura Forging - bugged holy freeze	1			100	18	202	183		4	"amul,any"	"wms,qty=3"						useitem				craftflag			-183	-183	aura		114	-99	-99																an9	99																																																									0
@@ -20129,19 +20129,19 @@ Based Ring	1			100					5	sbs	srj	ring,any	r43	r10			Based Ring																		
 Based Amulet	1			100					5	sbs	srj	amul,any	r43	r10			Based Amulet																																																																																							0
 Based Belt	1			100					5	sbs	srj	belt,any	r43	r10			Based Belt																																																																																							0
 Remove redemption from MD	1			100	18	202	184		3	Mage's Delight	wms	yps					useitem				craftflag			-184	-184	aura		124	-99	-99																																																																										0
-Tinkering Adds Life +1: Equipment + 3 Hearts	1			100	16	7	600		2	"bowq,any"	"hrt,qty=1"						useitem				hp			1	1																																																																															0
-Tinkering Adds Mana +1: Equipment + 3 Souls	1			100	16	9	600		2	"bowq,any"	"sol,qty=1"						useitem				mana			1	1																																																																															0
-Tinkering Adds Fdam 1-3: Equipment + Fang	1			100	16	48	500		2	"bowq,any"	fng						useitem				dmg-fire			1	3																																																																															0
-Tinkering Adds Ldam 1-3: Equipment + Horn	1			100	16	50	500		2	"bowq,any"	hrn						useitem				dmg-ltng			1	3																																																																															0
-Tinkering Adds Cdam 1-2: Equipment + Spleen	1			100	16	54	750		2	"bowq,any"	spe						useitem				dmg-cold		5	1	2																																																																															0
+Tinkering Adds Life +1: Equipment + 3 Hearts	1			100					2	"bowq,any"	"hrt,qty=1"						useitem				hp			2	2																																																																															0
+Tinkering Adds Mana +1: Equipment + 3 Souls	1			100					2	"bowq,any"	"sol,qty=1"						useitem				mana			2	2																																																																															0
+Tinkering Adds Fdam 1-3: Equipment + Fang	1			100	16	48	500		2	"bowq,any"	fng						useitem				dmg-fire			3	9																																																																															0
+Tinkering Adds Ldam 1-3: Equipment + Horn	1			100	16	50	500		2	"bowq,any"	hrn						useitem				dmg-ltng			3	9																																																																															0
+Tinkering Adds Cdam 1-2: Equipment + Spleen	1			100	16	54	750		2	"bowq,any"	spe						useitem				dmg-cold		5	3	6																																																																															0
 Tinkering Adds red-mag 1: Equipment + Tail	1			100	16	35	50		2	"bowq,any"	tal						useitem				red-mag			1	1																																																																															0
-Tinkering Adds Regen Life +1: Equipment + 2 Jawbones	1			100	16	74	2000		2	"bowq,any"	jaw						useitem				regen			1	1																																																																															0
-Tinkering Adds Regen Mana 2%: Equipment Scalp	1			100					2	"bowq,any"	scz						useitem				regen-mana			2	2																																																																															0
+Tinkering Adds Regen Life +1: Equipment + 2 Jawbones	1			100	16	74	2000		2	"bowq,any"	jaw						useitem				regen			3	3																																																																															0
+Tinkering Adds Regen Mana 2%: Equipment Scalp	1			100					2	"bowq,any"	scz						useitem				regen-mana			6	6																																																																															0
 Tinkering Adds red-dmg 1: Equipment + quill	1			100	16	34	50		2	"bowq,any"	qll						useitem				red-dmg			1	1																																																																															0
-Tinkering Adds Max Dam 1: Equipment + Griswold's Hand	1			100					2	"bowq,any"	00g						useitem				dmg-max			2	2	dmg-min			1	1																																																																										0
-Tinkering Adds Min Dam 1: Equipment + Hephasto's Hand	1			100	16	9	600		2	"bowq,any"	00h						useitem				mana			3	3	mana-kill			1	1																																																																										0
-Tinkering Adds vsD Dam 5%: Equipment + Treehead Woodfist's Arm	1			100					2	"bowq,any"	00t						useitem				dmg-demon			9	9	dmg-undead			9	9																																																																										0
-Tinkering Adds VsU Dam 5%: Equipment + Radament's Head	1			100	16	7	600		2	"bowq,any"	00r						useitem				hp			3	3	heal-kill			1	1																																																																										0
+Tinkering Adds Max Dam 1: Equipment + Griswold's Hand	1			100					2	"bowq,any"	00g						useitem				dmg-max			6	6	dmg-min			3	3																																																																										0
+Tinkering Adds Min Dam 1: Equipment + Hephasto's Hand	1			100					2	"bowq,any"	00h						useitem				mana			6	6	mana-kill			3	3																																																																										0
+Tinkering Adds vsD Dam 5%: Equipment + Treehead Woodfist's Arm	1			100					2	"bowq,any"	00t						useitem				dmg-demon			27	27	dmg-undead			27	27																																																																										0
+Tinkering Adds VsU Dam 5%: Equipment + Radament's Head	1			100					2	"bowq,any"	00r						useitem				hp			6	6	heal-kill			3	3																																																																										0
 SS + Any Bow	1			100	16	119	499		2	bowq,any	sss						useitem				levelreq			2	2	att%			6	6																																																																										0
 DS + Any Bow	1			100	16	93	119		2	bowq,any	ppp						useitem				levelreq			2	2	swing1			5	5																																																																										0
 FH + Any Bow	1			100	16	18	1799		2	bowq,any	hh2						useitem				levelreq			2	2	dmgpct			15	15																																																																										0
@@ -20240,19 +20240,19 @@ Regular > Pure Anguishing Andalusite	1			100					10	"um5,qty=10"							up5						
 Regular > Pure Convoking Covellite	1			100					10	"um6,qty=10"							up6																																																																																							0
 Teleport Cooldown Frames Adjust Up	1			100	16	425	30		3	"ring,any"	hp1	key					useitem				item-telecooldownadjust			1	1																					hp1																													key																													0
 Teleport Cooldown Frames Adjust Down	1			100	15	425	1		3	"ring,any"	mp1	key					useitem				item-telecooldownadjust			-1	-1																					mp1																													key																													0
-Tinkering Adds Life +1: Equipment + Heart: Tinkerer's Dream	1			100	16	7	600		2	Tinkerer's Dream	"hrt,qty=1"						useitem				hp			3	3																																																																															0
-Tinkering Adds Mana +1: Equipment + Soul: Tinkerer's Dream	1			100	16	9	600		2	Tinkerer's Dream	"sol,qty=1"						useitem				mana			3	3																																																																															0
+Tinkering Adds Life +1: Equipment + Heart: Tinkerer's Dream	1			100					2	Tinkerer's Dream	"hrt,qty=1"						useitem				hp			2	2																																																																															0
+Tinkering Adds Mana +1: Equipment + Soul: Tinkerer's Dream	1			100					2	Tinkerer's Dream	"sol,qty=1"						useitem				mana			2	2																																																																															0
 Tinkering Adds Fdam 1-3: Equipment + Fang: Tinkerer's Dream	1			100	16	48	500		2	Tinkerer's Dream	fng						useitem				dmg-fire			3	9																																																																															0
 Tinkering Adds Ldam 1-3: Equipment + Horn: Tinkerer's Dream	1			100	16	50	500		2	Tinkerer's Dream	hrn						useitem				dmg-ltng			3	9																																																																															0
 Tinkering Adds Cdam 1-2: Equipment + Spleen: Tinkerer's Dream	1			100	16	54	750		2	Tinkerer's Dream	spe						useitem				dmg-cold		5	3	6																																																																															0
-Tinkering Adds red-mag 1: Equipment + Tail: Tinkerer's Dream	1			100	16	35	50		2	Tinkerer's Dream	tal						useitem				red-mag			3	3																																																																															0
+Tinkering Adds red-mag 1: Equipment + Tail: Tinkerer's Dream	1			100	16	35	50		2	Tinkerer's Dream	tal						useitem				red-mag			1	1																																																																															0
 Tinkering Adds Regen Life +1: Equipment + Jawbone: Tinkerer's Dream	1			100	16	74	2000		2	Tinkerer's Dream	jaw						useitem				regen			3	3																																																																															0
 Tinkering Adds Regen Mana 2%: Equipment Scalp: Tinkerer's Dream	1			100					2	Tinkerer's Dream	scz						useitem				regen-mana			6	6																																																																															0
-Tinkering Adds red-dmg 1: Equipment + quill: Tinkerer's Dream	1			100	16	34	50		2	Tinkerer's Dream	qll						useitem				red-dmg			3	3																																																																															0
+Tinkering Adds red-dmg 1: Equipment + quill: Tinkerer's Dream	1			100	16	34	50		2	Tinkerer's Dream	qll						useitem				red-dmg			1	1																																																																															0
 Tinkering Adds Max Dam 1: Equipment + Griswold's Hand: Tinkerer's Dream	1			100					2	Tinkerer's Dream	00g						useitem				dmg-max			6	6	dmg-min			3	3																																																																										0
-Tinkering Adds Min Dam 1: Equipment + Hephasto's Hand: Tinkerer's Dream	1			100	16	9	600		2	Tinkerer's Dream	00h						useitem				mana			9	9	mana-kill			3	3																																																																										0
+Tinkering Adds Min Dam 1: Equipment + Hephasto's Hand: Tinkerer's Dream	1			100					2	Tinkerer's Dream	00h						useitem				mana			6	6	mana-kill			3	3																																																																										0
 Tinkering Adds vsD Dam 5%: Equipment + Treehead Woodfist's Arm: Tinkerer's Dream	1			100					2	Tinkerer's Dream	00t						useitem				dmg-demon			27	27	dmg-undead			27	27																																																																										0
-Tinkering Adds VsU Dam 5%: Equipment + Radament's Head: Tinkerer's Dream	1			100	16	7	600		2	Tinkerer's Dream	00r						useitem				hp			9	9	heal-kill			3	3																																																																										0
+Tinkering Adds VsU Dam 5%: Equipment + Radament's Head: Tinkerer's Dream	1			100					2	Tinkerer's Dream	00r						useitem				hp			6	6	heal-kill			3	3																																																																										0
 Tinkerer's Dream: Max Magic Resist	1			100	16	38	9		5	Tinkerer's Dream	"map,qty=3"	sss					useitem				levelreq			4	4	res-mag-max			1	1																																																																										0
 Tinkerer's Dream: Magic Resist	1			100	16	37	49		3	Tinkerer's Dream	map	ggg					useitem				levelreq			4	4	res-mag			2	2																																																																										0
 Tinkerer's Dream: Max All Elemental Resists	1			100	16	40	9		3	Tinkerer's Dream	map	eee					useitem				levelreq			4	4	res-all-max			1	1																																																																										0
