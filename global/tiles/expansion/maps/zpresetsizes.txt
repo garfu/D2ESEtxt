@@ -1,5 +1,0 @@
-map01_duriel 139x139
-map02_duriel2 94x121 CRASH Maybe try smaller map size close to dimensions? 94x121
-map03_mephcomp 200x200
-map04_nihlE 167x167
-map05_Wstone01 200x200
