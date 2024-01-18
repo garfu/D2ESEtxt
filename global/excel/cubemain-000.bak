@@ -4984,8 +4984,8 @@ Frozen Soul + Shadow Quartz > Heart	1			100					2	xr0	xr1						hrt														
 Bleeding Stone + Burning Sukphur > Treehead woodfist arm	1			100					6	"xr2,qty=3"	"xr3,qty=3"						00t																																																																																							0
 Dark Azurite + Bitter Peridot + PO + EC  > Radament's Head	1			100					8	"xr4,qty=2"	"xr5,qty=2"	"xr6,qty=2"	"xr7,qty=2"				00r																																																																																							0
 TJ + SM + SA + TT	1			100					8	"xr8,qty=2"	"xr9,qty=2"	"xrx,qty=2"	"xry,qty=2"				00h																																																																																							0
-Tinkering Adds Life +1: Equipment + 3 Hearts	1			100	16	7	600		2	"weap,any"	"hrt,qty=1"						useitem				hp			3	3																																																																															0
-Tinkering Adds Mana +1: Equipment + 3 Souls	1			100	16	9	600		2	"weap,any"	"sol,qty=1"						useitem				mana			3	3																																																																															0
+Tinkering Adds Life +1: Equipment + 3 Hearts	1			100	16	7	600		2	"weap,any"	hrt						useitem				hp			3	3																																																																															0
+Tinkering Adds Mana +1: Equipment + 3 Souls	1			100	16	9	600		2	"weap,any"	sol						useitem				mana			3	3																																																																															0
 Tinkering Adds Fdam 1-3: Equipment + Fang	1			100	16	48	500		2	"weap,any"	fng						useitem				dmg-fire			3	9																																																																															0
 Tinkering Adds Ldam 1-3: Equipment + Horn	1			100	16	50	500		2	"weap,any"	hrn						useitem				dmg-ltng			3	9																																																																															0
 Tinkering Adds Cdam 1-2: Equipment + Spleen	1			100	16	54	750		2	"weap,any"	spe						useitem				dmg-cold		5	3	6																																																																															0
@@ -4997,8 +4997,8 @@ Tinkering Adds Max Dam 1: Equipment + Griswold's Hand	1			100					2	"weap,any"	0
 Tinkering Adds Min Dam 1: Equipment + Hephasto's Hand	1			100	16	9	600		2	"weap,any"	00h						useitem				mana			9	9	mana-kill			3	3																																																																										0
 Tinkering Adds vsD Dam 5%: Equipment + Treehead Woodfist's Arm	1			100					2	"weap,any"	00t						useitem				dmg-demon			27	27	dmg-undead			27	27																																																																										0
 Tinkering Adds VsU Dam 5%: Equipment + Radament's Head	1			100	16	7	600		2	"weap,any"	00r						useitem				hp			9	9	heal-kill			3	3																																																																										0
-Tinkering Adds Life +1: Equipment + 3 Hearts	1			100	16	7	600		2	"armo,any"	"hrt,qty=1"						useitem				hp			3	3																																																																															0
-Tinkering Adds Mana +1: Equipment + 3 Souls	1			100	16	9	600		2	"armo,any"	"sol,qty=1"						useitem				mana			3	3																																																																															0
+Tinkering Adds Life +1: Equipment + 3 Hearts	1			100	16	7	600		2	"armo,any"	hrt						useitem				hp			3	3																																																																															0
+Tinkering Adds Mana +1: Equipment + 3 Souls	1			100	16	9	600		2	"armo,any"	sol						useitem				mana			3	3																																																																															0
 Tinkering Adds Fdam 1-3: Equipment + Fang	1			100	16	48	500		2	"armo,any"	fng						useitem				dmg-fire			3	9																																																																															0
 Tinkering Adds Ldam 1-3: Equipment + Horn	1			100	16	50	500		2	"armo,any"	hrn						useitem				dmg-ltng			3	9																																																																															0
 Tinkering Adds Cdam 1-2: Equipment + Spleen	1			100	16	54	750		2	"armo,any"	spe						useitem				dmg-cold		5	3	6																																																																															0
