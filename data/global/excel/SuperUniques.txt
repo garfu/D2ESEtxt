@@ -75,7 +75,7 @@ Guardian2	Guardian2	wyvern	71		25	0	0	4	4	1	0	0		9	9	9	Guardian2	Guardian2 (N)	G
 Guardian3	Guardian3	electrocuter	72		17	0	0	4	4	1	0	0		9	9	9	Guardian3	Guardian3 (N)	Guardian3 (H)	0
 Guardian4	Guardian4	lavafiend	73		7	0	0	12	12	1	0	0		9	9	9	Guardian4	Guardian4 (N)	Guardian4 (H)	0
 Baal Subject 5 2	Baal Subject 5	diablo	74	diablo	27	0	0	8	8	1	0	1		20	20	20	Diablo	Diablo (N)	Diablo (H)	0
-Nihlathak Boss 2	Nihlathak	nihlathakboss	75		0	0	0	6	6	1	0	1		28	28	28	Nihlathak	Nihlathak (N)	ROP (H)	0
+Nihlathak Boss 2	Nihlathak	nihlathakboss	75		0	0	0	6	6	1	0	1		28	28	28	Nihlathak	Nihlathak (N)	ROP (H) HellNihl	0
 Visage of Anguish	Visage of Anguish	BossAndariel1	76		0	0	0	1	1	1	0	1		2	2	2	Nothing	Nothing	M Andariel Tier 1	0
 Visage of Arcana	Visage of Arcana	BossSummoner1	77		0	0	0	1	1	1	0	1		2	2	2	Nothing	Nothing	M Summoner Tier 1	0
 Visage of Pain	Visage of Pain	BossDuriel1	78		0	0	0	1	1	1	0	1		2	2	2	Nothing	Nothing	M Duriel Tier 1	0
