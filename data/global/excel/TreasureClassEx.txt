@@ -687,6 +687,16 @@ Act 4 (H) Boss			1	960	960	960	1024	15	"gld,mul=3072"	10	Act 5 (H) Equip A	55	Ac
 Act 5  Boss			1	960	960	960	1024	15	"gld,mul=3072"	10	Act 5 Equip C	55	Act 5 Junk	8	Act 5 UGood	7																0
 Act 5 (N) Boss			1	960	960	960	1024	15	"gld,mul=3072"	10	Act 5 (N) Equip C	55	Act 5 (N) Junk	8	Act 5 (N) UGood	7																0
 Act 5 (H) Boss			1	960	960	960	1024	15	"gld,mul=3072"	10	Act 5 (H) Equip C	55	Act 5 (H) Junk	8	Act 5 (H) UGood	7																0
+ROP Rare Charm			1						cx1	1	cx2	1	cx3	1																		0
+ROP Charm			1						Unique Charm 2	10	cx1	15	cx2	15	cx3	15	ROP Rare Charm	15														0
+ROP - Base			5						Act 5 Ultra	1080	Ore (GFU)	1																				0
+ROP (N) - Base			5						Act 5 (N) Ultra	720	Ore (GFU)	1																				0
+ROP (H) - Base			5						r15	10	Ore (GFU)	5	sbs	1	srj	1																0
+ROP			-2						ROP Charm	1	ROP - Base	1																				0
+ROP (N)			-2						ROP Charm	1	ROP (N) - Base	1																				0
+ROP (H)			6						ROP Charm	1	ROP (H) - Base	1																				0
+M Maps Nihl			1						mt1	1	mt2	1	mt3	1	mt4	1	mt5	1	mt6	1												0
+ROP (H) HellNihl			4						ROP Charm	10	ROP (H) - Base	10	M Maps Nihl	8	Tinkerer's Dream	2																0
 Nihlathak			6						Act 5  Boss	1080	Ore (GFU)	1																				0
 Nihlathak (N)			6						Act 5 (N) Boss	720	Ore (GFU)	1																				0
 Nihlathak (H)			6						Act 5 (H) Boss	50	Ore (GFU)	20	ROP (H) HellNihl	10																		0
@@ -726,15 +736,6 @@ Baal (H)			6						Act 5 (H) Boss	360	Ore (GFU)	1	r15	1																		0
 Baalq			6	982	982	982	1024	45	"gld,mul=3072"	15	Act 5 Equip C	180	Act 5 Junk	12	Act 5 UGood	30	Sets03	2	Ore (GFU)	1	r15	1										0
 Baalq (N)			6	982	982	982	1024	45	"gld,mul=3072"	15	Act 5 (N) Equip C	180	Act 5 (N) Junk	12	Act 5 (N) UGood	30	Sets06	2	Ore (GFU)	2	r15	1										0
 Baalq (H)			6	982	982	982	1024	45	"gld,mul=3072"	15	Act 5 (H) Equip C	180	Act 5 (H) Junk	12	Act 5 (H) UGood	30	Sets08	2	Ore (GFU)	3	r15	1										0
-ROP Rare Charm			1						cx1	1	cx2	1	cx3	1																		0
-ROP Charm			1						Unique Charm 2	10	cx1	15	cx2	15	cx3	15	ROP Rare Charm	15														0
-ROP - Base			5						Act 5 Ultra	1080	Ore (GFU)	1																				0
-ROP (N) - Base			5						Act 5 (N) Ultra	720	Ore (GFU)	1																				0
-ROP (H) - Base			5						r15	10	Ore (GFU)	5	sbs	1	srj	1																0
-ROP			-2						ROP Charm	1	ROP - Base	1					  															0
-ROP (N)			-2						ROP Charm	1	ROP (N) - Base	1					  															0
-M Maps Nihl			1						mt1	1	mt2	1	mt3	1	mt4	1	mt5	1	mt6	1												0
-ROP (H)			6						ROP Charm	1	ROP (H) - Base	1					  															0
 Trapped Soul			1					66	Gold	19	A4A	8	Act 4 Junk	33																		0
 Trapped Soul (N)			1					66	Gold	19	A4A (N)	8	Act 4 (N) Junk	33																		0
 Trapped Soul (H)			1					66	Gold	19	A4A (H)	8	Act 4 (H) Junk	33																		0
@@ -1582,4 +1583,3 @@ M Emitnwod 1			-3						Endless Potential	1	M Emitnwod Explosion	1	bh3	1									
 M Effellarr 1			-3						Endless Potential	1	M Effellarr Explosion	1	bh4	1																		0
 M Mudeyhnne 1			-3						Endless Potential	1	M Mudeyhnne Explosion	1	bh5	1																		0
 M Lyrtsa 1			-3						Endless Potential	1	M Lyrtsa Explosion	1	bh6	1																		0
-ROP (H) HellNihl			6						ROP Charm	15	ROP (H) - Base	15	M Maps Nihl	8	Tinkerer's Dream	2	  															0
