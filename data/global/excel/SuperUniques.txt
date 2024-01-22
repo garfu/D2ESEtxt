@@ -60,7 +60,7 @@ Sharp Tooth Sayer	Sharp Tooth Sayer	overseer3	56		6	0	0	3	3	1	0	0	1	24	24	24	Act
 Magma Torquer	Magma Torquer	imp5	57		5	7	0	5	5	1	0	0		9	9	9	Act 5 Super C	Act 5 (N) Super C	Act 5 (H) Super C	0
 Blaze Ripper	Blaze Ripper	deathmauler5	58		17	6	0	4	4	1	0	0		10	10	10				0
 Frozenstein	Frozenstein	snowyeti4	59		18	25	0	5	6	1	0	0		19	19	19	Act 5 Super B	Act 5 (N) Super B	Act 5 (H) Super B	0
-Nihlathak Boss	Nihlathak	nihlathakboss	60		0	0	0	6	6	1	0	1		28	28	28	Nihlathak	Nihlathak (N)	ROP (H)	0
+Nihlathak Boss	Nihlathak	nihlathakboss	60		0	0	0	6	6	1	0	1		28	28	28	Nihlathak	Nihlathak (N)	ROP (H) HellNihl	0
 Baal Subject 1	Baal Subject 1	baalminion1	61		5	9	0	8	8	1	0	1		29	29	29	Act 5 Super C	Act 5 (N) Super C	Act 5 (H) Super C	0
 Baal Subject 2	Baal Subject 2	andariel_throne	62	andariel	23	0	0	8	8	1	0	1		21	21	21	Andariel	Andariel (N)	Andariel (H)	0
 Baal Subject 3	Baal Subject 3	duriel_throne	63	duriel	17	0	0	6	6	1	0	1		36	36	36	Duriel	Duriel (N)	Duriel (H)	0
@@ -75,7 +75,7 @@ Guardian2	Guardian2	wyvern	71		25	0	0	4	4	1	0	0		9	9	9	Guardian2	Guardian2 (N)	G
 Guardian3	Guardian3	electrocuter	72		17	0	0	4	4	1	0	0		9	9	9	Guardian3	Guardian3 (N)	Guardian3 (H)	0
 Guardian4	Guardian4	lavafiend	73		7	0	0	12	12	1	0	0		9	9	9	Guardian4	Guardian4 (N)	Guardian4 (H)	0
 Baal Subject 5 2	Baal Subject 5	diablo	74	diablo	27	0	0	8	8	1	0	1		20	20	20	Diablo	Diablo (N)	Diablo (H)	0
-Nihlathak Boss 2	Nihlathak	nihlathakboss	75		0	0	0	6	6	1	0	1		28	28	28	Nihlathak	Nihlathak (N)	ROP (H) HellNihl	0
+Nihlathak Boss 2	Nihlathak	nihlathakboss	75		0	0	0	6	6	1	0	1		28	28	28	Nihlathak	Nihlathak (N)	ROP (H)	0
 Visage of Anguish	Visage of Anguish	BossAndariel1	76		0	0	0	1	1	1	0	1		2	2	2	Nothing	Nothing	M Andariel Tier 1	0
 Visage of Arcana	Visage of Arcana	BossSummoner1	77		0	0	0	1	1	1	0	1		2	2	2	Nothing	Nothing	M Summoner Tier 1	0
 Visage of Pain	Visage of Pain	BossDuriel1	78		0	0	0	1	1	1	0	1		2	2	2	Nothing	Nothing	M Duriel Tier 1	0
