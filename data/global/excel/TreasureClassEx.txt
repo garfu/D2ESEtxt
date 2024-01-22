@@ -694,7 +694,7 @@ ROP (N) - Base			5						Act 5 (N) Ultra	720	Ore (GFU)	1																				0
 ROP (H) - Base			5						r15	10	Ore (GFU)	5	sbs	1	srj	1																0
 ROP			-2						ROP Charm	1	ROP - Base	1																				0
 ROP (N)			-2						ROP Charm	1	ROP (N) - Base	1																				0
-ROP (H)			6						ROP Charm	1	ROP (H) - Base	1																				0
+ROP (H)			4						ROP Charm	1	ROP (H) - Base	1																				0
 M Maps Nihl			1						mt1	1	mt2	1	mt3	1	mt4	1	mt5	1	mt6	1												0
 ROP (H) HellNihl			4						ROP Charm	10	ROP (H) - Base	10	M Maps Nihl	8	Tinkerer's Dream	2																0
 Nihlathak			6						Act 5  Boss	1080	Ore (GFU)	1																				0
