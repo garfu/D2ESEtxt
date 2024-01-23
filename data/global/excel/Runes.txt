@@ -992,8 +992,8 @@ Runeword975	Nerfobaba 	1		char									Hi Ro Fu	r34	r38	r32				allskills		1	1	ex
 Runeword976	Moonlight	1		miss									Moon Ko U	r84	r19	r02				allskills		3	3	oskill	Strafe	1	1	hit-skill	Inner Sight	12	20	dmg%		260	260	dmg-mag		1000	1000	extra-mag2		100	100	str		15	15	0
 Runeword977	Master of Fire	1		char									Fire Ma Su	r85	r33	r43				oskill	Fire Mastery	20	20	oskill	Fire Wall	20	20	oskill	SHydra	20	20	cast1		20	20	mana/lvl	8			dmg-fire	50	200	400	pierce-fire		16	16	0
 Runeword978	Utmost Greed	1		tors									Dragon God JEW JEW JEW JEW	r93	r97	jew	jew	jew	jew	gold%		900	900	gold%/lvl	128																							0
-Runeword979	Overwhelming Greed	1		glov									Dragon God JEW JEW	r93	r97	jew	jew			gold%		900	900	gold%/lvl	96																							0
-Runeword980	Unyielding Greed	1		boot									Dragon God JEW JEW	r93	r97	jew	jew			gold%		900	900	gold%/lvl	96																							0
+Runeword979	Overwhelming Greed	1		glov									Dragon God JEW JEW	r93	r97					gold%		900	900	gold%/lvl	96																							0
+Runeword980	Unyielding Greed	1		boot									Dragon God	r93	r97					gold%		900	900	gold%/lvl	96																							0
 Runeword981	Endless Greed	1		belt									Dragon God	r93	r97					gold%		900	900	gold%/lvl	64																							0
 Runeword982	All-Consuming Greed	1		miss									Dragon God JEW	r93	r97	jew				gold%		900	900	gold%/lvl	80																							0
 Runeword983	Pinnacle of Greed	1		mele									Dragon God JEW	r93	r97	jew				gold%		900	900	gold%/lvl	80																							0

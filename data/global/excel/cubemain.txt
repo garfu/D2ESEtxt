@@ -1825,14 +1825,14 @@ Ear: Eye + Brain + Scalp + Jawbone + Fang	1			100					5	eyz	brz	scz	jaw	fng			ea
 Steak: Wirt's Leg + ID Scroll + DS	1			100					3	leg	isc	ppp					zzz																																																																																							0
 Cookbook: Wirt's Leg + TP Scroll + 7 DS	1			100					9	"club,any"	tsc	"ppp,qty=7"					yyy																																																																																							0
 Damage Aug Maple Blocker	1			100					3	"cm7,uni"	key	rpot					vps	99																												key																																																										0
-Trap Small Splashstone Maple	1			100		202	1000		3	"cm1,uni"	key	rpot					void																																																																																							0
-Trap Medium Splashstone Maple	1			100		202	1000		3	"cm2,uni"	key	rpot					void																																																																																							0
-Trap Large Splashstone Maple	1			100		202	1000		3	"cm3,uni"	key	rpot					void																																																																																							0
-Trap Huge Splashstone Maple	1			100		202	1000		3	"cm4,uni"	key	rpot					void																																																																																							0
-Trap Small Splashstone Maple Multi Stocker	1			100		202	1000		4	"cm1,uni"	key	rpot	can8				void																																																																																							0
-Trap Medium Splashstone Maple Multi Stocker	1			100		202	1000		4	"cm2,uni"	key	rpot	can8				void																																																																																							0
-Trap Large Splashstone Maple Multi Stocker	1			100		202	1000		4	"cm3,uni"	key	rpot	can8				void																																																																																							0
-Trap Huge Splashstone Maple Multi Stocker	1			100		202	1000		4	"cm4,uni"	key	rpot	can8				void																																																																																							0
+Trap Small Splashstone Maple	1			100		202	1000		3	Small Splashstone	key	rpot					void																																																																																							0
+Trap Medium Splashstone Maple	1			100		202	1000		3	Medium Splashstone	key	rpot					void																																																																																							0
+Trap Large Splashstone Maple	1			100		202	1000		3	Large Splashstone	key	rpot					void																																																																																							0
+Trap Huge Splashstone Maple	1			100		202	1000		3	Huge Splashstone	key	rpot					void																																																																																							0
+Trap Small Splashstone Maple Multi Stocker	1			100		202	1000		4	Perfect Small Splashstone	key	rpot	can8				void																																																																																							0
+Trap Medium Splashstone Maple Multi Stocker	1			100		202	1000		4	Perfect Medium Splashstone	key	rpot	can8				void																																																																																							0
+Trap Large Splashstone Maple Multi Stocker	1			100		202	1000		4	Perfect Large Splashstone	key	rpot	can8				void																																																																																							0
+Trap Huge Splashstone Maple Multi Stocker	1			100		202	1000		4	Perfect Huge Splashstone	key	rpot	can8				void																																																																																							0
 Maple Leaf: Unique Charm + Key + any rejuv pot	1			100					3	"char,uni"	key	rpot					map	99																												key																																																										0
 Randomize Stone	1			100					2	skc	key						"rnd,mag"	99																												key																																																										0
 Trap Token	1			100					3	tokn	rune	gem					void																																																																																							0
