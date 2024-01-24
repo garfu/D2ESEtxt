@@ -9,6 +9,6 @@ Clamp certain stats to 0 to avoid lazy recipe wonkiness with auras etc.
 Balancing:
 ----------
 
-Poison jav has stupid-high damage.
+Poison jav has stupid-high damage. FIXED
 
 
