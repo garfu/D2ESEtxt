@@ -1455,12 +1455,12 @@ M Armo Uniques			1						Nature's Bulwark	1	Enslaver	1	Infinite Thoughts	1	Endles
 M Trinket Uniques 1			1						The Other Ring	2	Layers of Abstraction	2	Tinkerer's Dream	1	Skirmisher's Mastery	1	Brawler's Mastery	1	Dweia's Revenge	1	Yagul's Bloody Rage	1	Smaqdoun's Painful Pride	1	BlackKnight's Holy Signet	1	The Cursed Donut	1				0
 M Trinket Uniques 2			1						The Mistress' Leather Collar	1	Plague's Last Arrowhead	1	Killjoy's Attitude	5	Yagul's Wrath	1	The Mad Celt's Shining Sparkly	1	The Tipsy Donut	1	BlackMage's Knucklebone	1	Killashandra Ree's Black C	1	Dfuzzz's Fingerguard	5						0
 M Trinkets Grouped			1						Nothing	200	M Trinket Uniques 1	1	M Trinket Uniques 2	1																		0
-M Uniques Tier 1	16	89	1						M Trinkets Grouped	1	M Focus Uniques	1	M 1H Uniques 1	1	M 1H Uniques 2	1	M 2H Uniques	1														0
-M Uniques Tier 2	16	90	1						M Trinkets Grouped	1	M Focus Uniques	1	M 1H Uniques 1	1	M 1H Uniques 2	1	M 2H Uniques	1	M Glove Uniques	1												0
-M Uniques Tier 3	16	91	1						M Trinkets Grouped	1	M Focus Uniques	1	M 1H Uniques 1	1	M 1H Uniques 2	1	M 2H Uniques	1	M Glove Uniques	1	M Helm Uniques	1										0
-M Uniques Tier 4	16	92	1						M Trinkets Grouped	1	M Focus Uniques	1	M 1H Uniques 1	1	M 1H Uniques 2	1	M 2H Uniques	1	M Glove Uniques	1	M Helm Uniques	1	M Boot Uniques	1								0
-M Uniques Tier 5	16	93	1						M Trinkets Grouped	1	M Focus Uniques	1	M 1H Uniques 1	1	M 1H Uniques 2	1	M 2H Uniques	1	M Glove Uniques	1	M Helm Uniques	1	M Boot Uniques	1	M Belt Uniques	1						0
-M Uniques Tier 6	16	94	1						M Trinkets Grouped	1	M Focus Uniques	1	M 1H Uniques 1	1	M 1H Uniques 2	1	M 2H Uniques	1	M Glove Uniques	1	M Helm Uniques	1	M Boot Uniques	1	M Belt Uniques	1	M Armo Uniques	1				0
+M Uniques Tier 1	16	89	1						Nothing	3	M Trinkets Grouped	1	M Focus Uniques	1	M 1H Uniques 1	1	M 1H Uniques 2	1	M 2H Uniques	1												0
+M Uniques Tier 2	16	90	1						Nothing	3	M Trinkets Grouped	1	M Focus Uniques	1	M 1H Uniques 1	1	M 1H Uniques 2	1	M 2H Uniques	1	M Glove Uniques	1										0
+M Uniques Tier 3	16	91	1						Nothing	3	M Trinkets Grouped	1	M Focus Uniques	1	M 1H Uniques 1	1	M 1H Uniques 2	1	M 2H Uniques	1	M Glove Uniques	1	M Helm Uniques	1								0
+M Uniques Tier 4	16	92	1						Nothing	3	M Trinkets Grouped	1	M Focus Uniques	1	M 1H Uniques 1	1	M 1H Uniques 2	1	M 2H Uniques	1	M Glove Uniques	1	M Helm Uniques	1	M Boot Uniques	1						0
+M Uniques Tier 5	16	93	1						Nothing	3	M Trinkets Grouped	1	M Focus Uniques	1	M 1H Uniques 1	1	M 1H Uniques 2	1	M 2H Uniques	1	M Glove Uniques	1	M Helm Uniques	1	M Boot Uniques	1	M Belt Uniques	1				0
+M Uniques Tier 6	16	94	1						Nothing	3	M Focus Uniques	1	M 1H Uniques 1	1	M 1H Uniques 2	1	M 2H Uniques	1	M Glove Uniques	1	M Helm Uniques	1	M Boot Uniques	1	M Belt Uniques	1	M Armo Uniques	1				0
 M Diabolic Tier 1	17	89	1						um1	98	up1	2																				0
 M Diabolic Tier 2	17	90	2						um1	97	up1	3																				0
 M Diabolic Tier 3	17	91	3						um1	96	up1	4																				0
