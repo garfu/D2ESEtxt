@@ -1515,12 +1515,12 @@ M Runes 16 Tier 3	25	91	1						r50	24	r46	30	33l	9	Runes 15	2000																
 M Runes 16 Tier 4	25	92	1						r50	32	r46	40	33l	12	Runes 15	1900																0
 M Runes 16 Tier 5	25	93	1						r50	40	r46	50	33l	15	Runes 15	1800																0
 M Runes 16 Tier 6	25	94	1						r50	48	r46	60	33l	18	Runes 15	1400																0
-M Pots Tier 1	26	89	1						Nothering	2	srj	1	sbs	1																		0
-M Pots Tier 2	26	90	1						Nothing	2	srj	1	sbs	1																		0
-M Pots Tier 3	26	91	2						Nothing	2	srj	1	sbs	1																		0
-M Pots Tier 4	26	92	2						Nothing	2	srj	1	sbs	1																		0
-M Pots Tier 5	26	93	3						Nothing	2	srj	1	sbs	1																		0
-M Pots Tier 6	26	94	4						Nothing	2	srj	1	sbs	1																		0
+M Pots Tier 1	26	89	1						Nothing	6	srj	1	sbs	1																		0
+M Pots Tier 2	26	90	1						Nothing	6	srj	1	sbs	1																		0
+M Pots Tier 3	26	91	2						Nothing	5	srj	1	sbs	1																		0
+M Pots Tier 4	26	92	2						Nothing	5	srj	1	sbs	1																		0
+M Pots Tier 5	26	93	3						Nothing	4	srj	1	sbs	1																		0
+M Pots Tier 6	26	94	4						Nothing	3	srj	1	sbs	1																		0
 M Boss Misc Tier 1	27	89	6					300	"gld,mul=6000"	300	M Uniques Tier 1	15	M Mats Tier 1	20	M Xtal Tier 1	20	M Runes 16 Tier 1	20	M Pots Tier 1	20												0
 M Boss Misc Tier 2	27	90	6					300	"gld,mul=8000"	300	M Uniques Tier 2	16	M Mats Tier 1	22	M Xtal Tier 1	22	M Runes 16 Tier 1	22	M Pots Tier 1	22												0
 M Boss Misc Tier 3	27	91	7					300	"gld,mul=10000"	300	M Uniques Tier 3	17	M Mats Tier 1	24	M Xtal Tier 1	24	M Runes 16 Tier 1	24	M Pots Tier 1	24												0
