@@ -1452,9 +1452,9 @@ M 1H Uniques 1			1						Formed Flame	1	Ice Bite	1	Thunderhead Gavel	1	Breath of 
 M 1H Uniques 2			1						Molten Fangs	1	Frozen Fangs	1	Arcing Fangs	1	Jaws of Nature	1	Mechanicus	1	Quills of Nature	1	The Cull	1										0
 M 2H Uniques			1						Reach of Nature	1	The Reaper's Beckoning	1	Torrent Of Nature	1	Death Spitter	1	Spine of the Balrog	1	Spine of The Ice Fiend	1	Spine of The Stormlord	1	Spine of The Rotting	1	Spine of The Dervish	1	Spine of The Unknowable	1				0
 M Armo Uniques			1						Nature's Bulwark	1	Enslaver	1	Infinite Thoughts	1	Endless Barrage	1	Perpetual Fury	1														0
-M Trinket Uniques 1			1						The Other Ring	5	Layers of Abstraction	5	Tinkerer's Dream	1	Skirmisher's Mastery	1	Brawler's Mastery	1	Dweia's Revenge	5	Yagul's Bloody Rage	5	Smaqdoun's Painful Pride	5	BlackKnight's Holy Signet	5	The Cursed Donut	5				0
-M Trinket Uniques 2			1						The Mistress' Leather Collar	5	Plague's Last Arrowhead	5	Killjoy's Attitude	5	Yagul's Wrath	5	The Mad Celt's Shining Sparkly	5	The Tipsy Donut	5	BlackMage's Knucklebone	5	Killashandra Ree's Black C	5	Dfuzzz's Fingerguard	5						0
-M Trinkets Grouped			1						Nothing	100	M Trinket Uniques 1	1	M Trinket Uniques 2	1																		0
+M Trinket Uniques 1			1						The Other Ring	2	Layers of Abstraction	2	Tinkerer's Dream	1	Skirmisher's Mastery	1	Brawler's Mastery	1	Dweia's Revenge	1	Yagul's Bloody Rage	1	Smaqdoun's Painful Pride	1	BlackKnight's Holy Signet	1	The Cursed Donut	1				0
+M Trinket Uniques 2			1						The Mistress' Leather Collar	1	Plague's Last Arrowhead	1	Killjoy's Attitude	5	Yagul's Wrath	1	The Mad Celt's Shining Sparkly	1	The Tipsy Donut	1	BlackMage's Knucklebone	1	Killashandra Ree's Black C	1	Dfuzzz's Fingerguard	5						0
+M Trinkets Grouped			1						Nothing	200	M Trinket Uniques 1	1	M Trinket Uniques 2	1																		0
 M Uniques Tier 1	16	89	1						M Trinkets Grouped	1	M Focus Uniques	1	M 1H Uniques 1	1	M 1H Uniques 2	1	M 2H Uniques	1														0
 M Uniques Tier 2	16	90	1						M Trinkets Grouped	1	M Focus Uniques	1	M 1H Uniques 1	1	M 1H Uniques 2	1	M 2H Uniques	1	M Glove Uniques	1												0
 M Uniques Tier 3	16	91	1						M Trinkets Grouped	1	M Focus Uniques	1	M 1H Uniques 1	1	M 1H Uniques 2	1	M 2H Uniques	1	M Glove Uniques	1	M Helm Uniques	1										0
@@ -1515,24 +1515,24 @@ M Runes 16 Tier 3	25	91	1						r50	24	r46	30	33l	9	Runes 15	2000																
 M Runes 16 Tier 4	25	92	1						r50	32	r46	40	33l	12	Runes 15	1900																0
 M Runes 16 Tier 5	25	93	1						r50	40	r46	50	33l	15	Runes 15	1800																0
 M Runes 16 Tier 6	25	94	1						r50	48	r46	60	33l	18	Runes 15	1400																0
-M Pots Tier 1	26	89	1						srj	1	sbs	1																				0
-M Pots Tier 2	26	90	1						srj	1	sbs	1																				0
-M Pots Tier 3	26	91	2						srj	1	sbs	1																				0
-M Pots Tier 4	26	92	2						srj	1	sbs	1																				0
-M Pots Tier 5	26	93	3						srj	1	sbs	1																				0
-M Pots Tier 6	26	94	4						srj	1	sbs	1																				0
+M Pots Tier 1	26	89	1						Nothering	2	srj	1	sbs	1																		0
+M Pots Tier 2	26	90	1						Nothing	2	srj	1	sbs	1																		0
+M Pots Tier 3	26	91	2						Nothing	2	srj	1	sbs	1																		0
+M Pots Tier 4	26	92	2						Nothing	2	srj	1	sbs	1																		0
+M Pots Tier 5	26	93	3						Nothing	2	srj	1	sbs	1																		0
+M Pots Tier 6	26	94	4						Nothing	2	srj	1	sbs	1																		0
 M Boss Misc Tier 1	27	89	6					300	"gld,mul=6000"	300	M Uniques Tier 1	15	M Mats Tier 1	20	M Xtal Tier 1	20	M Runes 16 Tier 1	20	M Pots Tier 1	20												0
 M Boss Misc Tier 2	27	90	6					300	"gld,mul=8000"	300	M Uniques Tier 2	16	M Mats Tier 1	22	M Xtal Tier 1	22	M Runes 16 Tier 1	22	M Pots Tier 1	22												0
 M Boss Misc Tier 3	27	91	7					300	"gld,mul=10000"	300	M Uniques Tier 3	17	M Mats Tier 1	24	M Xtal Tier 1	24	M Runes 16 Tier 1	24	M Pots Tier 1	24												0
 M Boss Misc Tier 4	27	92	7					300	"gld,mul=12000"	300	M Uniques Tier 4	18	M Mats Tier 1	26	M Xtal Tier 1	26	M Runes 16 Tier 1	26	M Pots Tier 1	26												0
 M Boss Misc Tier 5	27	93	8					300	"gld,mul=16000"	300	M Uniques Tier 5	19	M Mats Tier 1	28	M Xtal Tier 1	28	M Runes 16 Tier 1	28	M Pots Tier 1	28												0
 M Boss Misc Tier 6	27	94	9					300	"gld,mul=24000"	300	M Uniques Tier 6	20	M Mats Tier 1	30	M Xtal Tier 1	30	M Runes 16 Tier 1	30	M Pots Tier 1	30												0
-M Monster Tier 1	28	89	4					600	Nothing	1000	"gld,mul=1024"	400	M Trinkets Grouped	1	M Mats Tier 1	4	M Xtal Tier 1	4	M Runes 16 Tier 1	3	M Pots Tier 1	2	Scrolls 17	3								0
-M Monster Tier 2	28	90	4					600	Nothing	950	"gld,mul=1280"	380	M Uniques Tier 1	1	M Mats Tier 1	9	M Xtal Tier 1	8	M Runes 16 Tier 1	8	M Pots Tier 1	8	Scrolls 17	7								0
-M Monster Tier 3	28	91	5					600	Nothing	950	"gld,mul=1536"	360	M Uniques Tier 2	1	M Mats Tier 1	10	M Xtal Tier 1	9	M Runes 16 Tier 1	9	M Pots Tier 1	9	Scrolls 17	6								0
-M Monster Tier 4	28	92	5					600	Nothing	900	"gld,mul=1792"	340	M Uniques Tier 3	2	M Mats Tier 1	11	M Xtal Tier 1	9	M Runes 16 Tier 1	10	M Pots Tier 1	10	Scrolls 17	5								0
-M Monster Tier 5	28	93	6					600	Nothing	900	"gld,mul=2048"	320	M Uniques Tier 4	2	M Mats Tier 1	12	M Xtal Tier 1	10	M Runes 16 Tier 1	11	M Pots Tier 1	11	Scrolls 17	4								0
-M Monster Tier 6	28	94	7					600	Nothing	850	"gld,mul=2304"	300	M Uniques Tier 5	3	M Mats Tier 1	13	M Xtal Tier 1	11	M Runes 16 Tier 1	12	M Pots Tier 1	12	Scrolls 17	4								0
+M Monster Tier 1	28	89	4					600	Nothing	1200	"gld,mul=1024"	400	M Trinkets Grouped	1	M Mats Tier 1	5	M Xtal Tier 1	5	M Runes 16 Tier 1	3	M Pots Tier 1	2	Scrolls 17	3								0
+M Monster Tier 2	28	90	4					600	Nothing	1000	"gld,mul=1280"	380	M Uniques Tier 1	1	M Mats Tier 1	9	M Xtal Tier 1	8	M Runes 16 Tier 1	8	M Pots Tier 1	2	Scrolls 17	3								0
+M Monster Tier 3	28	91	5					600	Nothing	1000	"gld,mul=1536"	360	M Uniques Tier 2	1	M Mats Tier 1	10	M Xtal Tier 1	9	M Runes 16 Tier 1	9	M Pots Tier 1	2	Scrolls 17	3								0
+M Monster Tier 4	28	92	5					600	Nothing	950	"gld,mul=1792"	340	M Uniques Tier 3	2	M Mats Tier 1	11	M Xtal Tier 1	9	M Runes 16 Tier 1	10	M Pots Tier 1	3	Scrolls 17	3								0
+M Monster Tier 5	28	93	6					600	Nothing	950	"gld,mul=2048"	320	M Uniques Tier 4	2	M Mats Tier 1	12	M Xtal Tier 1	10	M Runes 16 Tier 1	11	M Pots Tier 1	3	Scrolls 17	3								0
+M Monster Tier 6	28	94	7					600	Nothing	900	"gld,mul=2304"	300	M Uniques Tier 5	2	M Mats Tier 1	13	M Xtal Tier 1	11	M Runes 16 Tier 1	12	M Pots Tier 1	4	Scrolls 17	3								0
 M Summoner Tier 1	29	89	-2						M Convoking Tier 1	1	M Boss Misc Tier 1	1																				0
 M Summoner Tier 2	29	90	-2						M Convoking Tier 2	1	M Boss Misc Tier 2	1																				0
 M Summoner Tier 3	29	91	-2						M Convoking Tier 3	1	M Boss Misc Tier 3	1																				0
