@@ -4979,11 +4979,11 @@ Conv Item Tinkering Adds Max Dam 1: Equipment + GriswConv's Hand	0			100	18	464	
 Conv Item Tinkering Adds Min Dam 1: Equipment + Hephasto's Hand	0			100	18	464	0		2	"armo,any"	00h						useitem				mana			3	3	mana-kill			1	1																																																																										0
 Conv Item Tinkering Adds vsD Dam 5%: Equipment + Treehead Woodfist's Arm	0			100	18	464	0		2	"armo,any"	00t						useitem				dmg-demon			9	9	dmg-undead			9	9																																																																										0
 Conv Item Tinkering Adds VsU Dam 5%: Equipment + Radament's Head	0			100	18	464	0		2	"armo,any"	00r						useitem				hp			3	3	heal-kill			1	1																																																																										0
-Frozen Soul + Shadow Quartz > Griswolds Hand	1			100					6	"xr0,qty=3"	"xr1,qty=3"						00g																																																																																							0
+Frozen Soul + Shadow Quartz > Griswolds Hand	0			100					6	"xr0,qty=3"	"xr1,qty=3"						00g																																																																																							0
 Frozen Soul + Shadow Quartz > Heart	1			100					2	xr0	xr1						hrt																																																																																							0
-Bleeding Stone + Burning Sukphur > Treehead woodfist arm	1			100					6	"xr2,qty=3"	"xr3,qty=3"						00t																																																																																							0
-Dark Azurite + Bitter Peridot + PO + EC  > Radament's Head	1			100					8	"xr4,qty=2"	"xr5,qty=2"	"xr6,qty=2"	"xr7,qty=2"				00r																																																																																							0
-TJ + SM + SA + TT	1			100					8	"xr8,qty=2"	"xr9,qty=2"	"xrx,qty=2"	"xry,qty=2"				00h																																																																																							0
+Bleeding Stone + Burning Sukphur > Treehead woodfist arm	0			100					6	"xr2,qty=3"	"xr3,qty=3"						00t																																																																																							0
+Dark Azurite + Bitter Peridot + PO + EC  > Radament's Head	0			100					8	"xr4,qty=2"	"xr5,qty=2"	"xr6,qty=2"	"xr7,qty=2"				00r																																																																																							0
+TJ + SM + SA + TT	0			100					8	"xr8,qty=2"	"xr9,qty=2"	"xrx,qty=2"	"xry,qty=2"				00h																																																																																							0
 Tinkering Adds Life +1: Equipment + 3 Hearts	1			100					2	"weap,any"	hrt						useitem				hp			2	2																																																																															0
 Tinkering Adds Mana +1: Equipment + 3 Souls	1			100					2	"weap,any"	sol						useitem				mana			2	2																																																																															0
 Tinkering Adds Fdam 1-3: Equipment + Fang	1			100	16	48	500		2	"weap,any"	fng						useitem				dmg-fire			3	9																																																																															0
