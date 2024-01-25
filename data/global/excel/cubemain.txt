@@ -4684,7 +4684,7 @@ BM + Any Armor + key	1			100	16	114	149		3	armo	eee	key					useitem				levelreq	
 HS + Any Armor + key	1			100	15	91	-100		3	armo	hly	key					useitem				levelreq			4	4	dmgpct			10	10																key																																																										0
 CG + Any Armor + key	1			100					3	armo	ggg	key					useitem				levelreq			4	4	mana			16	16																key																																																										0
 BM + Any Armor + vps	1			100	15	89	-4		3	armo	eee	vps					useitem				levelreq			4	4	light			-2	-2																vps																																																										0
-HS + Any Armor + vps	1			100	16	89	10		3	armo	hly	vps					useitem				levelreq			4	4	light			2	2																vps																																																										0
+HS + Any Armor + vps	1			100	16	36	99		3	armo	hly	vps					useitem				levelreq			4	4	red-dmg%			2	2																vps																																																										0
 SS + Any Amulet	1			100	16	156	99		2	amul	sss						useitem				levelreq			4	4	pierce			3	3																																																																										0
 DS + Any Amulet	1			100	16	141	99		2	amul	ppp						useitem				levelreq			4	4	deadly			3	3																																																																										0
 FH + Any Amulet	1			100	16	136	99		2	amul	hh2						useitem				levelreq			4	4	fasterattackanim		3	3																																																																										0	0
@@ -4740,186 +4740,186 @@ Trap Too High Req Lvl	0			100	15	92	55		5	"weap,eli"	gem5	"ddd,qty=3"					void		
 Trap Too High Req Lvl	0			100	15	92	99		5	"armo,bas"	gem5	"ddd,qty=3"					void																																																																																							0
 Trap Too High Req Lvl	0			100	15	92	78		5	"armo,exc"	gem5	"ddd,qty=3"					void																																																																																							0
 Trap Too High Req Lvl	0			100	15	92	55		5	"armo,eli"	gem5	"ddd,qty=3"					void																																																																																							0
-P-Eme + Any Wand + 3 ddd	1			100	16	2	199		5	wand	ggb	"ddd,qty=3"					useitem				levelreq			2	2	dex			4	4	att%			2	2	move1			2	2																																																																0
-P-Eme + Any Wand + 3 ddd	1			100	16	119	499		3	wand	ggb	ddd					useitem				levelreq			2	2	dex			4	4	att%			2	2	move1			2	2																																																																0
-P-Eme + Any Wand + 3 ddd	1			100	16	96	119		3	wand	ggb	ddd					useitem				levelreq			2	2	dex			4	4	att%			2	2	move1			2	2																																																																0
-P-Rub + Any Wand + 3 ddd	1			100	16	141	99		3	wand	grb	ddd					useitem				levelreq			2	2	hp			10	10	deadly			2	2	balance1			2	2																																																																0
-P-Rub + Any Wand + 3 ddd	1			100	16	99	119		3	wand	grb	ddd					useitem				levelreq			2	2	hp			10	10	deadly			2	2	balance1			2	2																																																																0
-P-Sku + Any Wand + 3 ddd	1			100	16	74	59		3	wand	skb	ddd					useitem				levelreq			2	2	regen			3	3	regen-mana			5	5	move1			2	2																																																																0
-P-Sku + Any Wand + 3 ddd	1			100	16	27	399		3	wand	skb	ddd					useitem				levelreq			2	2	regen			3	3	regen-mana			5	5	move1			2	2																																																																0
-P-Sku + Any Wand + 3 ddd	1			100	16	96	119		3	wand	skb	ddd					useitem				levelreq			2	2	regen			3	3	regen-mana			5	5	move1			2	2																																																																0
-P-Ame + Any Wand + 3 ddd	1			100	16	0	199		3	wand	gvb	ddd					useitem				levelreq			2	2	str			4	4	red-dmg			1	1																																																																					0
-P-Ame + Any Wand + 3 ddd	1			100	16	34	39		3	wand	gvb	ddd					useitem				levelreq			2	2	str			4	4	red-dmg			1	1																																																																					0
-P-Sap + Any Wand + 3 ddd	1			100	16	105	119		3	wand	gbb	ddd					useitem				levelreq			2	2	mana			10	10	cast1			2	2	mana%			1	1																																																																0
-P-Sap + Any Wand + 3 ddd	1			100	16	77	59		3	wand	gbb	ddd					useitem				levelreq			2	2	mana			10	10	cast1			2	2	mana%			1	1																																																																0
-P-Dia + Any Wand + 3 ddd	1			100	16	31	2999		3	wand	gwb	ddd					useitem				levelreq			2	2	ac			20	20	fasterattackanim		2	2	reduce-ac			3	3																																																																0	0
-P-Dia + Any Wand + 3 ddd	1			100	16	60	59		3	wand	gwb	ddd					useitem				levelreq			2	2	ac			20	20	fasterattackanim		2	2	reduce-ac			3	3																																																																0	0
-P-Dia + Any Wand + 3 ddd	1			100	16	116	99		3	wand	gwb	ddd					useitem				levelreq			2	2	ac			20	20	fasterattackanim		2	2	reduce-ac			3	3																																																																0	0
-P-Top + Any Wand + 3 ddd	1			100	16	80	399		3	wand	gyb	ddd					useitem				levelreq			2	2	mag%			10	10	gold%			10	10																																																																					0
-P-Top + Any Wand + 3 ddd	1			100	16	79	399		3	wand	gyb	ddd					useitem				levelreq			2	2	mag%			10	10	gold%			10	10																																																																					0
-P-Obs + Any Wand + 3 ddd	1			100	16	93	119		3	wand	gbk	ddd					useitem				levelreq			2	2	swing1			4	4	res-all			1	1																																																																					0
-P-Obs + Any Wand + 3 ddd	1			100	16	39	149		3	wand	gbk	ddd					useitem				levelreq			2	2	swing1			4	4	res-all			1	1																																																																					0
-P-Obs + Any Wand + 3 ddd	1			100	16	41	149		3	wand	gbk	ddd					useitem				levelreq			2	2	swing1			4	4	res-all			1	1																																																																					0
-P-Obs + Any Wand + 3 ddd	1			100	16	43	149		3	wand	gbk	ddd					useitem				levelreq			2	2	swing1			4	4	res-all			1	1																																																																					0
-P-Obs + Any Wand + 3 ddd	1			100	16	45	149		3	wand	gbk	ddd					useitem				levelreq			2	2	swing1			4	4	res-all			1	1																																																																					0
-P-Eme + Any Staff + 3 ddd	1			100	16	2	199		3	staf	ggb	ddd					useitem				levelreq			2	2	dex			4	4	att%			2	2	move1			2	2																																																																0
-P-Eme + Any Staff + 3 ddd	1			100	16	119	499		3	staf	ggb	ddd					useitem				levelreq			2	2	dex			4	4	att%			2	2	move1			2	2																																																																0
-P-Eme + Any Staff + 3 ddd	1			100	16	96	119		3	staf	ggb	ddd					useitem				levelreq			2	2	dex			4	4	att%			2	2	move1			2	2																																																																0
-P-Rub + Any Staff + 3 ddd	1			100	16	141	99		3	staf	grb	ddd					useitem				levelreq			2	2	hp			10	10	deadly			2	2	balance1			2	2																																																																0
-P-Rub + Any Staff + 3 ddd	1			100	16	99	119		3	staf	grb	ddd					useitem				levelreq			2	2	hp			10	10	deadly			2	2	balance1			2	2																																																																0
-P-Sku + Any Staff + 3 ddd	1			100	16	74	59		3	staf	skb	ddd					useitem				levelreq			2	2	regen			3	3	regen-mana			5	5	move1			2	2																																																																0
-P-Sku + Any Staff + 3 ddd	1			100	16	27	399		3	staf	skb	ddd					useitem				levelreq			2	2	regen			3	3	regen-mana			5	5	move1			2	2																																																																0
-P-Sku + Any Staff + 3 ddd	1			100	16	96	119		3	staf	skb	ddd					useitem				levelreq			2	2	regen			3	3	regen-mana			5	5	move1			2	2																																																																0
-P-Ame + Any Staff + 3 ddd	1			100	16	0	199		3	staf	gvb	ddd					useitem				levelreq			2	2	str			4	4	red-dmg			1	1																																																																					0
-P-Ame + Any Staff + 3 ddd	1			100	16	34	39		3	staf	gvb	ddd					useitem				levelreq			2	2	str			4	4	red-dmg			1	1																																																																					0
-P-Sap + Any Staff + 3 ddd	1			100	16	105	119		3	staf	gbb	ddd					useitem				levelreq			2	2	mana			10	10	cast1			2	2	mana%			1	1																																																																0
-P-Sap + Any Staff + 3 ddd	1			100	16	77	59		3	staf	gbb	ddd					useitem				levelreq			2	2	mana			10	10	cast1			2	2	mana%			1	1																																																																0
-P-Dia + Any Staff + 3 ddd	1			100	16	31	2999		3	staf	gwb	ddd					useitem				levelreq			2	2	ac			20	20	fasterattackanim		2	2	reduce-ac			3	3																																																																0	0
-P-Dia + Any Staff + 3 ddd	1			100	16	60	59		3	staf	gwb	ddd					useitem				levelreq			2	2	ac			20	20	fasterattackanim		2	2	reduce-ac			3	3																																																																0	0
-P-Dia + Any Staff + 3 ddd	1			100	16	116	99		3	staf	gwb	ddd					useitem				levelreq			2	2	ac			20	20	fasterattackanim		2	2	reduce-ac			3	3																																																																0	0
-P-Top + Any Staff + 3 ddd	1			100	16	80	799		3	staf	gyb	ddd					useitem				levelreq			2	2	mag%			5	5	gold%			5	5																																																																					0
-P-Top + Any Staff + 3 ddd	1			100	16	79	799		3	staf	gyb	ddd					useitem				levelreq			2	2	mag%			5	5	gold%			5	5																																																																					0
-P-Obs + Any Staff + 3 ddd	1			100	16	93	119		3	staf	gbk	ddd					useitem				levelreq			2	2	swing1			4	4	res-all			1	1																																																																					0
-P-Obs + Any Staff + 3 ddd	1			100	16	39	149		3	staf	gbk	ddd					useitem				levelreq			2	2	swing1			4	4	res-all			1	1																																																																					0
-P-Obs + Any Staff + 3 ddd	1			100	16	41	149		3	staf	gbk	ddd					useitem				levelreq			2	2	swing1			4	4	res-all			1	1																																																																					0
-P-Obs + Any Staff + 3 ddd	1			100	16	43	149		3	staf	gbk	ddd					useitem				levelreq			2	2	swing1			4	4	res-all			1	1																																																																					0
-P-Obs + Any Staff + 3 ddd	1			100	16	45	149		3	staf	gbk	ddd					useitem				levelreq			2	2	swing1			4	4	res-all			1	1																																																																					0
-P-Eme + Any Weapon + 3 ddd	1			100	16	57	1022		3	weap	ggb	ddd					useitem				levelreq			2	2	dmg-pois		50	103	103	openwounds			3	3																																																																					0
-P-Eme + Any Weapon + 3 ddd	1			100	16	59	510		3	weap	ggb	ddd					useitem				levelreq			2	2	dmg-pois		50	103	103	openwounds			3	3																																																																					0
-P-Eme + Any Weapon + 3 ddd	1			100	16	135	99		3	weap	ggb	ddd					useitem				levelreq			2	2	dmg-pois		50	103	103	openwounds			3	3																																																																					0
-P-Rub + Any Weapon + 3 ddd	1			100	16	48	1022		3	weap	grb	ddd					useitem				levelreq			2	2	dmg-fire			4	10	heal-kill			2	2	dmg-demon			10	10																																																																0
-P-Rub + Any Weapon + 3 ddd	1			100	16	86	59		3	weap	grb	ddd					useitem				levelreq			2	2	dmg-fire			4	10	heal-kill			2	2	dmg-demon			10	10																																																																0
-P-Rub + Any Weapon + 3 ddd	1			100	16	121	499		3	weap	grb	ddd					useitem				levelreq			2	2	dmg-fire			4	10	heal-kill			2	2	dmg-demon			10	10																																																																0
-P-Sku + Any Weapon + 3 ddd	1			100	16	62	59		3	weap	skb	ddd					useitem				levelreq			2	2	manasteal			1	1	lifesteal			1	1	dmg-max			1	1																																																																0
-P-Sku + Any Weapon + 3 ddd	1			100	16	60	59		3	weap	skb	ddd					useitem				levelreq			2	2	manasteal			1	1	lifesteal			1	1	dmg-max			1	1																																																																0
-P-Sku + Any Weapon + 3 ddd	1			100	16	22	254		3	weap	skb	ddd					useitem				levelreq			2	2	manasteal			1	1	lifesteal			1	1	dmg-max			1	1																																																																0
-P-Ame + Any Weapon + 3 ddd	1			100	16	19	1999		3	weap	gvb	ddd					useitem				levelreq			2	2	att			30	30	swing1			4	4	ease			-2	-2																																																																0
-P-Ame + Any Weapon + 3 ddd	1			100	16	93	119		3	weap	gvb	ddd					useitem				levelreq			2	2	att			30	30	swing1			4	4	ease			-2	-2																																																																0
-P-Ame + Any Weapon + 3 ddd	1			100	15	91	-100		3	weap	gvb	ddd					useitem				levelreq			2	2	att			30	30	swing1			4	4	ease			-2	-2																																																																0
-P-Sap + Any Weapon + 3 ddd	1			100	16	54	1022		3	weap	gbb	ddd					useitem				levelreq			2	2	dmg-cold		20	3	8	mana-kill			1	1	deadly			2	2																																																																0
-P-Sap + Any Weapon + 3 ddd	1			100	16	56	254		3	weap	gbb	ddd					useitem				levelreq			2	2	dmg-cold		20	3	8	mana-kill			1	1	deadly			2	2																																																																0
-P-Sap + Any Weapon + 3 ddd	1			100	16	138	59		3	weap	gbb	ddd					useitem				levelreq			2	2	dmg-cold		20	3	8	mana-kill			1	1	deadly			2	2																																																																0
-P-Sap + Any Weapon + 3 ddd	1			100	16	141	99		3	weap	gbb	ddd					useitem				levelreq			2	2	dmg-cold		20	3	8	mana-kill			1	1	deadly			2	2																																																																0
-P-Dia + Any Weapon + 3 ddd	1			100	16	21	99		3	weap	gwb	ddd					useitem				levelreq			2	2	dmg-min			2	2	dmg-mag			3	4	dmg-undead			10	10																																																																0
-P-Dia + Any Weapon + 3 ddd	1			100	16	52	1022		3	weap	gwb	ddd					useitem				levelreq			2	2	dmg-min			2	2	dmg-mag			3	4	dmg-undead			10	10																																																																0
-P-Dia + Any Weapon + 3 ddd	1			100	16	122	499		3	weap	gwb	ddd					useitem				levelreq			2	2	dmg-min			2	2	dmg-mag			3	4	dmg-undead			10	10																																																																0
-P-Top + Any Weapon + 3 ddd	1			100	16	50	1022		3	weap	gyb	ddd					useitem				levelreq			2	2	dmg-ltng			1	15	slow			2	2	light-thorns			5	5																																																																0
-P-Top + Any Weapon + 3 ddd	1			100	16	150	99		3	weap	gyb	ddd					useitem				levelreq			2	2	dmg-ltng			1	15	slow			2	2	light-thorns			5	5																																																																0
-P-Top + Any Weapon + 3 ddd	1			100	16	128	1022		3	weap	gyb	ddd					useitem				levelreq			2	2	dmg-ltng			1	15	slow			2	2	light-thorns			5	5																																																																0
-P-Obs + Any Weapon + 3 ddd	1			100	16	18	899		3	weap	gbk	ddd					useitem				levelreq			2	2	dmgpct			9	9	deadly			1	1																																																																					0
-P-Obs + Any Weapon + 3 ddd	1			100	16	141	99		3	weap	gbk	ddd					useitem				levelreq			2	2	dmgpct			9	9	deadly			1	1																																																																					0
-P-Eme + Any Gloves + 3 ddd	1			100	16	57	1022		3	glov	ggb	ddd					useitem				meldflag			1	1	levelreq			2	2	dmg-pois		50	103	103	openwounds			3	3																																																																0
-P-Eme + Any Gloves + 3 ddd	1			100	16	59	510		3	glov	ggb	ddd					useitem				meldflag			1	1	levelreq			2	2	dmg-pois		50	103	103	openwounds			3	3																																																																0
-P-Eme + Any Gloves + 3 ddd	1			100	16	135	99		3	glov	ggb	ddd					useitem				meldflag			1	1	levelreq			2	2	dmg-pois		50	103	103	openwounds			3	3																																																																0
-P-Rub + Any Gloves + 3 ddd	1			100	16	48	1022		3	glov	grb	ddd					useitem				meldflag			1	1	levelreq			2	2	dmg-fire			4	10	heal-kill			2	2	dmg-demon			10	10																																																											0
-P-Rub + Any Gloves + 3 ddd	1			100	16	86	59		3	glov	grb	ddd					useitem				meldflag			1	1	levelreq			2	2	dmg-fire			4	10	heal-kill			2	2	dmg-demon			10	10																																																											0
-P-Rub + Any Gloves + 3 ddd	1			100	16	121	499		3	glov	grb	ddd					useitem				meldflag			1	1	levelreq			2	2	dmg-fire			4	10	heal-kill			2	2	dmg-demon			10	10																																																											0
-P-Sku + Any Gloves + 3 ddd	1			100	16	62	59		3	glov	skb	ddd					useitem				meldflag			1	1	levelreq			2	2	manasteal			1	1	lifesteal			1	1	dmg-max			1	1																																																											0
-P-Sku + Any Gloves + 3 ddd	1			100	16	60	59		3	glov	skb	ddd					useitem				meldflag			1	1	levelreq			2	2	manasteal			1	1	lifesteal			1	1	dmg-max			1	1																																																											0
-P-Sku + Any Gloves + 3 ddd	1			100	16	22	254		3	glov	skb	ddd					useitem				meldflag			1	1	levelreq			2	2	manasteal			1	1	lifesteal			1	1	dmg-max			1	1																																																											0
-P-Ame + Any Gloves + 3 ddd	1			100	16	19	1999		3	glov	gvb	ddd					useitem				meldflag			1	1	levelreq			2	2	att			30	30	swing1			4	4	ease			-2	-2																																																											0
-P-Ame + Any Gloves + 3 ddd	1			100	16	93	119		3	glov	gvb	ddd					useitem				meldflag			1	1	levelreq			2	2	att			30	30	swing1			4	4	ease			-2	-2																																																											0
-P-Ame + Any Gloves + 3 ddd	1			100	15	91	-100		3	glov	gvb	ddd					useitem				meldflag			1	1	levelreq			2	2	att			30	30	swing1			4	4	ease			-2	-2																																																											0
-P-Sap + Any Gloves + 3 ddd	1			100	16	54	1022		3	glov	gbb	ddd					useitem				meldflag			1	1	levelreq			2	2	dmg-cold		20	3	8	mana-kill			1	1	deadly			2	2																																																											0
-P-Sap + Any Gloves + 3 ddd	1			100	16	56	254		3	glov	gbb	ddd					useitem				meldflag			1	1	levelreq			2	2	dmg-cold		20	3	8	mana-kill			1	1	deadly			2	2																																																											0
-P-Sap + Any Gloves + 3 ddd	1			100	16	138	59		3	glov	gbb	ddd					useitem				meldflag			1	1	levelreq			2	2	dmg-cold		20	3	8	mana-kill			1	1	deadly			2	2																																																											0
-P-Sap + Any Gloves + 3 ddd	1			100	16	141	99		3	glov	gbb	ddd					useitem				meldflag			1	1	levelreq			2	2	dmg-cold		20	3	8	mana-kill			1	1	deadly			2	2																																																											0
-P-Dia + Any Gloves + 3 ddd	1			100	16	21	99		3	glov	gwb	ddd					useitem				meldflag			1	1	levelreq			2	2	dmg-min			2	2	dmg-mag			3	4	dmg-undead			10	10																																																											0
-P-Dia + Any Gloves + 3 ddd	1			100	16	52	1022		3	glov	gwb	ddd					useitem				meldflag			1	1	levelreq			2	2	dmg-min			2	2	dmg-mag			3	4	dmg-undead			10	10																																																											0
-P-Dia + Any Gloves + 3 ddd	1			100	16	122	499		3	glov	gwb	ddd					useitem				meldflag			1	1	levelreq			2	2	dmg-min			2	2	dmg-mag			3	4	dmg-undead			10	10																																																											0
-P-Top + Any Gloves + 3 ddd	1			100	16	50	1022		3	glov	gyb	ddd					useitem				meldflag			1	1	levelreq			2	2	dmg-ltng			1	15	slow			2	2	light-thorns			5	5																																																											0
-P-Top + Any Gloves + 3 ddd	1			100	16	150	99		3	glov	gyb	ddd					useitem				meldflag			1	1	levelreq			2	2	dmg-ltng			1	15	slow			2	2	light-thorns			5	5																																																											0
-P-Top + Any Gloves + 3 ddd	1			100	16	128	1022		3	glov	gyb	ddd					useitem				meldflag			1	1	levelreq			2	2	dmg-ltng			1	15	slow			2	2	light-thorns			5	5																																																											0
-P-Obs + Any Gloves + 3 ddd	1			100	16	18	899		3	glov	gbk	ddd					useitem				meldflag			1	1	levelreq			2	2	dmgpct			9	9	deadly			1	1																																																																0
-P-Obs + Any Gloves + 3 ddd	1			100	16	141	99		3	glov	gbk	ddd					useitem				meldflag			1	1	levelreq			2	2	dmgpct			9	9	deadly			1	1																																																																0
-P-Eme + Any Helm + 3 ddd	1			100	16	2	199		3	helm	ggb	ddd					useitem				levelreq			2	2	dex			4	4	att%			2	2	move1			2	2																																																																0
-P-Eme + Any Helm + 3 ddd	1			100	16	119	499		3	helm	ggb	ddd					useitem				levelreq			2	2	dex			4	4	att%			2	2	move1			2	2																																																																0
-P-Eme + Any Helm + 3 ddd	1			100	16	96	119		3	helm	ggb	ddd					useitem				levelreq			2	2	dex			4	4	att%			2	2	move1			2	2																																																																0
-P-Rub + Any Helm + 3 ddd	1			100	16	141	99		3	helm	grb	ddd					useitem				levelreq			2	2	hp			10	10	deadly			2	2	balance1			2	2																																																																0
-P-Rub + Any Helm + 3 ddd	1			100	16	99	119		3	helm	grb	ddd					useitem				levelreq			2	2	hp			10	10	deadly			2	2	balance1			2	2																																																																0
-P-Sku + Any Helm + 3 ddd	1			100	16	74	59		3	helm	skb	ddd					useitem				levelreq			2	2	regen			3	3	regen-mana			5	5	move1			2	2																																																																0
-P-Sku + Any Helm + 3 ddd	1			100	16	27	399		3	helm	skb	ddd					useitem				levelreq			2	2	regen			3	3	regen-mana			5	5	move1			2	2																																																																0
-P-Sku + Any Helm + 3 ddd	1			100	16	96	119		3	helm	skb	ddd					useitem				levelreq			2	2	regen			3	3	regen-mana			5	5	move1			2	2																																																																0
-P-Ame + Any Helm + 3 ddd	1			100	16	0	199		3	helm	gvb	ddd					useitem				levelreq			2	2	str			4	4	red-dmg			1	1																																																																					0
-P-Ame + Any Helm + 3 ddd	1			100	16	34	39		3	helm	gvb	ddd					useitem				levelreq			2	2	str			4	4	red-dmg			1	1																																																																					0
-P-Sap + Any Helm + 3 ddd	1			100	16	105	119		3	helm	gbb	ddd					useitem				levelreq			2	2	mana			10	10	cast1			2	2	mana%			1	1																																																																0
-P-Sap + Any Helm + 3 ddd	1			100	16	77	59		3	helm	gbb	ddd					useitem				levelreq			2	2	mana			10	10	cast1			2	2	mana%			1	1																																																																0
-P-Dia + Any Helm + 3 ddd	1			100	16	31	2999		3	helm	gwb	ddd					useitem				levelreq			2	2	ac			20	20	fasterattackanim		2	2	reduce-ac			3	3																																																																0	0
-P-Dia + Any Helm + 3 ddd	1			100	16	60	59		3	helm	gwb	ddd					useitem				levelreq			2	2	ac			20	20	fasterattackanim		2	2	reduce-ac			3	3																																																																0	0
-P-Dia + Any Helm + 3 ddd	1			100	16	116	99		3	helm	gwb	ddd					useitem				levelreq			2	2	ac			20	20	fasterattackanim		2	2	reduce-ac			3	3																																																																0	0
-P-Top + Any Helm + 3 ddd	1			100	16	80	799		3	helm	gyb	ddd					useitem				levelreq			2	2	gold%			10	10																																																																										0
-P-Top + Any Helm + 3 ddd	1			100	16	79	799		3	helm	gyb	ddd					useitem				levelreq			2	2	gold%			10	10																																																																										0
-P-Obs + Any Helm + 3 ddd	1			100	16	93	119		3	helm	gbk	ddd					useitem				levelreq			2	2	swing1			4	4	res-all			1	1																																																																					0
-P-Obs + Any Helm + 3 ddd	1			100	16	39	149		3	helm	gbk	ddd					useitem				levelreq			2	2	swing1			4	4	res-all			1	1																																																																					0
-P-Obs + Any Helm + 3 ddd	1			100	16	41	149		3	helm	gbk	ddd					useitem				levelreq			2	2	swing1			4	4	res-all			1	1																																																																					0
-P-Obs + Any Helm + 3 ddd	1			100	16	43	149		3	helm	gbk	ddd					useitem				levelreq			2	2	swing1			4	4	res-all			1	1																																																																					0
-P-Obs + Any Helm + 3 ddd	1			100	16	45	149		3	helm	gbk	ddd					useitem				levelreq			2	2	swing1			4	4	res-all			1	1																																																																					0
-P-Eme + Any Boots + 3 ddd	1			100	16	2	199		3	boot	ggb	ddd					useitem				meldflag			1	1	levelreq			2	2	dex			4	4	att%			2	2	move1			2	2																																																											0
-P-Eme + Any Boots + 3 ddd	1			100	16	119	499		3	boot	ggb	ddd					useitem				meldflag			1	1	levelreq			2	2	dex			4	4	att%			2	2	move1			2	2																																																											0
-P-Eme + Any Boots + 3 ddd	1			100	16	96	119		3	boot	ggb	ddd					useitem				meldflag			1	1	levelreq			2	2	dex			4	4	att%			2	2	move1			2	2																																																											0
-P-Rub + Any Boots + 3 ddd	1			100	16	141	99		3	boot	grb	ddd					useitem				meldflag			1	1	levelreq			2	2	hp			10	10	deadly			2	2	balance1			2	2																																																											0
-P-Rub + Any Boots + 3 ddd	1			100	16	99	119		3	boot	grb	ddd					useitem				meldflag			1	1	levelreq			2	2	hp			10	10	deadly			2	2	balance1			2	2																																																											0
-P-Sku + Any Boots + 3 ddd	1			100	16	74	59		3	boot	skb	ddd					useitem				meldflag			1	1	levelreq			2	2	regen			3	3	regen-mana			5	5	move1			2	2																																																											0
-P-Sku + Any Boots + 3 ddd	1			100	16	27	399		3	boot	skb	ddd					useitem				meldflag			1	1	levelreq			2	2	regen			3	3	regen-mana			5	5	move1			2	2																																																											0
-P-Sku + Any Boots + 3 ddd	1			100	16	96	119		3	boot	skb	ddd					useitem				meldflag			1	1	levelreq			2	2	regen			3	3	regen-mana			5	5	move1			2	2																																																											0
-P-Ame + Any Boots + 3 ddd	1			100	16	0	199		3	boot	gvb	ddd					useitem				meldflag			1	1	levelreq			2	2	str			4	4	red-dmg			1	1																																																																0
-P-Ame + Any Boots + 3 ddd	1			100	16	34	39		3	boot	gvb	ddd					useitem				meldflag			1	1	levelreq			2	2	str			4	4	red-dmg			1	1																																																																0
-P-Sap + Any Boots + 3 ddd	1			100	16	105	119		3	boot	gbb	ddd					useitem				meldflag			1	1	levelreq			2	2	mana			10	10	cast1			2	2	mana%			1	1																																																											0
-P-Sap + Any Boots + 3 ddd	1			100	16	77	59		3	boot	gbb	ddd					useitem				meldflag			1	1	levelreq			2	2	mana			10	10	cast1			2	2	mana%			1	1																																																											0
-P-Dia + Any Boots + 3 ddd	1			100	16	31	2999		3	boot	gwb	ddd					useitem				meldflag			1	1	levelreq			2	2	ac			20	20	fasterattackanim		2	2	reduce-ac			3	3																																																											0	0
-P-Dia + Any Boots + 3 ddd	1			100	16	60	59		3	boot	gwb	ddd					useitem				meldflag			1	1	levelreq			2	2	ac			20	20	fasterattackanim		2	2	reduce-ac			3	3																																																											0	0
-P-Dia + Any Boots + 3 ddd	1			100	16	116	99		3	boot	gwb	ddd					useitem				meldflag			1	1	levelreq			2	2	ac			20	20	fasterattackanim		2	2	reduce-ac			3	3																																																											0	0
-P-Top + Any Boots + 3 ddd	1			100	16	80	799		3	boot	gyb	ddd					useitem				meldflag			1	1	levelreq			2	2	gold%			10	10																																																																					0
-P-Top + Any Boots + 3 ddd	1			100	16	79	799		3	boot	gyb	ddd					useitem				meldflag			1	1	levelreq			2	2	gold%			10	10																																																																					0
-P-Obs + Any Boots + 3 ddd	1			100	16	93	119		3	boot	gbk	ddd					useitem				meldflag			1	1	levelreq			2	2	swing1			4	4	res-all			1	1																																																																0
-P-Obs + Any Boots + 3 ddd	1			100	16	39	149		3	boot	gbk	ddd					useitem				meldflag			1	1	levelreq			2	2	swing1			4	4	res-all			1	1																																																																0
-P-Obs + Any Boots + 3 ddd	1			100	16	41	149		3	boot	gbk	ddd					useitem				meldflag			1	1	levelreq			2	2	swing1			4	4	res-all			1	1																																																																0
-P-Obs + Any Boots + 3 ddd	1			100	16	43	149		3	boot	gbk	ddd					useitem				meldflag			1	1	levelreq			2	2	swing1			4	4	res-all			1	1																																																																0
-P-Obs + Any Boots + 3 ddd	1			100	16	45	149		3	boot	gbk	ddd					useitem				meldflag			1	1	levelreq			2	2	swing1			4	4	res-all			1	1																																																																0
-P-Eme + Any Belt + 3 ddd	1			100	16	45	149		3	belt	ggb	ddd					useitem				meldflag			1	1	levelreq			2	2	res-pois			10	10	res-pois-len			6	6																																																																0
-P-Eme + Any Belt + 3 ddd	1			100	16	110	234		3	belt	ggb	ddd					useitem				meldflag			1	1	levelreq			2	2	res-pois			10	10	res-pois-len			6	6																																																																0
-P-Rub + Any Belt + 3 ddd	1			100	16	39	149		3	belt	grb	ddd					useitem				meldflag			1	1	levelreq			2	2	res-fire			10	10	abs-fire			1	1																																																																0
-P-Rub + Any Belt + 3 ddd	1			100	16	143	126		3	belt	grb	ddd					useitem				meldflag			1	1	levelreq			2	2	res-fire			10	10	abs-fire			1	1																																																																0
-P-Sku + Any Belt + 3 ddd	1			100	16	78	999		3	belt	skb	ddd					useitem				meldflag			1	1	levelreq			2	2	red-mag			1	1	ac			20	20	red-dmg%			1	1																																																											0
-P-Sku + Any Belt + 3 ddd	1			100	16	31	2999		3	belt	skb	ddd					useitem				meldflag			1	1	levelreq			2	2	red-mag			1	1	ac			20	20	red-dmg%			1	1																																																											0
-P-Sku + Any Belt + 3 ddd	1			100	16	36	199		3	belt	skb	ddd					useitem				meldflag			1	1	levelreq			2	2	red-mag			1	1	ac			20	20	red-dmg%			1	1																																																											0
-P-Ame + Any Belt + 3 ddd	1			100	16	31	2999		3	belt	gvb	ddd					useitem				meldflag			1	1	levelreq			2	2	ac			20	20	block			2	2	block1			3	3																																																											0
-P-Ame + Any Belt + 3 ddd	1			100	16	20	62		3	belt	gvb	ddd					useitem				meldflag			1	1	levelreq			2	2	ac			20	20	block			2	2	block1			3	3																																																											0
-P-Ame + Any Belt + 3 ddd	1			100	16	102	119		3	belt	gvb	ddd					useitem				meldflag			1	1	levelreq			2	2	ac			20	20	block			2	2	block1			3	3																																																											0
-P-Sap + Any Belt + 3 ddd	1			100	16	43	149		3	belt	gbb	ddd					useitem				meldflag			1	1	levelreq			2	2	res-cold			10	10	abs-cold			1	1																																																																0
-P-Sap + Any Belt + 3 ddd	1			100	16	149	126		3	belt	gbb	ddd					useitem				meldflag			1	1	levelreq			2	2	res-cold			10	10	abs-cold			1	1																																																																0
-P-Dia + Any Belt + 3 ddd	1			100	16	39	149		3	belt	gwb	ddd					useitem				meldflag			1	1	levelreq			2	2	res-all			3	3	dmg-to-mana			4	4	red-dmg			1	1																																																											0
-P-Dia + Any Belt + 3 ddd	1			100	16	41	149		3	belt	gwb	ddd					useitem				meldflag			1	1	levelreq			2	2	res-all			3	3	dmg-to-mana			4	4	red-dmg			1	1																																																											0
-P-Dia + Any Belt + 3 ddd	1			100	16	43	149		3	belt	gwb	ddd					useitem				meldflag			1	1	levelreq			2	2	res-all			3	3	dmg-to-mana			4	4	red-dmg			1	1																																																											0
-P-Dia + Any Belt + 3 ddd	1			100	16	45	149		3	belt	gwb	ddd					useitem				meldflag			1	1	levelreq			2	2	res-all			3	3	dmg-to-mana			4	4	red-dmg			1	1																																																											0
-P-Dia + Any Belt + 3 ddd	1			100	16	114	149		3	belt	gwb	ddd					useitem				meldflag			1	1	levelreq			2	2	res-all			3	3	dmg-to-mana			4	4	red-dmg			1	1																																																											0
-P-Dia + Any Belt + 3 ddd	1			100	16	34	39		3	belt	gwb	ddd					useitem				meldflag			1	1	levelreq			2	2	res-all			3	3	dmg-to-mana			4	4	red-dmg			1	1																																																											0
-P-Top + Any Belt + 3 ddd	1			100	16	41	149		3	belt	gyb	ddd					useitem				meldflag			1	1	levelreq			2	2	res-ltng			10	10	abs-ltng			1	1																																																																0
-P-Top + Any Belt + 3 ddd	1			100	16	145	126		3	belt	gyb	ddd					useitem				meldflag			1	1	levelreq			2	2	res-ltng			10	10	abs-ltng			1	1																																																																0
-P-Obs + Any Belt + 3 ddd	1			100	16	34	39		3	belt	gbk	ddd					useitem				meldflag			1	1	levelreq			2	2	red-dmg			1	1	ac%			7	7																																																																0
-P-Obs + Any Belt + 3 ddd	1			100	16	16	899		3	belt	gbk	ddd					useitem				meldflag			1	1	levelreq			2	2	red-dmg			1	1	ac%			7	7																																																																0
-P-Eme + Any Armor + 3 ddd	1			100	16	45	149		3	armo	ggb	ddd					useitem				levelreq			2	2	res-pois			10	10	res-pois-len			6	6																																																																					0
-P-Eme + Any Armor + 3 ddd	1			100	16	110	234		3	armo	ggb	ddd					useitem				levelreq			2	2	res-pois			10	10	res-pois-len			6	6																																																																					0
-P-Rub + Any Armor + 3 ddd	1			100	16	39	149		3	armo	grb	ddd					useitem				levelreq			2	2	res-fire			10	10	abs-fire			1	1																																																																					0
-P-Rub + Any Armor + 3 ddd	1			100	16	143	126		3	armo	grb	ddd					useitem				levelreq			2	2	res-fire			10	10	abs-fire			1	1																																																																					0
-P-Sku + Any Armor + 3 ddd	1			100	16	78	999		3	armo	skb	ddd					useitem				levelreq			2	2	red-mag			1	1	ac			20	20	red-dmg%			1	1																																																																0
-P-Sku + Any Armor + 3 ddd	1			100	16	31	2999		3	armo	skb	ddd					useitem				levelreq			2	2	red-mag			1	1	ac			20	20	red-dmg%			1	1																																																																0
-P-Sku + Any Armor + 3 ddd	1			100	16	36	199		3	armo	skb	ddd					useitem				levelreq			2	2	red-mag			1	1	ac			20	20	red-dmg%			1	1																																																																0
-P-Ame + Any Armor + 3 ddd	1			100	16	31	2999		3	armo	gvb	ddd					useitem				levelreq			2	2	ac			20	20	block			2	2	block1			3	3																																																																0
-P-Ame + Any Armor + 3 ddd	1			100	16	20	62		3	armo	gvb	ddd					useitem				levelreq			2	2	ac			20	20	block			2	2	block1			3	3																																																																0
-P-Ame + Any Armor + 3 ddd	1			100	16	102	119		3	armo	gvb	ddd					useitem				levelreq			2	2	ac			20	20	block			2	2	block1			3	3																																																																0
-P-Sap + Any Armor + 3 ddd	1			100	16	43	149		3	armo	gbb	ddd					useitem				levelreq			2	2	res-cold			10	10	abs-cold			1	1																																																																					0
-P-Sap + Any Armor + 3 ddd	1			100	16	149	126		3	armo	gbb	ddd					useitem				levelreq			2	2	res-cold			10	10	abs-cold			1	1																																																																					0
-P-Dia + Any Armor + 3 ddd	1			100	16	39	149		3	armo	gwb	ddd					useitem				levelreq			2	2	res-all			3	3	dmg-to-mana			4	4	red-dmg			1	1																																																																0
-P-Dia + Any Armor + 3 ddd	1			100	16	41	149		3	armo	gwb	ddd					useitem				levelreq			2	2	res-all			3	3	dmg-to-mana			4	4	red-dmg			1	1																																																																0
-P-Dia + Any Armor + 3 ddd	1			100	16	43	149		3	armo	gwb	ddd					useitem				levelreq			2	2	res-all			3	3	dmg-to-mana			4	4	red-dmg			1	1																																																																0
-P-Dia + Any Armor + 3 ddd	1			100	16	45	149		3	armo	gwb	ddd					useitem				levelreq			2	2	res-all			3	3	dmg-to-mana			4	4	red-dmg			1	1																																																																0
-P-Dia + Any Armor + 3 ddd	1			100	16	114	149		3	armo	gwb	ddd					useitem				levelreq			2	2	res-all			3	3	dmg-to-mana			4	4	red-dmg			1	1																																																																0
-P-Dia + Any Armor + 3 ddd	1			100	16	34	39		3	armo	gwb	ddd					useitem				levelreq			2	2	res-all			3	3	dmg-to-mana			4	4	red-dmg			1	1																																																																0
-P-Top + Any Armor + 3 ddd	1			100	16	41	149		3	armo	gyb	ddd					useitem				levelreq			2	2	res-ltng			10	10	abs-ltng			1	1																																																																					0
-P-Top + Any Armor + 3 ddd	1			100	16	145	126		3	armo	gyb	ddd					useitem				levelreq			2	2	res-ltng			10	10	abs-ltng			1	1																																																																					0
-P-Obs + Any Armor + 3 ddd	1			100	16	34	39		3	armo	gbk	ddd					useitem				levelreq			2	2	red-dmg			1	1	ac%			7	7																																																																					0
-P-Obs + Any Armor + 3 ddd	1			100	16	16	899		3	armo	gbk	ddd					useitem				levelreq			2	2	red-dmg			1	1	ac%			7	7																																																																					0
+P-Eme + Any Wand + 3 ddd	0			100	16	2	199		5	wand	ggb	"ddd,qty=3"					useitem				levelreq			2	2	dex			4	4	att%			2	2	move1			2	2																																																																0
+P-Eme + Any Wand + 3 ddd	0			100	16	119	499		3	wand	ggb	ddd					useitem				levelreq			2	2	dex			4	4	att%			2	2	move1			2	2																																																																0
+P-Eme + Any Wand + 3 ddd	0			100	16	96	119		3	wand	ggb	ddd					useitem				levelreq			2	2	dex			4	4	att%			2	2	move1			2	2																																																																0
+P-Rub + Any Wand + 3 ddd	0			100	16	141	99		3	wand	grb	ddd					useitem				levelreq			2	2	hp			10	10	deadly			2	2	balance1			2	2																																																																0
+P-Rub + Any Wand + 3 ddd	0			100	16	99	119		3	wand	grb	ddd					useitem				levelreq			2	2	hp			10	10	deadly			2	2	balance1			2	2																																																																0
+P-Sku + Any Wand + 3 ddd	0			100	16	74	59		3	wand	skb	ddd					useitem				levelreq			2	2	regen			3	3	regen-mana			5	5	move1			2	2																																																																0
+P-Sku + Any Wand + 3 ddd	0			100	16	27	399		3	wand	skb	ddd					useitem				levelreq			2	2	regen			3	3	regen-mana			5	5	move1			2	2																																																																0
+P-Sku + Any Wand + 3 ddd	0			100	16	96	119		3	wand	skb	ddd					useitem				levelreq			2	2	regen			3	3	regen-mana			5	5	move1			2	2																																																																0
+P-Ame + Any Wand + 3 ddd	0			100	16	0	199		3	wand	gvb	ddd					useitem				levelreq			2	2	str			4	4	red-dmg			1	1																																																																					0
+P-Ame + Any Wand + 3 ddd	0			100	16	34	39		3	wand	gvb	ddd					useitem				levelreq			2	2	str			4	4	red-dmg			1	1																																																																					0
+P-Sap + Any Wand + 3 ddd	0			100	16	105	119		3	wand	gbb	ddd					useitem				levelreq			2	2	mana			10	10	cast1			2	2	mana%			1	1																																																																0
+P-Sap + Any Wand + 3 ddd	0			100	16	77	59		3	wand	gbb	ddd					useitem				levelreq			2	2	mana			10	10	cast1			2	2	mana%			1	1																																																																0
+P-Dia + Any Wand + 3 ddd	0			100	16	31	2999		3	wand	gwb	ddd					useitem				levelreq			2	2	ac			20	20	fasterattackanim		2	2	reduce-ac			3	3																																																																0	0
+P-Dia + Any Wand + 3 ddd	0			100	16	60	59		3	wand	gwb	ddd					useitem				levelreq			2	2	ac			20	20	fasterattackanim		2	2	reduce-ac			3	3																																																																0	0
+P-Dia + Any Wand + 3 ddd	0			100	16	116	99		3	wand	gwb	ddd					useitem				levelreq			2	2	ac			20	20	fasterattackanim		2	2	reduce-ac			3	3																																																																0	0
+P-Top + Any Wand + 3 ddd	0			100	16	80	399		3	wand	gyb	ddd					useitem				levelreq			2	2	mag%			10	10	gold%			10	10																																																																					0
+P-Top + Any Wand + 3 ddd	0			100	16	79	399		3	wand	gyb	ddd					useitem				levelreq			2	2	mag%			10	10	gold%			10	10																																																																					0
+P-Obs + Any Wand + 3 ddd	0			100	16	93	119		3	wand	gbk	ddd					useitem				levelreq			2	2	swing1			4	4	res-all			1	1																																																																					0
+P-Obs + Any Wand + 3 ddd	0			100	16	39	149		3	wand	gbk	ddd					useitem				levelreq			2	2	swing1			4	4	res-all			1	1																																																																					0
+P-Obs + Any Wand + 3 ddd	0			100	16	41	149		3	wand	gbk	ddd					useitem				levelreq			2	2	swing1			4	4	res-all			1	1																																																																					0
+P-Obs + Any Wand + 3 ddd	0			100	16	43	149		3	wand	gbk	ddd					useitem				levelreq			2	2	swing1			4	4	res-all			1	1																																																																					0
+P-Obs + Any Wand + 3 ddd	0			100	16	45	149		3	wand	gbk	ddd					useitem				levelreq			2	2	swing1			4	4	res-all			1	1																																																																					0
+P-Eme + Any Staff + 3 ddd	0			100	16	2	199		3	staf	ggb	ddd					useitem				levelreq			2	2	dex			4	4	att%			2	2	move1			2	2																																																																0
+P-Eme + Any Staff + 3 ddd	0			100	16	119	499		3	staf	ggb	ddd					useitem				levelreq			2	2	dex			4	4	att%			2	2	move1			2	2																																																																0
+P-Eme + Any Staff + 3 ddd	0			100	16	96	119		3	staf	ggb	ddd					useitem				levelreq			2	2	dex			4	4	att%			2	2	move1			2	2																																																																0
+P-Rub + Any Staff + 3 ddd	0			100	16	141	99		3	staf	grb	ddd					useitem				levelreq			2	2	hp			10	10	deadly			2	2	balance1			2	2																																																																0
+P-Rub + Any Staff + 3 ddd	0			100	16	99	119		3	staf	grb	ddd					useitem				levelreq			2	2	hp			10	10	deadly			2	2	balance1			2	2																																																																0
+P-Sku + Any Staff + 3 ddd	0			100	16	74	59		3	staf	skb	ddd					useitem				levelreq			2	2	regen			3	3	regen-mana			5	5	move1			2	2																																																																0
+P-Sku + Any Staff + 3 ddd	0			100	16	27	399		3	staf	skb	ddd					useitem				levelreq			2	2	regen			3	3	regen-mana			5	5	move1			2	2																																																																0
+P-Sku + Any Staff + 3 ddd	0			100	16	96	119		3	staf	skb	ddd					useitem				levelreq			2	2	regen			3	3	regen-mana			5	5	move1			2	2																																																																0
+P-Ame + Any Staff + 3 ddd	0			100	16	0	199		3	staf	gvb	ddd					useitem				levelreq			2	2	str			4	4	red-dmg			1	1																																																																					0
+P-Ame + Any Staff + 3 ddd	0			100	16	34	39		3	staf	gvb	ddd					useitem				levelreq			2	2	str			4	4	red-dmg			1	1																																																																					0
+P-Sap + Any Staff + 3 ddd	0			100	16	105	119		3	staf	gbb	ddd					useitem				levelreq			2	2	mana			10	10	cast1			2	2	mana%			1	1																																																																0
+P-Sap + Any Staff + 3 ddd	0			100	16	77	59		3	staf	gbb	ddd					useitem				levelreq			2	2	mana			10	10	cast1			2	2	mana%			1	1																																																																0
+P-Dia + Any Staff + 3 ddd	0			100	16	31	2999		3	staf	gwb	ddd					useitem				levelreq			2	2	ac			20	20	fasterattackanim		2	2	reduce-ac			3	3																																																																0	0
+P-Dia + Any Staff + 3 ddd	0			100	16	60	59		3	staf	gwb	ddd					useitem				levelreq			2	2	ac			20	20	fasterattackanim		2	2	reduce-ac			3	3																																																																0	0
+P-Dia + Any Staff + 3 ddd	0			100	16	116	99		3	staf	gwb	ddd					useitem				levelreq			2	2	ac			20	20	fasterattackanim		2	2	reduce-ac			3	3																																																																0	0
+P-Top + Any Staff + 3 ddd	0			100	16	80	799		3	staf	gyb	ddd					useitem				levelreq			2	2	mag%			5	5	gold%			5	5																																																																					0
+P-Top + Any Staff + 3 ddd	0			100	16	79	799		3	staf	gyb	ddd					useitem				levelreq			2	2	mag%			5	5	gold%			5	5																																																																					0
+P-Obs + Any Staff + 3 ddd	0			100	16	93	119		3	staf	gbk	ddd					useitem				levelreq			2	2	swing1			4	4	res-all			1	1																																																																					0
+P-Obs + Any Staff + 3 ddd	0			100	16	39	149		3	staf	gbk	ddd					useitem				levelreq			2	2	swing1			4	4	res-all			1	1																																																																					0
+P-Obs + Any Staff + 3 ddd	0			100	16	41	149		3	staf	gbk	ddd					useitem				levelreq			2	2	swing1			4	4	res-all			1	1																																																																					0
+P-Obs + Any Staff + 3 ddd	0			100	16	43	149		3	staf	gbk	ddd					useitem				levelreq			2	2	swing1			4	4	res-all			1	1																																																																					0
+P-Obs + Any Staff + 3 ddd	0			100	16	45	149		3	staf	gbk	ddd					useitem				levelreq			2	2	swing1			4	4	res-all			1	1																																																																					0
+P-Eme + Any Weapon + 3 ddd	0			100	16	57	1022		3	weap	ggb	ddd					useitem				levelreq			2	2	dmg-pois		50	103	103	openwounds			3	3																																																																					0
+P-Eme + Any Weapon + 3 ddd	0			100	16	59	510		3	weap	ggb	ddd					useitem				levelreq			2	2	dmg-pois		50	103	103	openwounds			3	3																																																																					0
+P-Eme + Any Weapon + 3 ddd	0			100	16	135	99		3	weap	ggb	ddd					useitem				levelreq			2	2	dmg-pois		50	103	103	openwounds			3	3																																																																					0
+P-Rub + Any Weapon + 3 ddd	0			100	16	48	1022		3	weap	grb	ddd					useitem				levelreq			2	2	dmg-fire			4	10	heal-kill			2	2	dmg-demon			10	10																																																																0
+P-Rub + Any Weapon + 3 ddd	0			100	16	86	59		3	weap	grb	ddd					useitem				levelreq			2	2	dmg-fire			4	10	heal-kill			2	2	dmg-demon			10	10																																																																0
+P-Rub + Any Weapon + 3 ddd	0			100	16	121	499		3	weap	grb	ddd					useitem				levelreq			2	2	dmg-fire			4	10	heal-kill			2	2	dmg-demon			10	10																																																																0
+P-Sku + Any Weapon + 3 ddd	0			100	16	62	59		3	weap	skb	ddd					useitem				levelreq			2	2	manasteal			1	1	lifesteal			1	1	dmg-max			1	1																																																																0
+P-Sku + Any Weapon + 3 ddd	0			100	16	60	59		3	weap	skb	ddd					useitem				levelreq			2	2	manasteal			1	1	lifesteal			1	1	dmg-max			1	1																																																																0
+P-Sku + Any Weapon + 3 ddd	0			100	16	22	254		3	weap	skb	ddd					useitem				levelreq			2	2	manasteal			1	1	lifesteal			1	1	dmg-max			1	1																																																																0
+P-Ame + Any Weapon + 3 ddd	0			100	16	19	1999		3	weap	gvb	ddd					useitem				levelreq			2	2	att			30	30	swing1			4	4	ease			-2	-2																																																																0
+P-Ame + Any Weapon + 3 ddd	0			100	16	93	119		3	weap	gvb	ddd					useitem				levelreq			2	2	att			30	30	swing1			4	4	ease			-2	-2																																																																0
+P-Ame + Any Weapon + 3 ddd	0			100	15	91	-100		3	weap	gvb	ddd					useitem				levelreq			2	2	att			30	30	swing1			4	4	ease			-2	-2																																																																0
+P-Sap + Any Weapon + 3 ddd	0			100	16	54	1022		3	weap	gbb	ddd					useitem				levelreq			2	2	dmg-cold		20	3	8	mana-kill			1	1	deadly			2	2																																																																0
+P-Sap + Any Weapon + 3 ddd	0			100	16	56	254		3	weap	gbb	ddd					useitem				levelreq			2	2	dmg-cold		20	3	8	mana-kill			1	1	deadly			2	2																																																																0
+P-Sap + Any Weapon + 3 ddd	0			100	16	138	59		3	weap	gbb	ddd					useitem				levelreq			2	2	dmg-cold		20	3	8	mana-kill			1	1	deadly			2	2																																																																0
+P-Sap + Any Weapon + 3 ddd	0			100	16	141	99		3	weap	gbb	ddd					useitem				levelreq			2	2	dmg-cold		20	3	8	mana-kill			1	1	deadly			2	2																																																																0
+P-Dia + Any Weapon + 3 ddd	0			100	16	21	99		3	weap	gwb	ddd					useitem				levelreq			2	2	dmg-min			2	2	dmg-mag			3	4	dmg-undead			10	10																																																																0
+P-Dia + Any Weapon + 3 ddd	0			100	16	52	1022		3	weap	gwb	ddd					useitem				levelreq			2	2	dmg-min			2	2	dmg-mag			3	4	dmg-undead			10	10																																																																0
+P-Dia + Any Weapon + 3 ddd	0			100	16	122	499		3	weap	gwb	ddd					useitem				levelreq			2	2	dmg-min			2	2	dmg-mag			3	4	dmg-undead			10	10																																																																0
+P-Top + Any Weapon + 3 ddd	0			100	16	50	1022		3	weap	gyb	ddd					useitem				levelreq			2	2	dmg-ltng			1	15	slow			2	2	light-thorns			5	5																																																																0
+P-Top + Any Weapon + 3 ddd	0			100	16	150	99		3	weap	gyb	ddd					useitem				levelreq			2	2	dmg-ltng			1	15	slow			2	2	light-thorns			5	5																																																																0
+P-Top + Any Weapon + 3 ddd	0			100	16	128	1022		3	weap	gyb	ddd					useitem				levelreq			2	2	dmg-ltng			1	15	slow			2	2	light-thorns			5	5																																																																0
+P-Obs + Any Weapon + 3 ddd	0			100	16	18	899		3	weap	gbk	ddd					useitem				levelreq			2	2	dmgpct			9	9	deadly			1	1																																																																					0
+P-Obs + Any Weapon + 3 ddd	0			100	16	141	99		3	weap	gbk	ddd					useitem				levelreq			2	2	dmgpct			9	9	deadly			1	1																																																																					0
+P-Eme + Any Gloves + 3 ddd	0			100	16	57	1022		3	glov	ggb	ddd					useitem				meldflag			1	1	levelreq			2	2	dmg-pois		50	103	103	openwounds			3	3																																																																0
+P-Eme + Any Gloves + 3 ddd	0			100	16	59	510		3	glov	ggb	ddd					useitem				meldflag			1	1	levelreq			2	2	dmg-pois		50	103	103	openwounds			3	3																																																																0
+P-Eme + Any Gloves + 3 ddd	0			100	16	135	99		3	glov	ggb	ddd					useitem				meldflag			1	1	levelreq			2	2	dmg-pois		50	103	103	openwounds			3	3																																																																0
+P-Rub + Any Gloves + 3 ddd	0			100	16	48	1022		3	glov	grb	ddd					useitem				meldflag			1	1	levelreq			2	2	dmg-fire			4	10	heal-kill			2	2	dmg-demon			10	10																																																											0
+P-Rub + Any Gloves + 3 ddd	0			100	16	86	59		3	glov	grb	ddd					useitem				meldflag			1	1	levelreq			2	2	dmg-fire			4	10	heal-kill			2	2	dmg-demon			10	10																																																											0
+P-Rub + Any Gloves + 3 ddd	0			100	16	121	499		3	glov	grb	ddd					useitem				meldflag			1	1	levelreq			2	2	dmg-fire			4	10	heal-kill			2	2	dmg-demon			10	10																																																											0
+P-Sku + Any Gloves + 3 ddd	0			100	16	62	59		3	glov	skb	ddd					useitem				meldflag			1	1	levelreq			2	2	manasteal			1	1	lifesteal			1	1	dmg-max			1	1																																																											0
+P-Sku + Any Gloves + 3 ddd	0			100	16	60	59		3	glov	skb	ddd					useitem				meldflag			1	1	levelreq			2	2	manasteal			1	1	lifesteal			1	1	dmg-max			1	1																																																											0
+P-Sku + Any Gloves + 3 ddd	0			100	16	22	254		3	glov	skb	ddd					useitem				meldflag			1	1	levelreq			2	2	manasteal			1	1	lifesteal			1	1	dmg-max			1	1																																																											0
+P-Ame + Any Gloves + 3 ddd	0			100	16	19	1999		3	glov	gvb	ddd					useitem				meldflag			1	1	levelreq			2	2	att			30	30	swing1			4	4	ease			-2	-2																																																											0
+P-Ame + Any Gloves + 3 ddd	0			100	16	93	119		3	glov	gvb	ddd					useitem				meldflag			1	1	levelreq			2	2	att			30	30	swing1			4	4	ease			-2	-2																																																											0
+P-Ame + Any Gloves + 3 ddd	0			100	15	91	-100		3	glov	gvb	ddd					useitem				meldflag			1	1	levelreq			2	2	att			30	30	swing1			4	4	ease			-2	-2																																																											0
+P-Sap + Any Gloves + 3 ddd	0			100	16	54	1022		3	glov	gbb	ddd					useitem				meldflag			1	1	levelreq			2	2	dmg-cold		20	3	8	mana-kill			1	1	deadly			2	2																																																											0
+P-Sap + Any Gloves + 3 ddd	0			100	16	56	254		3	glov	gbb	ddd					useitem				meldflag			1	1	levelreq			2	2	dmg-cold		20	3	8	mana-kill			1	1	deadly			2	2																																																											0
+P-Sap + Any Gloves + 3 ddd	0			100	16	138	59		3	glov	gbb	ddd					useitem				meldflag			1	1	levelreq			2	2	dmg-cold		20	3	8	mana-kill			1	1	deadly			2	2																																																											0
+P-Sap + Any Gloves + 3 ddd	0			100	16	141	99		3	glov	gbb	ddd					useitem				meldflag			1	1	levelreq			2	2	dmg-cold		20	3	8	mana-kill			1	1	deadly			2	2																																																											0
+P-Dia + Any Gloves + 3 ddd	0			100	16	21	99		3	glov	gwb	ddd					useitem				meldflag			1	1	levelreq			2	2	dmg-min			2	2	dmg-mag			3	4	dmg-undead			10	10																																																											0
+P-Dia + Any Gloves + 3 ddd	0			100	16	52	1022		3	glov	gwb	ddd					useitem				meldflag			1	1	levelreq			2	2	dmg-min			2	2	dmg-mag			3	4	dmg-undead			10	10																																																											0
+P-Dia + Any Gloves + 3 ddd	0			100	16	122	499		3	glov	gwb	ddd					useitem				meldflag			1	1	levelreq			2	2	dmg-min			2	2	dmg-mag			3	4	dmg-undead			10	10																																																											0
+P-Top + Any Gloves + 3 ddd	0			100	16	50	1022		3	glov	gyb	ddd					useitem				meldflag			1	1	levelreq			2	2	dmg-ltng			1	15	slow			2	2	light-thorns			5	5																																																											0
+P-Top + Any Gloves + 3 ddd	0			100	16	150	99		3	glov	gyb	ddd					useitem				meldflag			1	1	levelreq			2	2	dmg-ltng			1	15	slow			2	2	light-thorns			5	5																																																											0
+P-Top + Any Gloves + 3 ddd	0			100	16	128	1022		3	glov	gyb	ddd					useitem				meldflag			1	1	levelreq			2	2	dmg-ltng			1	15	slow			2	2	light-thorns			5	5																																																											0
+P-Obs + Any Gloves + 3 ddd	0			100	16	18	899		3	glov	gbk	ddd					useitem				meldflag			1	1	levelreq			2	2	dmgpct			9	9	deadly			1	1																																																																0
+P-Obs + Any Gloves + 3 ddd	0			100	16	141	99		3	glov	gbk	ddd					useitem				meldflag			1	1	levelreq			2	2	dmgpct			9	9	deadly			1	1																																																																0
+P-Eme + Any Helm + 3 ddd	0			100	16	2	199		3	helm	ggb	ddd					useitem				levelreq			2	2	dex			4	4	att%			2	2	move1			2	2																																																																0
+P-Eme + Any Helm + 3 ddd	0			100	16	119	499		3	helm	ggb	ddd					useitem				levelreq			2	2	dex			4	4	att%			2	2	move1			2	2																																																																0
+P-Eme + Any Helm + 3 ddd	0			100	16	96	119		3	helm	ggb	ddd					useitem				levelreq			2	2	dex			4	4	att%			2	2	move1			2	2																																																																0
+P-Rub + Any Helm + 3 ddd	0			100	16	141	99		3	helm	grb	ddd					useitem				levelreq			2	2	hp			10	10	deadly			2	2	balance1			2	2																																																																0
+P-Rub + Any Helm + 3 ddd	0			100	16	99	119		3	helm	grb	ddd					useitem				levelreq			2	2	hp			10	10	deadly			2	2	balance1			2	2																																																																0
+P-Sku + Any Helm + 3 ddd	0			100	16	74	59		3	helm	skb	ddd					useitem				levelreq			2	2	regen			3	3	regen-mana			5	5	move1			2	2																																																																0
+P-Sku + Any Helm + 3 ddd	0			100	16	27	399		3	helm	skb	ddd					useitem				levelreq			2	2	regen			3	3	regen-mana			5	5	move1			2	2																																																																0
+P-Sku + Any Helm + 3 ddd	0			100	16	96	119		3	helm	skb	ddd					useitem				levelreq			2	2	regen			3	3	regen-mana			5	5	move1			2	2																																																																0
+P-Ame + Any Helm + 3 ddd	0			100	16	0	199		3	helm	gvb	ddd					useitem				levelreq			2	2	str			4	4	red-dmg			1	1																																																																					0
+P-Ame + Any Helm + 3 ddd	0			100	16	34	49		3	helm	gvb	ddd					useitem				levelreq			2	2	str			4	4	red-dmg			1	1																																																																					0
+P-Sap + Any Helm + 3 ddd	0			100	16	105	119		3	helm	gbb	ddd					useitem				levelreq			2	2	mana			10	10	cast1			2	2	mana%			1	1																																																																0
+P-Sap + Any Helm + 3 ddd	0			100	16	77	59		3	helm	gbb	ddd					useitem				levelreq			2	2	mana			10	10	cast1			2	2	mana%			1	1																																																																0
+P-Dia + Any Helm + 3 ddd	0			100	16	31	2999		3	helm	gwb	ddd					useitem				levelreq			2	2	ac			20	20	fasterattackanim		2	2	reduce-ac			3	3																																																																0	0
+P-Dia + Any Helm + 3 ddd	0			100	16	60	59		3	helm	gwb	ddd					useitem				levelreq			2	2	ac			20	20	fasterattackanim		2	2	reduce-ac			3	3																																																																0	0
+P-Dia + Any Helm + 3 ddd	0			100	16	116	99		3	helm	gwb	ddd					useitem				levelreq			2	2	ac			20	20	fasterattackanim		2	2	reduce-ac			3	3																																																																0	0
+P-Top + Any Helm + 3 ddd	0			100	16	80	799		3	helm	gyb	ddd					useitem				levelreq			2	2	gold%			10	10																																																																										0
+P-Top + Any Helm + 3 ddd	0			100	16	79	799		3	helm	gyb	ddd					useitem				levelreq			2	2	gold%			10	10																																																																										0
+P-Obs + Any Helm + 3 ddd	0			100	16	93	119		3	helm	gbk	ddd					useitem				levelreq			2	2	swing1			4	4	res-all			1	1																																																																					0
+P-Obs + Any Helm + 3 ddd	0			100	16	39	149		3	helm	gbk	ddd					useitem				levelreq			2	2	swing1			4	4	res-all			1	1																																																																					0
+P-Obs + Any Helm + 3 ddd	0			100	16	41	149		3	helm	gbk	ddd					useitem				levelreq			2	2	swing1			4	4	res-all			1	1																																																																					0
+P-Obs + Any Helm + 3 ddd	0			100	16	43	149		3	helm	gbk	ddd					useitem				levelreq			2	2	swing1			4	4	res-all			1	1																																																																					0
+P-Obs + Any Helm + 3 ddd	0			100	16	45	149		3	helm	gbk	ddd					useitem				levelreq			2	2	swing1			4	4	res-all			1	1																																																																					0
+P-Eme + Any Boots + 3 ddd	0			100	16	2	199		3	boot	ggb	ddd					useitem				meldflag			1	1	levelreq			2	2	dex			4	4	att%			2	2	move1			2	2																																																											0
+P-Eme + Any Boots + 3 ddd	0			100	16	119	499		3	boot	ggb	ddd					useitem				meldflag			1	1	levelreq			2	2	dex			4	4	att%			2	2	move1			2	2																																																											0
+P-Eme + Any Boots + 3 ddd	0			100	16	96	119		3	boot	ggb	ddd					useitem				meldflag			1	1	levelreq			2	2	dex			4	4	att%			2	2	move1			2	2																																																											0
+P-Rub + Any Boots + 3 ddd	0			100	16	141	99		3	boot	grb	ddd					useitem				meldflag			1	1	levelreq			2	2	hp			10	10	deadly			2	2	balance1			2	2																																																											0
+P-Rub + Any Boots + 3 ddd	0			100	16	99	119		3	boot	grb	ddd					useitem				meldflag			1	1	levelreq			2	2	hp			10	10	deadly			2	2	balance1			2	2																																																											0
+P-Sku + Any Boots + 3 ddd	0			100	16	74	59		3	boot	skb	ddd					useitem				meldflag			1	1	levelreq			2	2	regen			3	3	regen-mana			5	5	move1			2	2																																																											0
+P-Sku + Any Boots + 3 ddd	0			100	16	27	399		3	boot	skb	ddd					useitem				meldflag			1	1	levelreq			2	2	regen			3	3	regen-mana			5	5	move1			2	2																																																											0
+P-Sku + Any Boots + 3 ddd	0			100	16	96	119		3	boot	skb	ddd					useitem				meldflag			1	1	levelreq			2	2	regen			3	3	regen-mana			5	5	move1			2	2																																																											0
+P-Ame + Any Boots + 3 ddd	0			100	16	0	199		3	boot	gvb	ddd					useitem				meldflag			1	1	levelreq			2	2	str			4	4	red-dmg			1	1																																																																0
+P-Ame + Any Boots + 3 ddd	0			100	16	34	39		3	boot	gvb	ddd					useitem				meldflag			1	1	levelreq			2	2	str			4	4	red-dmg			1	1																																																																0
+P-Sap + Any Boots + 3 ddd	0			100	16	105	119		3	boot	gbb	ddd					useitem				meldflag			1	1	levelreq			2	2	mana			10	10	cast1			2	2	mana%			1	1																																																											0
+P-Sap + Any Boots + 3 ddd	0			100	16	77	59		3	boot	gbb	ddd					useitem				meldflag			1	1	levelreq			2	2	mana			10	10	cast1			2	2	mana%			1	1																																																											0
+P-Dia + Any Boots + 3 ddd	0			100	16	31	2999		3	boot	gwb	ddd					useitem				meldflag			1	1	levelreq			2	2	ac			20	20	fasterattackanim		2	2	reduce-ac			3	3																																																											0	0
+P-Dia + Any Boots + 3 ddd	0			100	16	60	59		3	boot	gwb	ddd					useitem				meldflag			1	1	levelreq			2	2	ac			20	20	fasterattackanim		2	2	reduce-ac			3	3																																																											0	0
+P-Dia + Any Boots + 3 ddd	0			100	16	116	99		3	boot	gwb	ddd					useitem				meldflag			1	1	levelreq			2	2	ac			20	20	fasterattackanim		2	2	reduce-ac			3	3																																																											0	0
+P-Top + Any Boots + 3 ddd	0			100	16	80	799		3	boot	gyb	ddd					useitem				meldflag			1	1	levelreq			2	2	gold%			10	10																																																																					0
+P-Top + Any Boots + 3 ddd	0			100	16	79	799		3	boot	gyb	ddd					useitem				meldflag			1	1	levelreq			2	2	gold%			10	10																																																																					0
+P-Obs + Any Boots + 3 ddd	0			100	16	93	119		3	boot	gbk	ddd					useitem				meldflag			1	1	levelreq			2	2	swing1			4	4	res-all			1	1																																																																0
+P-Obs + Any Boots + 3 ddd	0			100	16	39	149		3	boot	gbk	ddd					useitem				meldflag			1	1	levelreq			2	2	swing1			4	4	res-all			1	1																																																																0
+P-Obs + Any Boots + 3 ddd	0			100	16	41	149		3	boot	gbk	ddd					useitem				meldflag			1	1	levelreq			2	2	swing1			4	4	res-all			1	1																																																																0
+P-Obs + Any Boots + 3 ddd	0			100	16	43	149		3	boot	gbk	ddd					useitem				meldflag			1	1	levelreq			2	2	swing1			4	4	res-all			1	1																																																																0
+P-Obs + Any Boots + 3 ddd	0			100	16	45	149		3	boot	gbk	ddd					useitem				meldflag			1	1	levelreq			2	2	swing1			4	4	res-all			1	1																																																																0
+P-Eme + Any Belt + 3 ddd	0			100	16	45	149		3	belt	ggb	ddd					useitem				meldflag			1	1	levelreq			2	2	res-pois			10	10	res-pois-len			6	6																																																																0
+P-Eme + Any Belt + 3 ddd	0			100	16	110	234		3	belt	ggb	ddd					useitem				meldflag			1	1	levelreq			2	2	res-pois			10	10	res-pois-len			6	6																																																																0
+P-Rub + Any Belt + 3 ddd	0			100	16	39	149		3	belt	grb	ddd					useitem				meldflag			1	1	levelreq			2	2	res-fire			10	10	abs-fire			1	1																																																																0
+P-Rub + Any Belt + 3 ddd	0			100	16	143	126		3	belt	grb	ddd					useitem				meldflag			1	1	levelreq			2	2	res-fire			10	10	abs-fire			1	1																																																																0
+P-Sku + Any Belt + 3 ddd	0			100	16	78	999		3	belt	skb	ddd					useitem				meldflag			1	1	levelreq			2	2	red-mag			1	1	ac			20	20	red-dmg%			1	1																																																											0
+P-Sku + Any Belt + 3 ddd	0			100	16	31	2999		3	belt	skb	ddd					useitem				meldflag			1	1	levelreq			2	2	red-mag			1	1	ac			20	20	red-dmg%			1	1																																																											0
+P-Sku + Any Belt + 3 ddd	0			100	16	36	199		3	belt	skb	ddd					useitem				meldflag			1	1	levelreq			2	2	red-mag			1	1	ac			20	20	red-dmg%			1	1																																																											0
+P-Ame + Any Belt + 3 ddd	0			100	16	31	2999		3	belt	gvb	ddd					useitem				meldflag			1	1	levelreq			2	2	ac			20	20	block			2	2	block1			3	3																																																											0
+P-Ame + Any Belt + 3 ddd	0			100	16	20	62		3	belt	gvb	ddd					useitem				meldflag			1	1	levelreq			2	2	ac			20	20	block			2	2	block1			3	3																																																											0
+P-Ame + Any Belt + 3 ddd	0			100	16	102	119		3	belt	gvb	ddd					useitem				meldflag			1	1	levelreq			2	2	ac			20	20	block			2	2	block1			3	3																																																											0
+P-Sap + Any Belt + 3 ddd	0			100	16	43	149		3	belt	gbb	ddd					useitem				meldflag			1	1	levelreq			2	2	res-cold			10	10	abs-cold			1	1																																																																0
+P-Sap + Any Belt + 3 ddd	0			100	16	149	126		3	belt	gbb	ddd					useitem				meldflag			1	1	levelreq			2	2	res-cold			10	10	abs-cold			1	1																																																																0
+P-Dia + Any Belt + 3 ddd	0			100	16	39	149		3	belt	gwb	ddd					useitem				meldflag			1	1	levelreq			2	2	res-all			3	3	dmg-to-mana			4	4	red-dmg			1	1																																																											0
+P-Dia + Any Belt + 3 ddd	0			100	16	41	149		3	belt	gwb	ddd					useitem				meldflag			1	1	levelreq			2	2	res-all			3	3	dmg-to-mana			4	4	red-dmg			1	1																																																											0
+P-Dia + Any Belt + 3 ddd	0			100	16	43	149		3	belt	gwb	ddd					useitem				meldflag			1	1	levelreq			2	2	res-all			3	3	dmg-to-mana			4	4	red-dmg			1	1																																																											0
+P-Dia + Any Belt + 3 ddd	0			100	16	45	149		3	belt	gwb	ddd					useitem				meldflag			1	1	levelreq			2	2	res-all			3	3	dmg-to-mana			4	4	red-dmg			1	1																																																											0
+P-Dia + Any Belt + 3 ddd	0			100	16	114	149		3	belt	gwb	ddd					useitem				meldflag			1	1	levelreq			2	2	res-all			3	3	dmg-to-mana			4	4	red-dmg			1	1																																																											0
+P-Dia + Any Belt + 3 ddd	0			100	16	34	39		3	belt	gwb	ddd					useitem				meldflag			1	1	levelreq			2	2	res-all			3	3	dmg-to-mana			4	4	red-dmg			1	1																																																											0
+P-Top + Any Belt + 3 ddd	0			100	16	41	149		3	belt	gyb	ddd					useitem				meldflag			1	1	levelreq			2	2	res-ltng			10	10	abs-ltng			1	1																																																																0
+P-Top + Any Belt + 3 ddd	0			100	16	145	126		3	belt	gyb	ddd					useitem				meldflag			1	1	levelreq			2	2	res-ltng			10	10	abs-ltng			1	1																																																																0
+P-Obs + Any Belt + 3 ddd	0			100	16	34	49		3	belt	gbk	ddd					useitem				meldflag			1	1	levelreq			2	2	red-dmg			1	1	ac%			7	7																																																																0
+P-Obs + Any Belt + 3 ddd	0			100	16	16	899		3	belt	gbk	ddd					useitem				meldflag			1	1	levelreq			2	2	red-dmg			1	1	ac%			7	7																																																																0
+P-Eme + Any Armor + 3 ddd	0			100	16	45	149		3	armo	ggb	ddd					useitem				levelreq			2	2	res-pois			10	10	res-pois-len			6	6																																																																					0
+P-Eme + Any Armor + 3 ddd	0			100	16	110	234		3	armo	ggb	ddd					useitem				levelreq			2	2	res-pois			10	10	res-pois-len			6	6																																																																					0
+P-Rub + Any Armor + 3 ddd	0			100	16	39	149		3	armo	grb	ddd					useitem				levelreq			2	2	res-fire			10	10	abs-fire			1	1																																																																					0
+P-Rub + Any Armor + 3 ddd	0			100	16	143	126		3	armo	grb	ddd					useitem				levelreq			2	2	res-fire			10	10	abs-fire			1	1																																																																					0
+P-Sku + Any Armor + 3 ddd	0			100	16	78	999		3	armo	skb	ddd					useitem				levelreq			2	2	red-mag			1	1	ac			20	20	red-dmg%			1	1																																																																0
+P-Sku + Any Armor + 3 ddd	0			100	16	31	2999		3	armo	skb	ddd					useitem				levelreq			2	2	red-mag			1	1	ac			20	20	red-dmg%			1	1																																																																0
+P-Sku + Any Armor + 3 ddd	0			100	16	36	199		3	armo	skb	ddd					useitem				levelreq			2	2	red-mag			1	1	ac			20	20	red-dmg%			1	1																																																																0
+P-Ame + Any Armor + 3 ddd	0			100	16	31	2999		3	armo	gvb	ddd					useitem				levelreq			2	2	ac			20	20	block			2	2	block1			3	3																																																																0
+P-Ame + Any Armor + 3 ddd	0			100	16	20	62		3	armo	gvb	ddd					useitem				levelreq			2	2	ac			20	20	block			2	2	block1			3	3																																																																0
+P-Ame + Any Armor + 3 ddd	0			100	16	102	119		3	armo	gvb	ddd					useitem				levelreq			2	2	ac			20	20	block			2	2	block1			3	3																																																																0
+P-Sap + Any Armor + 3 ddd	0			100	16	43	149		3	armo	gbb	ddd					useitem				levelreq			2	2	res-cold			10	10	abs-cold			1	1																																																																					0
+P-Sap + Any Armor + 3 ddd	0			100	16	149	126		3	armo	gbb	ddd					useitem				levelreq			2	2	res-cold			10	10	abs-cold			1	1																																																																					0
+P-Dia + Any Armor + 3 ddd	0			100	16	39	149		3	armo	gwb	ddd					useitem				levelreq			2	2	res-all			3	3	dmg-to-mana			4	4	red-dmg			1	1																																																																0
+P-Dia + Any Armor + 3 ddd	0			100	16	41	149		3	armo	gwb	ddd					useitem				levelreq			2	2	res-all			3	3	dmg-to-mana			4	4	red-dmg			1	1																																																																0
+P-Dia + Any Armor + 3 ddd	0			100	16	43	149		3	armo	gwb	ddd					useitem				levelreq			2	2	res-all			3	3	dmg-to-mana			4	4	red-dmg			1	1																																																																0
+P-Dia + Any Armor + 3 ddd	0			100	16	45	149		3	armo	gwb	ddd					useitem				levelreq			2	2	res-all			3	3	dmg-to-mana			4	4	red-dmg			1	1																																																																0
+P-Dia + Any Armor + 3 ddd	0			100	16	114	149		3	armo	gwb	ddd					useitem				levelreq			2	2	res-all			3	3	dmg-to-mana			4	4	red-dmg			1	1																																																																0
+P-Dia + Any Armor + 3 ddd	0			100	16	34	49		3	armo	gwb	ddd					useitem				levelreq			2	2	res-all			3	3	dmg-to-mana			4	4	red-dmg			1	1																																																																0
+P-Top + Any Armor + 3 ddd	0			100	16	41	149		3	armo	gyb	ddd					useitem				levelreq			2	2	res-ltng			10	10	abs-ltng			1	1																																																																					0
+P-Top + Any Armor + 3 ddd	0			100	16	145	126		3	armo	gyb	ddd					useitem				levelreq			2	2	res-ltng			10	10	abs-ltng			1	1																																																																					0
+P-Obs + Any Armor + 3 ddd	0			100	16	34	49		3	armo	gbk	ddd					useitem				levelreq			2	2	red-dmg			1	1	ac%			7	7																																																																					0
+P-Obs + Any Armor + 3 ddd	0			100	16	16	899		3	armo	gbk	ddd					useitem				levelreq			2	2	red-dmg			1	1	ac%			7	7																																																																					0
 Trap Token	1			100					2	"tokn,any"	body						void																																																																																							0
 Trap Token	1			100					3	"tokn,any"	"body,qty=2"						void																																																																																							0
 Trap Token	1			100					4	"tokn,any"	"body,qty=3"						void																																																																																							0
