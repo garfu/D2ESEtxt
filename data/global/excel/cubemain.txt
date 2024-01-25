@@ -20438,3 +20438,23 @@ Remove Wings From Endless Potential: Purple	1			100					2	Endless Potential	gcv	
 98 TEST UNIQUE	0			100					3	key	up2	hp5					Tinkerer's Dream	127																												key																													up2																													0
 99 TEST UNIQUE	0			100					3	key	up3	hp5					Huge Splashstone	127																												key																													up3																													0
 100 TEST UNIQUE	0			100					3	key	up4	hp5					Perfect Huge Splashstone	127																												key																													up4																													0
+Tinkering Removes +% Summoning Damage - weap x10	1			100	15		9		3	"weap,any"	skc	wms					useitem				extra-summ			-10	-10																					skc																													wms																													0
+Tinkering Removes +% Summoning Damage - ar x10	1			100	15		9		3	"armo,any"	skc	wms					useitem				extra-summ			-10	-10																					skc																													wms																													0
+Tinkering Removes +% Summoning Damage - weap x10	1			100	15		8		3	"weap,any"	skc	wms					useitem				extra-summ			-9	-9																					skc																													wms																													0
+Tinkering Removes +% Summoning Damage - ar x10	1			100	15		8		3	"armo,any"	skc	wms					useitem				extra-summ			-9	-9																					skc																													wms																													0
+Tinkering Removes +% Summoning Damage - weap x10	1			100	15		7		3	"weap,any"	skc	wms					useitem				extra-summ			-8	-8																					skc																													wms																													0
+Tinkering Removes +% Summoning Damage - ar x10	1			100	15		7		3	"armo,any"	skc	wms					useitem				extra-summ			-8	-8																					skc																													wms																													0
+Tinkering Removes +% Summoning Damage - weap x10	1			100	15		6		3	"weap,any"	skc	wms					useitem				extra-summ			-7	-7																					skc																													wms																													0
+Tinkering Removes +% Summoning Damage - ar x10	1			100	15		6		3	"armo,any"	skc	wms					useitem				extra-summ			-7	-7																					skc																													wms																													0
+Tinkering Removes +% Summoning Damage - weap x10	1			100	15		5		3	"weap,any"	skc	wms					useitem				extra-summ			-6	-6																					skc																													wms																													0
+Tinkering Removes +% Summoning Damage - ar x10	1			100	15		5		3	"armo,any"	skc	wms					useitem				extra-summ			-6	-6																					skc																													wms																													0
+Tinkering Removes +% Summoning Damage - weap x10	1			100	15		4		3	"weap,any"	skc	wms					useitem				extra-summ			-5	-5																					skc																													wms																													0
+Tinkering Removes +% Summoning Damage - ar x10	1			100	15		4		3	"armo,any"	skc	wms					useitem				extra-summ			-5	-5																					skc																													wms																													0
+Tinkering Removes +% Summoning Damage - weap x10	1			100	15		3		3	"weap,any"	skc	wms					useitem				extra-summ			-4	-4																					skc																													wms																													0
+Tinkering Removes +% Summoning Damage - ar x10	1			100	15		3		3	"armo,any"	skc	wms					useitem				extra-summ			-4	-4																					skc																													wms																													0
+Tinkering Removes +% Summoning Damage - weap x10	1			100	15		2		3	"weap,any"	skc	wms					useitem				extra-summ			-3	-3																					skc																													wms																													0
+Tinkering Removes +% Summoning Damage - ar x10	1			100	15		2		3	"armo,any"	skc	wms					useitem				extra-summ			-3	-3																					skc																													wms																													0
+Tinkering Removes +% Summoning Damage - weap x10	1			100	15		1		3	"weap,any"	skc	wms					useitem				extra-summ			-2	-2																					skc																													wms																													0
+Tinkering Removes +% Summoning Damage - ar x10	1			100	15		1		3	"armo,any"	skc	wms					useitem				extra-summ			-2	-2																					skc																													wms																													0
+Tinkering Removes +% Summoning Damage - weap x10	1			100	15		0		3	"weap,any"	skc	wms					useitem				extra-summ			-1	-1																					skc																													wms																													0
+Tinkering Removes +% Summoning Damage - ar x10	1			100	15		0		3	"armo,any"	skc	wms					useitem				extra-summ			-1	-1																					skc																													wms																													0
