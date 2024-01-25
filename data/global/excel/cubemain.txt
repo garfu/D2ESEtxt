@@ -20265,9 +20265,9 @@ Superconductor	1			100					11	zz2	"sbs,qty=4"	"r96,qty=2"	"r97,qty=2"	r91	r88		S
 Entropic Aura Stone	1			100					4	an3	an5	an7	an8				zz1	99																																																																																						0
 Superconductive Aura Stone	1			100					4	an3	an9	an7	an8				zz2	99																																																																																						0
 Chromatic Brilliance	1			100					3	Entropy	Superconductor	Radiance					Chromatic Brilliance	99																																																																																						0
-Crystallized Radiance	1			100					31	Radiance	"up1,qty=5"	"up2,qty=5"	"up3,qty=5"	"up4,qty=5"	"up5,qty=5"	"up6,qty=5"	x1c	99																																																																																						0
-Crystallized Entropy	1			100					31	Entropy	"up1,qty=5"	"up2,qty=5"	"up3,qty=5"	"up4,qty=5"	"up5,qty=5"	"up6,qty=5"	x2c	99																																																																																						0
-Crystallized Superconductor	1			100					31	Superconductor	"up1,qty=5"	"up2,qty=5"	"up3,qty=5"	"up4,qty=5"	"up5,qty=5"	"up6,qty=5"	x3c	99																																																																																						0
+Crystallized Radiance	1			100					25	Radiance	"um1,qty=4"	"um2,qty=4"	"um3,qty=4"	"um4,qty=4"	"um5,qty=4"	"um6,qty=4"	x1c	99																																																																																						0
+Crystallized Entropy	1			100					25	Entropy	"um1,qty=4"	"um2,qty=4"	"um3,qty=4"	"um4,qty=4"	"um5,qty=4"	"um6,qty=4"	x2c	99																																																																																						0
+Crystallized Superconductor	1			100					25	Superconductor	"um1,qty=4"	"um2,qty=4"	"um3,qty=4"	"um4,qty=4"	"um5,qty=4"	"um6,qty=4"	x3c	99																																																																																						0
 Multi Stocker Input Geode	1			100	16	439	64000		2	can8	pp1						useitem				item-02			64	64																																																																															0
 Multi Stocker Input Platter	1			100	16	441	64000		2	can8	1z1						useitem				item-04			10	10																																																																															0
 Multi Stocker Input Branch	1			100	16	438	64000		2	can8	ma1						useitem				item-01			5	5																																																																															0
@@ -20458,3 +20458,8 @@ Tinkering Removes +% Summoning Damage - weap x10	1			100	15		1		3	"weap,any"	skc
 Tinkering Removes +% Summoning Damage - ar x10	1			100	15		1		3	"armo,any"	skc	wms					useitem				extra-summ			-2	-2																					skc																													wms																													0
 Tinkering Removes +% Summoning Damage - weap x10	1			100	15		0		3	"weap,any"	skc	wms					useitem				extra-summ			-1	-1																					skc																													wms																													0
 Tinkering Removes +% Summoning Damage - ar x10	1			100	15		0		3	"armo,any"	skc	wms					useitem				extra-summ			-1	-1																					skc																													wms																													0
+Replace Broken Claws With Fixed Claw: Fire	1			100					2	"5qd,uni"	gcr						Molten Fangs	95																																																																																						0
+Replace Broken Claws With Fixed Claw: Cold	1			100					2	"5qd,uni"	gcb						Frozen Fangs	95																																																																																						0
+Replace Broken Claws With Fixed Claw: Ltng	1			100					2	"5qd,uni"	gcy						Arcing Fangs	95																																																																																						0
+Replace Broken Claws With Fixed Claw: Pois	1			100					2	"5qd,uni"	gcg						Jaws of Nature	95																																																																																						0
+Replace Broken Claws With Fixed Claw: Phys	1			100					2	"5qd,uni"	gcw						Mechanicus	95																																																																																						0
