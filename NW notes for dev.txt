@@ -1,3 +1,4 @@
 Map bosses to get a lot more HP, aggro range, visual distinction and action speed. DOUBLE HP, AURA VISUAL
 Tiered uniques system, bosses drop uniques of that tier, next tier up trash mobs drop uniques of previous tier bosses DONE
 Uber bosses either need to be stronger, or introduce variants of them. MADE TANKIER
+Fix gem melds bypassing tinker caps
