@@ -9,3 +9,4 @@ GFU-An "in-between" map that comes between current content and maps to move map 
 GFU-Reroll new uniques but for something expensive - maple + skillbook?
 GFU-Sa packs added toloot pool of mats in maps. I can balance
 GFU-Not many or 0 unique packs in maps, intended?
+GFU-Allow JoaT, Soulstones, and Steak platters stack in new multistocker to be able to remove them as those items and tinker on +20 hp/mana and add vonersion to soulstone recipe to steak platter
