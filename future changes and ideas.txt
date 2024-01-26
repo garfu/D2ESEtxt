@@ -8,3 +8,4 @@ GFU-Possible to put ES behind one of the defenses? DR% or MDR/DR, both might be 
 GFU-An "in-between" map that comes between current content and maps to move map drops off of Nihl and provide some harder content that isn't just maps. Could obivouslly be a map drop from Nihl heh
 GFU-Reroll new uniques but for something expensive - maple + skillbook?
 GFU-Sa packs added toloot pool of mats in maps. I can balance
+GFU-Not many or 0 unique packs in maps, intended?
