@@ -1543,14 +1543,14 @@ M Andariel Tier 1	30	89	-2						M Anguish Tier 1	1	M Boss Misc Tier 1	1									
 M Andariel Tier 2	30	90	-2						M Anguish Tier 2	1	M Boss Misc Tier 2	1																				0
 M Andariel Tier 3	30	91	-2						M Anguish Tier 3	1	M Boss Misc Tier 3	1																				0
 M Andariel Tier 4	30	92	-2						M Anguish Tier 4	1	M Boss Misc Tier 4	1																				0
-M Andariel Tier 5	30	93	-2						M Anguish Tier 5	1	M Boss Misc Tier 5	1																				0
-M Andariel Tier 6	30	94	-2						M Anguish Tier 6	1	M Boss Misc Tier 6	1																				0
+M Andariel Tier 5	30	93	-2						Nothing 	2	M Anguish Tier 5	1	M Boss Misc Tier 5	1																		0
+M Andariel Tier 6	30	94	-2						Nothing	2	M Anguish Tier 6	1	M Boss Misc Tier 6	1																		0
 M Duriel Tier 1	31	89	-2						M Pained Tier 1	1	M Boss Misc Tier 1	1																				0
 M Duriel Tier 2	31	90	-2						M Pained Tier 2	1	M Boss Misc Tier 2	1																				0
 M Duriel Tier 3	31	91	-2						M Pained Tier 3	1	M Boss Misc Tier 3	1																				0
 M Duriel Tier 4	31	92	-2						M Pained Tier 4	1	M Boss Misc Tier 4	1																				0
-M Duriel Tier 5	31	93	-2						M Pained Tier 5	1	M Boss Misc Tier 5	1																				0
-M Duriel Tier 6	31	94	-2						M Pained Tier 6	1	M Boss Misc Tier 6	1																				0
+M Duriel Tier 5	31	93	-2						Nothing	2	M Pained Tier 5	1	M Boss Misc Tier 5	1																		0
+M Duriel Tier 6	31	94	-2						Nothing	2	M Pained Tier 6	1	M Boss Misc Tier 6	1																		0
 M Baal Tier 1	32	89	-2						M Baleful Tier 1	1	M Boss Misc Tier 1	1																				0
 M Baal Tier 2	32	90	-2						M Baleful Tier 2	1	M Boss Misc Tier 2	1																				0
 M Baal Tier 3	32	91	-2						M Baleful Tier 3	1	M Boss Misc Tier 3	1																				0
