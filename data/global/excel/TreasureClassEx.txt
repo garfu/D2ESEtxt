@@ -1504,11 +1504,11 @@ M Mats Tier 4	23	92	2						Nothing	6	pp1	6	ma1	4	yy1	0	hr1	8	so1	8	00g	2	00t	2	0
 M Mats Tier 5	23	93	3						Nothing	6	pp1	7	ma1	5	yy1	0	hr1	9	so1	9	00g	1	00t	1	00r	1	00h	1				0
 M Mats Tier 6	23	94	4						Nothing	6	pp1	8	ma1	6	yy1	0	hr1	10	so1	10	00g	1	00t	1	00r	1	00h	1				0
 M Xtal Tier 1 	24	89	1						Nothing	1	dclone_xtals_nr_1	1	dclone_xtals_nr_2	1																		0
-M Xtal Tier 2	24	90	1							1	dclone_xtals_nr_1	1	dclone_xtals_nr_2	1																		0
-M Xtal Tier 3	24	91	1							1	dclone_xtals_nr_1	1	dclone_xtals_nr_2	1																		0
-M Xtal Tier 4	24	92	2							1	dclone_xtals_nr_1	1	dclone_xtals_nr_2	1																		0
-M Xtal Tier 5	24	93	2							1	dclone_xtals_nr_1	1	dclone_xtals_nr_2	1																		0
-M Xtal Tier 6	24	94	3							1	dclone_xtals_nr_1	1	dclone_xtals_nr_2	1																		0
+M Xtal Tier 2	24	90	1						Nothing	1	dclone_xtals_nr_1	1	dclone_xtals_nr_2	1																		0
+M Xtal Tier 3	24	91	1						Nothing	1	dclone_xtals_nr_1	1	dclone_xtals_nr_2	1																		0
+M Xtal Tier 4	24	92	2						Nothing	1	dclone_xtals_nr_1	1	dclone_xtals_nr_2	1																		0
+M Xtal Tier 5	24	93	2						Nothing	1	dclone_xtals_nr_1	1	dclone_xtals_nr_2	1																		0
+M Xtal Tier 6	24	94	3						Nothing	1	dclone_xtals_nr_1	1	dclone_xtals_nr_2	1																		0
 M Runes 16 Tier 1	25	89	1						Nothing	100	r50	8	r46	10	33l	3	Runes 15	2200														0
 M Runes 16 Tier 2	25	90	1						Nothing	100	r50	16	r46	20	33l	6	Runes 15	2100														0
 M Runes 16 Tier 3	25	91	1						Nothing	100	r50	24	r46	30	33l	9	Runes 15	2000														0
