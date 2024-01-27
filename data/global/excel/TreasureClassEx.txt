@@ -1445,16 +1445,16 @@ dclone_xtals			1						dclone_xtals_nr_0	1	dclone_xtals_fl_0	19	dclone_xtals_ch_0
 RatHrt			1					5	hrt	1																						0
 M Focus Uniques			1						Glacial Focus	1	Magmatic Focus	1	Arcing Focus	1	Psychic Focus	1	Geothermic Focus	1	Vile Focus	1	Celestial Focus	1	Webbed Focus	1	Spiritual Focus	1						0
 M Glove Uniques			1						Solar Eclipse	1	Lunar Eclipse	1	Voltaic Storm	1	Pox Corona	1	Hurricanic Gale	1	Aetheric Anomaly	1												0
-M Helm Uniques			1						Solar Nexus	1	Lunar Nexus	1	Voltaic Nexus	1	Pox Nexus	1	Hurricanic Nexus	1	Aetheric Nexus	1												0
+M Helm Uniques			1						Solar Nexus	2	Lunar Nexus	2	Voltaic Nexus	2	Pox Nexus	2	Hurricanic Nexus	2	Aetheric Nexus	2	Skirmisher's Mastery	1	Brawler's Mastery	1								0
 M Boot Uniques			1						Solar Flare	1	Lunar Tide	1	Voltaic Field	1	Pox Miasma	1	Hurricanic Typhoon	1	Aetheric Disjunction	1												0
 M Belt Uniques			1						Solar Wind	1	Lunar Umbra	1	Voltaic Cascade	1	Pox Plague	1	Hurricanic Maelstrom	1	Aetheric Chaos	1												0
 M 1H Uniques 1			1						Formed Flame	1	Ice Bite	1	Thunderhead Gavel	1	Breath of the Balrog	1	Breath of The Ice Fiend	1	Breath of The Stormlord	1	Breath of The Rotting	1	Breath of The Dervish	1	Breath of The Unknowable	1						0
 M 1H Uniques 2			1						Molten Fangs	1	Frozen Fangs	1	Arcing Fangs	1	Jaws of Nature	1	Mechanicus	1	Quills of Nature	1	The Cull	1										0
 M 2H Uniques			1						Reach of Nature	1	The Reaper's Beckoning	1	Torrent Of Nature	1	Death Spitter	1	Spine of the Balrog	1	Spine of The Ice Fiend	1	Spine of The Stormlord	1	Spine of The Rotting	1	Spine of The Dervish	1	Spine of The Unknowable	1				0
 M Armo Uniques			1						Nature's Bulwark	1	Enslaver	1	Infinite Thoughts	1	Endless Barrage	1	Perpetual Fury	1														0
-M Trinket Uniques 1			1						The Other Ring	2	Layers of Abstraction	2	Tinkerer's Dream	1	Skirmisher's Mastery	1	Brawler's Mastery	1	Dweia's Revenge	1	Yagul's Bloody Rage	1	Smaqdoun's Painful Pride	1	BlackKnight's Holy Signet	1	The Cursed Donut	1				0
-M Trinket Uniques 2			1						The Mistress' Leather Collar	1	Plague's Last Arrowhead	1	Killjoy's Attitude	5	Yagul's Wrath	1	The Mad Celt's Shining Sparkly	1	The Tipsy Donut	1	BlackMage's Knucklebone	1	Killashandra Ree's Black C	1	Dfuzzz's Fingerguard	5						0
-M Trinkets Grouped			1						Nothing	200	M Trinket Uniques 1	1	M Trinket Uniques 2	1																		0
+M Trinket Uniques 1			1						The Other Ring	1	Layers of Abstraction	1	Tinkerer's Dream	1																		0
+M Trinket Uniques 2			1						Killjoy's Attitude	1	Yagul's Wrath	1	The Mad Celt's Shining Sparkly	1	The Tipsy Donut	1	BlackMage's Knucklebone	1	Killashandra Ree's Black C	1	Dfuzzz's Fingerguard	1										0
+M Trinkets Grouped			1						Nothing	100	M Trinket Uniques 1	1	M Trinket Uniques 2	1																		0
 M Uniques Tier 1	16	89	1						Nothing	5	M Trinkets Grouped	1	M Focus Uniques	1	M 1H Uniques 1	1	M 1H Uniques 2	1	M 2H Uniques	1												0
 M Uniques Tier 2	16	90	1						Nothing	5	M Trinkets Grouped	1	M Focus Uniques	1	M 1H Uniques 1	1	M 1H Uniques 2	1	M 2H Uniques	1	M Glove Uniques	1										0
 M Uniques Tier 3	16	91	1						Nothing	5	M Trinkets Grouped	1	M Focus Uniques	1	M 1H Uniques 1	1	M 1H Uniques 2	1	M 2H Uniques	1	M Glove Uniques	1	M Helm Uniques	1								0
