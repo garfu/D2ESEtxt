@@ -20319,12 +20319,12 @@ Upgrade Splashstone Small > Medium	1			100					4	Small Splashstone	"map,qty=3"		
 Upgrade Splashstone Medium > Large	1			100					10	Medium Splashstone	"map,qty=9"						Large Splashstone	54																																																																																						0
 Upgrade Splashstone Large > Huge	1			100					18	Large Splashstone	"map,qty=15"	"r50,qty=2"					Huge Splashstone	84																																																																																						0
 Upgrade Splashstone Huge > Perfect	1			100					6	Huge Splashstone	"umt2,qty=5"						Perfect Huge Splashstone	84																																																																																						0
-Create Uber Boss Token : The Undying Inferno	1			100					11	"up1,qty=20"	m34						1b1	99																												m34	99																																																									0
-Create Uber Boss Token : The Frozen Waste	1			100					11	"up2,qty=20"	m36						1b2	99																												m36	99																																																									0
-Create Uber Boss Token : The Static Plateau	1			100					11	"up3,qty=20"	m33						1b3	99																												m33	99																																																									0
-Create Uber Boss Token : The Decaying Mire	1			100					11	"up5,qty=20"	m32						1b4	99																												m32	99																																																									0
-Create Uber Boss Token : The Firmament Enduring	1			100					11	"up4,qty=20"	m31						1b5	99																												m31	99																																																									0
-Create Uber Boss Token : The Nexus Arcana	1			100					11	"up6,qty=20"	m35						1b6	99																												m35	99																																																									0
+Create Uber Boss Token : The Undying Inferno	1			100					21	"up1,qty=20"	m34						1b1	99																												m34	99																																																									0
+Create Uber Boss Token : The Frozen Waste	1			100					21	"up2,qty=20"	m36						1b2	99																												m36	99																																																									0
+Create Uber Boss Token : The Static Plateau	1			100					21	"up3,qty=20"	m33						1b3	99																												m33	99																																																									0
+Create Uber Boss Token : The Decaying Mire	1			100					21	"up5,qty=20"	m32						1b4	99																												m32	99																																																									0
+Create Uber Boss Token : The Firmament Enduring	1			100					21	"up4,qty=20"	m31						1b5	99																												m31	99																																																									0
+Create Uber Boss Token : The Nexus Arcana	1			100					21	"up6,qty=20"	m35						1b6	99																												m35	99																																																									0
 Create Uber-Uber Boss Token: Wish of Night Eternal	0			100					6	bh1	bh2	bh3	bh4	bh5	bh6			99																																																																																						0
 Add Wings To Endless Potential: Red	1			100					2	Endless Potential	bh1						useitem	99			state		185	1	1																					bh1	99																																																									0
 Add Wings To Endless Potential: Blue	1			100					2	Endless Potential	bh2						useitem	99			state		187	1	1																					bh2	99																																																									0
