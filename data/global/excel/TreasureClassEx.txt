@@ -1461,48 +1461,48 @@ M Uniques Tier 3	16	91	1						Nothing	14	M Trinkets Grouped	1	M Focus Uniques	1	
 M Uniques Tier 4	16	92	1						Nothing	16	M Trinkets Grouped	1	M Focus Uniques	1	M 1H Uniques 1	1	M 1H Uniques 2	1	M 2H Uniques	1	M Glove Uniques	1	M Helm Uniques	1	M Boot Uniques	1						0
 M Uniques Tier 5	16	93	1						Nothing	18	M Trinkets Grouped	1	M Focus Uniques	1	M 1H Uniques 1	1	M 1H Uniques 2	1	M 2H Uniques	1	M Glove Uniques	1	M Helm Uniques	1	M Boot Uniques	1	M Belt Uniques	1				0
 M Uniques Tier 6	16	94	1						Nothing	20	M Focus Uniques	1	M 1H Uniques 1	1	M 1H Uniques 2	1	M 2H Uniques	1	M Glove Uniques	1	M Helm Uniques	1	M Boot Uniques	1	M Belt Uniques	1	M Armo Uniques	1				0
-M Diabolic Tier 1	17	89	1						um1	98	up1	2																				0
-M Diabolic Tier 2	17	90	2						um1	97	up1	3																				0
-M Diabolic Tier 3	17	91	3						um1	96	up1	4																				0
-M Diabolic Tier 4	17	92	4						um1	95	up1	5																				0
-M Diabolic Tier 5	17	93	5						um1	94	up1	6																				0
-M Diabolic Tier 6	17	94	6						um1	93	up1	7																				0
-M Anguish Tier 1	18	89	1						um5	98	up5	2																				0
-M Anguish Tier 2	18	90	2						um5	97	up5	3																				0
-M Anguish Tier 3	18	91	3						um5	96	up5	4																				0
-M Anguish Tier 4	18	92	4						um5	95	up5	5																				0
-M Anguish Tier 5	18	93	5						um5	94	up5	6																				0
-M Anguish Tier 6	18	94	6						um5	93	up5	7																				0
-M Baleful Tier 1	19	89	1						um3	98	up3	2																				0
-M Baleful Tier 2	19	90	2						um3	97	up3	3																				0
-M Baleful Tier 3	19	91	3						um3	96	up3	4																				0
-M Baleful Tier 4	19	92	4						um3	95	up3	5																				0
-M Baleful Tier 5	19	93	5						um3	94	up3	6																				0
-M Baleful Tier 6	19	94	6						um3	93	up3	7																				0
-M Mephitic Tier 1	20	89	1						um2	98	up2	2																				0
-M Mephitic Tier 2	20	90	2						um2	97	up2	3																				0
-M Mephitic Tier 3	20	91	3						um2	96	up2	4																				0
-M Mephitic Tier 4	20	92	4						um2	95	up2	5																				0
-M Mephitic Tier 5	20	93	5						um2	94	up2	6																				0
-M Mephitic Tier 6	20	94	6						um2	93	up2	7																				0
-M Pained Tier 1	21	89	1						um4	98	up4	2																				0
-M Pained Tier 2	21	90	2						um4	97	up4	3																				0
-M Pained Tier 3	21	91	3						um4	96	up4	4																				0
-M Pained Tier 4	21	92	4						um4	95	up4	5																				0
-M Pained Tier 5	21	93	5						um4	94	up4	6																				0
-M Pained Tier 6	21	94	6						um4	93	up4	7																				0
-M Convoking Tier 1	22	89	1						um6	98	up6	2																				0
-M Convoking Tier 2	22	90	2						um6	97	up6	3																				0
-M Convoking Tier 3	22	91	3						um6	96	up6	4																				0
-M Convoking Tier 4	22	92	4						um6	95	up6	5																				0
-M Convoking Tier 5	22	93	5						um6	94	up6	6																				0
-M Convoking Tier 6	22	94	6						um6	93	up6	7																				0
-M Mats Tier 1	23	89	1						Nothing	3	pp1	3	ma1	1	yy1	1	hr1	5	so1	5	00g	3	00t	3	00r	3	00h	3				0
-M Mats Tier 2	23	90	1						Nothing	3	pp1	4	ma1	2	yy1	1	hr1	6	so1	6	00g	3	00t	3	00r	3	00h	3				0
-M Mats Tier 3	23	91	2						Nothing	3	pp1	5	ma1	3	yy1	1	hr1	7	so1	7	00g	2	00t	2	00r	2	00h	2				0
-M Mats Tier 4	23	92	2						Nothing	3	pp1	6	ma1	4	yy1	1	hr1	8	so1	8	00g	2	00t	2	00r	2	00h	2				0
-M Mats Tier 5	23	93	3						Nothing	3	pp1	7	ma1	5	yy1	1	hr1	9	so1	9	00g	1	00t	1	00r	1	00h	1				0
-M Mats Tier 6	23	94	4						Nothing	3	pp1	8	ma1	6	yy1	1	hr1	10	so1	10	00g	1	00t	1	00r	1	00h	1				0
+M Diabolic Tier 1	17	89	1						um1	100	up1	0																				0
+M Diabolic Tier 2	17	90	2						um1	99	up1	1																				0
+M Diabolic Tier 3	17	91	3						um1	98	up1	2																				0
+M Diabolic Tier 4	17	92	4						um1	97	up1	3																				0
+M Diabolic Tier 5	17	93	5						um1	96	up1	4																				0
+M Diabolic Tier 6	17	94	6						um1	96	up1	4																				0
+M Anguish Tier 1	18	89	1						um5	100	up5	0																				0
+M Anguish Tier 2	18	90	2						um5	99	up5	1																				0
+M Anguish Tier 3	18	91	3						um5	98	up5	2																				0
+M Anguish Tier 4	18	92	4						um5	97	up5	3																				0
+M Anguish Tier 5	18	93	5						um5	96	up5	4																				0
+M Anguish Tier 6	18	94	6						um5	96	up5	4																				0
+M Baleful Tier 1	19	89	1						um3	100	up3	0																				0
+M Baleful Tier 2	19	90	2						um3	99	up3	1																				0
+M Baleful Tier 3	19	91	3						um3	98	up3	2																				0
+M Baleful Tier 4	19	92	4						um3	97	up3	3																				0
+M Baleful Tier 5	19	93	5						um3	96	up3	4																				0
+M Baleful Tier 6	19	94	6						um3	96	up3	4																				0
+M Mephitic Tier 1	20	89	1						um2	100	up2	0																				0
+M Mephitic Tier 2	20	90	2						um2	99	up2	1																				0
+M Mephitic Tier 3	20	91	3						um2	98	up2	2																				0
+M Mephitic Tier 4	20	92	4						um2	97	up2	3																				0
+M Mephitic Tier 5	20	93	5						um2	96	up2	4																				0
+M Mephitic Tier 6	20	94	6						um2	96	up2	4																				0
+M Pained Tier 1	21	89	1						um4	100	up4	0																				0
+M Pained Tier 2	21	90	2						um4	99	up4	1																				0
+M Pained Tier 3	21	91	3						um4	98	up4	2																				0
+M Pained Tier 4	21	92	4						um4	97	up4	3																				0
+M Pained Tier 5	21	93	5						um4	96	up4	4																				0
+M Pained Tier 6	21	94	6						um4	96	up4	4																				0
+M Convoking Tier 1	22	89	1						um6	100	up6	0																				0
+M Convoking Tier 2	22	90	2						um6	99	up6	1																				0
+M Convoking Tier 3	22	91	3						um6	98	up6	2																				0
+M Convoking Tier 4	22	92	4						um6	97	up6	3																				0
+M Convoking Tier 5	22	93	5						um6	96	up6	4																				0
+M Convoking Tier 6	22	94	6						um6	96	up6	4																				0
+M Mats Tier 1	23	89	1						Nothing	3	pp1	3	ma1	1	yy1	0	hr1	5	so1	5	00g	3	00t	3	00r	3	00h	3				0
+M Mats Tier 2	23	90	1						Nothing	3	pp1	4	ma1	2	yy1	0	hr1	6	so1	6	00g	3	00t	3	00r	3	00h	3				0
+M Mats Tier 3	23	91	2						Nothing	3	pp1	5	ma1	3	yy1	0	hr1	7	so1	7	00g	2	00t	2	00r	2	00h	2				0
+M Mats Tier 4	23	92	2						Nothing	3	pp1	6	ma1	4	yy1	0	hr1	8	so1	8	00g	2	00t	2	00r	2	00h	2				0
+M Mats Tier 5	23	93	3						Nothing	3	pp1	7	ma1	5	yy1	0	hr1	9	so1	9	00g	1	00t	1	00r	1	00h	1				0
+M Mats Tier 6	23	94	4						Nothing	3	pp1	8	ma1	6	yy1	0	hr1	10	so1	10	00g	1	00t	1	00r	1	00h	1				0
 M Xtal Tier 1 	24	89	1						dclone_xtals_nr_1	1	dclone_xtals_nr_2	1																				0
 M Xtal Tier 2	24	90	1						dclone_xtals_nr_1	1	dclone_xtals_nr_2	1																				0
 M Xtal Tier 3	24	91	1						dclone_xtals_nr_1	1	dclone_xtals_nr_2	1																				0
