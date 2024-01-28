@@ -470,7 +470,7 @@ Jindujun	100	1		1	1	45	40	jew	Jewel	1		7	20000	lblu	lblu						move3		30	30	dex		
 Bohemian Stone	100	1		1	1	50	45	jew	Jewel	1		9	30000	cgrn	cgrn						dmg-pois	125	738	738	red-dmg		6	10	pierce-pois		4	5	hit-skill	Poison Nova	5	16																																	0
 Icestorm Shard	100	1		1	1	55	50	jew	Jewel	1		9	30000	cblu	cblu						dmg-cold	125	30	160	hit-skill	Glacial Spike	7	13	pierce-cold		4	5	regen-mana		20	20																																	0
 Lady Eboshi's Greed	100	1		1	1	50	45	jew	Jewel	1		8	25000	dyel	dyel						gold%		25	25	mag%		25	25	lifesteal		5	8	mana-kill		5	8																																	0
-Salamander Stone	100	1		1	1	55	50	jew	Jewel	1		9	30000	dred	dred						regen		100	100	dmg-fire		40	210	hit-skill	Fire Ball	8	18	pierce-fire		4	5																																	0
+Salamander Stone	100	1		1	1	55	50	jew	Jewel	1		9	30000	dred	dred						regen		500	500	dmg-fire		40	210	hit-skill	Fire Ball	8	18	pierce-fire		4	5																																	0
 Nexus Star	100	1		1	1	50	45	jew	Jewel	1		8	25000	lgld	lgld						res-all		15	15	res-all-max		3	3	red-mag		5	8	dmg-mag		50	150	res-mag-max		3	3	res-mag		10	10																									0
 Smiiiff Stone	100	1		1	1	60	55	jew	Jewel	1		10	35000	dgry	dgry						oskill	Shadow Master	3	3	str		5	10	dex		5	10	skilltab	19	1	1																																	0
 Larias' Licentious Lament	100	1		1	1	60	55	jew	Jewel	1		10	35000	lyel	lyel						oskill	Valkyrie	3	3	vit		5	10	enr		5	10	skilltab	1	1	1																																	0
