@@ -2,8 +2,6 @@ New/more expensive Kanji for goldfind runewords.
 Splash for minions.
 Right-click to add fakenote gold directly to character. NOT NEEDED - YEAH DONT DO THIS THANKS
 Consumable maps and changes to the systems surrounding it.
-GFU-In maps, switch out radament's head etc for organ packs. They are just ores p much
-		Alternatively, remove the creation recipes so those only drop in maps since MOK/LOK is good
 GFU-Possible to put ES behind one of the defenses? DR% or MDR/DR, both might be OP, prob dll change or something 
 GFU-An "in-between" map that comes between current content and maps to move map drops off of Nihl and provide some harder content that isn't just maps. Could obivouslly be a map drop from Nihl heh
 GFU-Reroll new uniques but for something expensive - maple + skillbook?
