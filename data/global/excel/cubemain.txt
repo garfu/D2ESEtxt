@@ -20532,3 +20532,7 @@ Brawler's Mastery	1			100					4	Brawler's Mastery	"6gk,qty=3"						Brawler's Mas
 Infinite Thoughts	1			100					4	Infinite Thoughts	"6gk,qty=3"						Infinite Thoughts	95																																																																																						0
 Endless Barrage	1			100					4	Endless Barrage	"6gk,qty=3"						Endless Barrage	95																																																																																						0
 Perpetual Fury	1			100					4	Perpetual Fury	"6gk,qty=3"						Perpetual Fury	95																																																																																						0
+Remove Cold Damage%	1			100					3	any	wms	gcb					useitem				extra-cold			-10	-10																					wms																																																										0
+Remove Fire Damage%	1			100					3	any	wms	gcr					useitem				extra-fire			-10	-10																					wms																																																										0
+Remove Lit Damage%	1			100					3	any	wms	gcy					useitem				extra-ltng			-10	-10																					wms																																																										0
+Remove Poison Damage%	1			100					3	any	wms	gcg					useitem				extra-pois			-10	-10																					wms																																																										0
