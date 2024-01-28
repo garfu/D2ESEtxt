@@ -4,7 +4,6 @@ Right-click to add fakenote gold directly to character. NOT NEEDED - YEAH DONT D
 Consumable maps and changes to the systems surrounding it.
 GFU-Possible to put ES behind one of the defenses? DR% or MDR/DR, both might be OP, prob dll change or something 
 GFU-An "in-between" map that comes between current content and maps to move map drops off of Nihl and provide some harder content that isn't just maps. Could obivouslly be a map drop from Nihl heh
-GFU-Reroll new uniques but for something expensive - maple + skillbook?
 GFU-Sa packs added toloot pool of mats in maps. I can balance
 GFU-Not many or 0 unique packs in maps, intended?
 GFU-Allow JoaT, Soulstones, and Steak platters stack in new multistocker to be able to remove them as those items and tinker on +20 hp/mana and add vonersion to soulstone recipe to steak platter
