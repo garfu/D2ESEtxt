@@ -2722,9 +2722,9 @@ Unique Reroll LoD Armor Eli	1			1	18	202	0		4	Alma Negra	"gem5,qty=3"						Alma 
 Unique Reroll LoD Armor Eli	1			1	18	202	0		4	Dragonscale	"gem5,qty=3"						Dragonscale	99																																																																																						0
 Unique Reroll LoD Armor Eli	1			1	18	202	0		4	Darkforge Spawn	"gem5,qty=3"						Darkforge Spawn	99																																																																																						0
 Unique Reroll LoD Armor Eli	1			1	18	202	0		4	Boneflame	"gem5,qty=3"						Boneflame	99																																																																																						0
-Unique Reroll Bas	1			1	18	202	0		2	"nin,uni"	gem5						Phalzyr's Frenzy	99																																																																																						0
-Unique Reroll Bas	1			1	18	202	0		2	"weap,bas,uni"	gem5						"usetype,uni"	99																																																																																						0
-Unique Reroll Bas	1			1	18	202	0		2	"armo,bas,uni"	gem5						"usetype,uni"	99																																																																																						0
+Unique Reroll Bas	0			1	18	202	0		2	"nin,uni"	gem5						Phalzyr's Frenzy	99																																																																																						0
+Unique Reroll Bas	0			1	18	202	0		2	"weap,bas,uni"	gem5						"usetype,uni"	99																																																																																						0
+Unique Reroll Bas	0			1	18	202	0		2	"armo,bas,uni"	gem5						"usetype,uni"	99																																																																																						0
 Set Token	1			100					1	u00							Autolycus' Robes	99																																																																																						0
 Set Token	1			100					1	u01							Autolycus' Thieving Tools	99																																																																																						0
 Set Token	1			100					1	u02							Boots of Sneaking	99																																																																																						0
