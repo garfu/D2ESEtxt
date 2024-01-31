@@ -9,6 +9,7 @@ GFU-Not many or 0 unique packs in maps, intended?
 GFU-Allow JoaT, Soulstones, and Steak platters stack in new multistocker to be able to remove them as those items and tinker on +20 hp/mana and add vonersion to soulstone recipe to steak platter
 GFU-Make every single summon do some sort of elemental damage so their damage doesn't roll over and summon builds could actually work. Look into phasing?
 GFU-Mapling using 2x maple branch + eventual Sa 10pack drop + scroll 50 for -40 req level. Hopefully recipe is each, just use 'any' I guess... lol
+GFU-dll edit for arrow quantity. Ikanreed did it one realm for us. I'm sure we can figure it out or ask him
 
 Next Season:
 GFU-Cap -enemy resist at -200. Run into overflows too easy with it uncapped. Allows for better gearing in general. Als adjust new unques to like -25 for early tiers and -50 for later tiers max
