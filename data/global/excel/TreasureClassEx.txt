@@ -699,7 +699,7 @@ M Maps Nihl			1						mt1	1	mt2	1	mt3	1	mt4	1	mt5	1	mt6	1												0
 ROP (H) HellNihl			4						ROP Charm	10	ROP (H) - Base	10	M Maps Nihl	8	Tinkerer's Dream	2																0
 Nihlathak			6						Act 5  Boss	1080	Ore (GFU)	1																				0
 Nihlathak (N)			6						Act 5 (N) Boss	720	Ore (GFU)	1																				0
-Nihlathak (H)			6						Act 5 (H) Boss	50	Ore (GFU)	20	ROP (H) HellNihl	10																		0
+Nihlathak (H)			6						Act 5 (H) Boss	50	Ore (GFU)	20	ROP (H) HellNihl	10	M Focus Uniques	1																0
 Andariel			6						Act 1  Boss	1080	Ore (GFU)	1																				0
 Andariel (N)			6						Act 1 (N) Boss	720	Ore (GFU)	1																				0
 Andariel (H)			6						Act 1 (H) Boss	360	Ore (GFU)	1																				0
