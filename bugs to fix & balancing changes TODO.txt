@@ -6,6 +6,7 @@ Clamp certain stats to 0 to avoid lazy recipe wonkiness with auras etc.
 Skeleton HP overflow? Looks fine in tooltip https://discord.com/channels/247395388380807168/1197421382456315974/1199944792403095572
 FIXED (by removing them)-Chilling Cows causing tile and sprite visibility issues in Ancient Temple map
 Vigour aura stone for nexus helm is actually attack aura
+GFU-Nexus helms aren't adding to skills? https://discord.com/channels/247395388380807168/247395388380807168/1202810160775434330
 
 
 ---------------------------------------------------------------
