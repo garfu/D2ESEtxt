@@ -211,7 +211,7 @@ Polearm Ultra Elite	1pol	pole		1	1	rarm	larm			0	0	0	0			0	0	0	0	6	6	6	0	1		0		0
 Crossbow Ultra Elite	1xbo	xbow		1	1	rarm	larm	xboq		0	0	0	0			0	0	0	0	6	6	6	0	1		0		0							weap	0
 Mace Ultra Elite	1mac	mace		1	1	rarm	larm			0	0	0	0			0	0	0	0	6	6	6	0	1		0		0							weap	0
 Throwing Axe Ultra Elite	1tax	taxe	axe	1	1	rarm	larm			1	1	1	1			0	0	0	0	6	6	6	0	1		0		0							misc	0
-Hand to Hand Ultra Elite	1h2h	h2h		1	1	rarm	larm			0	0	0	0			0	0	0	0	6	6	6	0	1		0		0							weap	0
+Hand to Hand Ultra Elite	1h2h	h2h		1	1	rarm	larm			0	0	0	0			0	0	0	0	6	6	6	0	1		0	ass	0							weap	0
 Javelin Ultra Elite	1jav	jave	spea	1	1	rarm	larm			1	1	1	1			0	0	0	0	6	6	6	0	1		0		0							misc	0
 Uber Boss Heart	ubhr	cube		0	0					0	0	0	0			1	0	0	0	0	0	0	0	1		0		0							misc	0
-Hand to Hand Ultra Elite Fixed	2h2h	h2h2		1	1	rarm	larm			0	0	0	0			0	0	0	0	6	6	6	0	1		0		0							weap	0
+Hand to Hand Ultra Elite Fixed	2h2h	h2h2		1	1	rarm	larm			0	0	0	0			0	0	0	0	6	6	6	0	1		0	ass	0							weap	0
