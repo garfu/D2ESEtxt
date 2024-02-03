@@ -4986,9 +4986,9 @@ Dark Azurite + Bitter Peridot + PO + EC  > Radament's Head	0			100					8	"xr4,qt
 TJ + SM + SA + TT	0			100					8	"xr8,qty=2"	"xr9,qty=2"	"xrx,qty=2"	"xry,qty=2"				00h																																																																																							0
 Tinkering Adds Life +1: Equipment + 3 Hearts	1			100					2	"weap,any"	hrt						useitem				hp			2	2																																																																															0
 Tinkering Adds Mana +1: Equipment + 3 Souls	1			100					2	"weap,any"	sol						useitem				mana			2	2																																																																															0
-Tinkering Adds Fdam 1-3: Equipment + Fang	1			100	16	48	500		2	"weap,any"	fng						useitem				dmg-fire			3	9																																																																															0
-Tinkering Adds Ldam 1-3: Equipment + Horn	1			100	16	50	500		2	"weap,any"	hrn						useitem				dmg-ltng			3	9																																																																															0
-Tinkering Adds Cdam 1-2: Equipment + Spleen	1			100	16	54	750		2	"weap,any"	spe						useitem				dmg-cold		5	3	6																																																																															0
+Tinkering Adds Fdam 1-3: Equipment + Fang	1			100	7	12	79		2	"weap,any"	fng						useitem				dmg-fire			100	101																																																																															0
+Tinkering Adds Ldam 1-3: Equipment + Horn	1			100	7	12	79		2	"weap,any"	hrn						useitem				dmg-ltng			100	101																																																																															0
+Tinkering Adds Cdam 1-2: Equipment + Spleen	1			100	7	12	79		2	"weap,any"	spe						useitem				dmg-cold		5	100	101																																																																															0
 Tinkering Adds red-mag 1: Equipment + Tail	1			100	16	35	50		2	"weap,any"	tal						useitem				red-mag			1	1																																																																															0
 Tinkering Adds Regen Life +1: Equipment + 2 Jawbones	1			100	16	74	2000		2	"weap,any"	jaw						useitem				regen			10	10																																																																															0
 Tinkering Adds Regen Mana 2%: Equipment Scalp	1			100					2	"weap,any"	scz						useitem				regen-mana			6	6																																																																															0
@@ -4999,9 +4999,9 @@ Tinkering Adds vsD Dam 5%: Equipment + Treehead Woodfist's Arm	1			100					2	"we
 Tinkering Adds VsU Dam 5%: Equipment + Radament's Head	1			100					2	"weap,any"	00r						useitem				hp			6	6	heal-kill			3	3																																																																										0
 Tinkering Adds Life +1: Equipment + 3 Hearts	1			100					2	"armo,any"	hrt						useitem				hp			2	2																																																																															0
 Tinkering Adds Mana +1: Equipment + 3 Souls	1			100					2	"armo,any"	sol						useitem				mana			2	2																																																																															0
-Tinkering Adds Fdam 1-3: Equipment + Fang	1			100	16	48	500		2	"armo,any"	fng						useitem				dmg-fire			3	9																																																																															0
-Tinkering Adds Ldam 1-3: Equipment + Horn	1			100	16	50	500		2	"armo,any"	hrn						useitem				dmg-ltng			3	9																																																																															0
-Tinkering Adds Cdam 1-2: Equipment + Spleen	1			100	16	54	750		2	"armo,any"	spe						useitem				dmg-cold		5	3	6																																																																															0
+Tinkering Adds Fdam 1-3: Equipment + Fang	1			100	7	12	79		2	"armo,any"	fng						useitem				dmg-fire			100	101																																																																															0
+Tinkering Adds Ldam 1-3: Equipment + Horn	1			100	7	12	79		2	"armo,any"	hrn						useitem				dmg-ltng			100	101																																																																															0
+Tinkering Adds Cdam 1-2: Equipment + Spleen	1			100	7	12	79		2	"armo,any"	spe						useitem				dmg-cold		5	100	101																																																																															0
 Tinkering Adds red-mag 1: Equipment + Tail	1			100	16	35	50		2	"armo,any"	tal						useitem				red-mag			1	1																																																																															0
 Tinkering Adds Regen Life +1: Equipment + 2 Jawbones	1			100	16	74	2000		2	"armo,any"	jaw						useitem				regen			3	3																																																																															0
 Tinkering Adds Regen Mana 2%: Equipment Scalp	1			100					2	"armo,any"	scz						useitem				regen-mana			6	6																																																																															0
@@ -20098,9 +20098,9 @@ Slurp Juice from Skill Book	1			100					4	sbs	"qqq,qty=3"						srj														
 Skill Book from Slurp Juice	1			100					4	srj	"qqq,qty=3"						sbs																																																																																							0
 Tinkering Adds Life +1: Equipment + 3 Hearts	1			100					2	"ring,any"	"hrt,qty=1"						useitem				hp			2	2																																																																															0
 Tinkering Adds Mana +1: Equipment + 3 Souls	1			100					2	"ring,any"	"sol,qty=1"						useitem				mana			2	2																																																																															0
-Tinkering Adds Fdam 1-3: Equipment + Fang	1			100	16	48	500		2	"ring,any"	fng						useitem				dmg-fire			3	9																																																																															0
-Tinkering Adds Ldam 1-3: Equipment + Horn	1			100	16	50	500		2	"ring,any"	hrn						useitem				dmg-ltng			3	9																																																																															0
-Tinkering Adds Cdam 1-2: Equipment + Spleen	1			100	16	54	750		2	"ring,any"	spe						useitem				dmg-cold		5	3	6																																																																															0
+Tinkering Adds Fdam 1-3: Equipment + Fang	1			100	7	12	79		2	"ring,any"	fng						useitem				dmg-fire			100	101																																																																															0
+Tinkering Adds Ldam 1-3: Equipment + Horn	1			100	7	12	79		2	"ring,any"	hrn						useitem				dmg-ltng			100	101																																																																															0
+Tinkering Adds Cdam 1-2: Equipment + Spleen	1			100	7	12	79		2	"ring,any"	spe						useitem				dmg-cold		5	100	101																																																																															0
 Tinkering Adds red-mag 1: Equipment + Tail	1			100	16	35	50		2	"ring,any"	tal						useitem				red-mag			1	1																																																																															0
 Tinkering Adds Regen Life +1: Equipment + 2 Jawbones	1			100	16	74	2000		2	"ring,any"	jaw						useitem				regen			3	3																																																																															0
 Tinkering Adds Regen Mana 2%: Equipment Scalp	1			100					2	"ring,any"	scz						useitem				regen-mana			6	6																																																																															0
@@ -20111,9 +20111,9 @@ Tinkering Adds vsD Dam 5%: Equipment + Treehead Woodfist's Arm	1			100					2	"ri
 Tinkering Adds VsU Dam 5%: Equipment + Radament's Head	1			100					2	"ring,any"	00r						useitem				hp			6	6	heal-kill			3	3																																																																										0
 Tinkering Adds Life +1: Equipment + 3 Hearts	1			100					2	"amul,any"	"hrt,qty=1"						useitem				hp			2	2																																																																															0
 Tinkering Adds Mana +1: Equipment + 3 Souls	1			100					2	"amul,any"	"sol,qty=1"						useitem				mana			2	2																																																																															0
-Tinkering Adds Fdam 1-3: Equipment + Fang	1			100	16	48	500		2	"amul,any"	fng						useitem				dmg-fire			3	9																																																																															0
-Tinkering Adds Ldam 1-3: Equipment + Horn	1			100	16	50	500		2	"amul,any"	hrn						useitem				dmg-ltng			3	9																																																																															0
-Tinkering Adds Cdam 1-2: Equipment + Spleen	1			100	16	54	750		2	"amul,any"	spe						useitem				dmg-cold		5	3	6																																																																															0
+Tinkering Adds Fdam 1-3: Equipment + Fang	1			100	7	12	79		2	"amul,any"	fng						useitem				dmg-fire			100	101																																																																															0
+Tinkering Adds Ldam 1-3: Equipment + Horn	1			100	7	12	79		2	"amul,any"	hrn						useitem				dmg-ltng			100	101																																																																															0
+Tinkering Adds Cdam 1-2: Equipment + Spleen	1			100	7	12	79		2	"amul,any"	spe						useitem				dmg-cold		5	100	101																																																																															0
 Tinkering Adds red-mag 1: Equipment + Tail	1			100	16	35	50		2	"amul,any"	tal						useitem				red-mag			1	1																																																																															0
 Tinkering Adds Regen Life +1: Equipment + 2 Jawbones	1			100	16	74	2000		2	"amul,any"	jaw						useitem				regen			3	3																																																																															0
 Tinkering Adds Regen Mana 2%: Equipment Scalp	1			100					2	"amul,any"	scz						useitem				regen-mana			6	6																																																																															0
@@ -20131,9 +20131,9 @@ Based Belt	1			100					5	sbs	srj	belt,any	r43	r10			Based Belt																		
 Remove redemption from MD	1			100	18	202	184		3	Mage's Delight	wms	yps					useitem				craftflag			-184	-184	aura		124	-99	-99																																																																										0
 Tinkering Adds Life +1: Equipment + 3 Hearts	1			100					2	"bowq,any"	"hrt,qty=1"						useitem				hp			2	2																																																																															0
 Tinkering Adds Mana +1: Equipment + 3 Souls	1			100					2	"bowq,any"	"sol,qty=1"						useitem				mana			2	2																																																																															0
-Tinkering Adds Fdam 1-3: Equipment + Fang	1			100	16	48	500		2	"bowq,any"	fng						useitem				dmg-fire			3	9																																																																															0
-Tinkering Adds Ldam 1-3: Equipment + Horn	1			100	16	50	500		2	"bowq,any"	hrn						useitem				dmg-ltng			3	9																																																																															0
-Tinkering Adds Cdam 1-2: Equipment + Spleen	1			100	16	54	750		2	"bowq,any"	spe						useitem				dmg-cold		5	3	6																																																																															0
+Tinkering Adds Fdam 1-3: Equipment + Fang	1			100	7	12	79		2	"bowq,any"	fng						useitem				dmg-fire			100	101																																																																															0
+Tinkering Adds Ldam 1-3: Equipment + Horn	1			100	7	12	79		2	"bowq,any"	hrn						useitem				dmg-ltng			100	101																																																																															0
+Tinkering Adds Cdam 1-2: Equipment + Spleen	1			100	7	12	79		2	"bowq,any"	spe						useitem				dmg-cold		5	100	101																																																																															0
 Tinkering Adds red-mag 1: Equipment + Tail	1			100	16	35	50		2	"bowq,any"	tal						useitem				red-mag			1	1																																																																															0
 Tinkering Adds Regen Life +1: Equipment + 2 Jawbones	1			100	16	74	2000		2	"bowq,any"	jaw						useitem				regen			3	3																																																																															0
 Tinkering Adds Regen Mana 2%: Equipment Scalp	1			100					2	"bowq,any"	scz						useitem				regen-mana			6	6																																																																															0
@@ -20242,9 +20242,9 @@ Teleport Cooldown Frames Adjust Up	1			100	16	425	30		3	"ring,any"	hp1	key					u
 Teleport Cooldown Frames Adjust Down	1			100	15	425	1		3	"ring,any"	mp1	key					useitem				item-telecooldownadjust			-1	-1																					mp1																													key																													0
 Tinkering Adds Life +1: Equipment + Heart: Tinkerer's Dream	1			100					2	Tinkerer's Dream	"hrt,qty=1"						useitem				hp			2	2																																																																															0
 Tinkering Adds Mana +1: Equipment + Soul: Tinkerer's Dream	1			100					2	Tinkerer's Dream	"sol,qty=1"						useitem				mana			2	2																																																																															0
-Tinkering Adds Fdam 1-3: Equipment + Fang: Tinkerer's Dream	1			100	16	48	500		2	Tinkerer's Dream	fng						useitem				dmg-fire			3	9																																																																															0
-Tinkering Adds Ldam 1-3: Equipment + Horn: Tinkerer's Dream	1			100	16	50	500		2	Tinkerer's Dream	hrn						useitem				dmg-ltng			3	9																																																																															0
-Tinkering Adds Cdam 1-2: Equipment + Spleen: Tinkerer's Dream	1			100	16	54	750		2	Tinkerer's Dream	spe						useitem				dmg-cold		5	3	6																																																																															0
+Tinkering Adds Fdam 1-3: Equipment + Fang	1			100	7	12	79		2	Tinkerer's Dream	fng						useitem				dmg-fire			100	101																																																																															0
+Tinkering Adds Ldam 1-3: Equipment + Horn	1			100	7	12	79		2	Tinkerer's Dream	hrn						useitem				dmg-ltng			100	101																																																																															0
+Tinkering Adds Cdam 1-2: Equipment + Spleen	1			100	7	12	79		2	Tinkerer's Dream	spe						useitem				dmg-cold		5	100	101																																																																															0
 Tinkering Adds red-mag 1: Equipment + Tail: Tinkerer's Dream	1			100	16	35	50		2	Tinkerer's Dream	tal						useitem				red-mag			1	1																																																																															0
 Tinkering Adds Regen Life +1: Equipment + Jawbone: Tinkerer's Dream	1			100	16	74	2000		2	Tinkerer's Dream	jaw						useitem				regen			3	3																																																																															0
 Tinkering Adds Regen Mana 2%: Equipment Scalp: Tinkerer's Dream	1			100					2	Tinkerer's Dream	scz						useitem				regen-mana			6	6																																																																															0
@@ -20464,75 +20464,99 @@ Replace Broken Claws With Fixed Claw: Ltng	1			100					2	"5qd,uni"	gcy						Arci
 Replace Broken Claws With Fixed Claw: Pois	1			100					2	"5qd,uni"	gcg						Jaws of Nature	95																																																																																						0
 Replace Broken Claws With Fixed Claw: Phys	1			100					2	"5qd,uni"	gcw						Mechanicus	95																																																																																						0
 Solar Nexus Reroll	1			100					4	Solar Nexus	"6gk,qty=3"						Solar Nexus	95																																																																																						0
-Lunar Nexus	1			100					4	Lunar Nexus	"6gk,qty=3"						Lunar Nexus	95																																																																																						0
-Voltaic Nexus	1			100					4	Voltaic Nexus	"6gk,qty=3"						Voltaic Nexus	95																																																																																						0
-Pox Nexus	1			100					4	Pox Nexus	"6gk,qty=3"						Pox Nexus	95																																																																																						0
-Hurricanic Nexus	1			100					4	Hurricanic Nexus	"6gk,qty=3"						Hurricanic Nexus	95																																																																																						0
-Aetheric Nexus	1			100					4	Aetheric Nexus	"6gk,qty=3"						Aetheric Nexus	95																																																																																						0
-Entropy	1			100					4	Entropy	"6gk,qty=3"						Entropy	95																																																																																						0
-Superconductor	1			100					4	Superconductor	"6gk,qty=3"						Superconductor	95																																																																																						0
-Chromatic Brilliance	1			100					4	Chromatic Brilliance	"6gk,qty=3"						Chromatic Brilliance	95																																																																																						0
-Glacial Focus	1			100					4	Glacial Focus	"6gk,qty=3"						Glacial Focus	95																																																																																						0
-Magmatic Focus	1			100					4	Magmatic Focus	"6gk,qty=3"						Magmatic Focus	95																																																																																						0
-Arcing Focus	1			100					4	Arcing Focus	"6gk,qty=3"						Arcing Focus	95																																																																																						0
-Psychic Focus	1			100					4	Psychic Focus	"6gk,qty=3"						Psychic Focus	95																																																																																						0
-Geothermic Focus	1			100					4	Geothermic Focus	"6gk,qty=3"						Geothermic Focus	95																																																																																						0
-Vile Focus	1			100					4	Vile Focus	"6gk,qty=3"						Vile Focus	95																																																																																						0
-Celestial Focus	1			100					4	Celestial Focus	"6gk,qty=3"						Celestial Focus	95																																																																																						0
-Webbed Focus	1			100					4	Webbed Focus	"6gk,qty=3"						Webbed Focus	95																																																																																						0
-Spiritual Focus	1			100					4	Spiritual Focus	"6gk,qty=3"						Spiritual Focus	95																																																																																						0
-Solar Eclipse	1			100					4	Solar Eclipse	"6gk,qty=3"						Solar Eclipse	95																																																																																						0
-Lunar Eclipse	1			100					4	Lunar Eclipse	"6gk,qty=3"						Lunar Eclipse	95																																																																																						0
-Voltaic Storm	1			100					4	Voltaic Storm	"6gk,qty=3"						Voltaic Storm	95																																																																																						0
-Pox Corona	1			100					4	Pox Corona	"6gk,qty=3"						Pox Corona	95																																																																																						0
-Hurricanic Gale	1			100					4	Hurricanic Gale	"6gk,qty=3"						Hurricanic Gale	95																																																																																						0
-Aetheric Anomaly	1			100					4	Aetheric Anomaly	"6gk,qty=3"						Aetheric Anomaly	95																																																																																						0
-Solar Flare	1			100					4	Solar Flare	"6gk,qty=3"						Solar Flare	95																																																																																						0
-Lunar Tide	1			100					4	Lunar Tide	"6gk,qty=3"						Lunar Tide	95																																																																																						0
-Voltaic Field	1			100					4	Voltaic Field	"6gk,qty=3"						Voltaic Field	95																																																																																						0
-Pox Miasma	1			100					4	Pox Miasma	"6gk,qty=3"						Pox Miasma	95																																																																																						0
-Hurricanic Typhoon	1			100					4	Hurricanic Typhoon	"6gk,qty=3"						Hurricanic Typhoon	95																																																																																						0
-Aetheric Disjunction	1			100					4	Aetheric Disjunction	"6gk,qty=3"						Aetheric Disjunction	95																																																																																						0
-Solar Wind	1			100					4	Solar Wind	"6gk,qty=3"						Solar Wind	95																																																																																						0
-Lunar Umbra	1			100					4	Lunar Umbra	"6gk,qty=3"						Lunar Umbra	95																																																																																						0
-Voltaic Cascade	1			100					4	Voltaic Cascade	"6gk,qty=3"						Voltaic Cascade	95																																																																																						0
-Pox Plague	1			100					4	Pox Plague	"6gk,qty=3"						Pox Plague	95																																																																																						0
-Hurricanic Maelstrom	1			100					4	Hurricanic Maelstrom	"6gk,qty=3"						Hurricanic Maelstrom	95																																																																																						0
-Aetheric Chaos	1			100					4	Aetheric Chaos	"6gk,qty=3"						Aetheric Chaos	95																																																																																						0
-Formed Flame	1			100					4	Formed Flame	"6gk,qty=3"						Formed Flame	95																																																																																						0
-Ice Bite	1			100					4	Ice Bite	"6gk,qty=3"						Ice Bite	95																																																																																						0
-Thunderhead Gavel	1			100					4	Thunderhead Gavel	"6gk,qty=3"						Thunderhead Gavel	95																																																																																						0
-Molten Fangs	1			100					4	Molten Fangs	"6gk,qty=3"						Molten Fangs	95																																																																																						0
-Frozen Fangs	1			100					4	Frozen Fangs	"6gk,qty=3"						Frozen Fangs	95																																																																																						0
-Arcing Fangs	1			100					4	Arcing Fangs	"6gk,qty=3"						Arcing Fangs	95																																																																																						0
-Jaws of Nature	1			100					4	Jaws of Nature	"6gk,qty=3"						Jaws of Nature	95																																																																																						0
-Mechanicus	1			100					4	Mechanicus	"6gk,qty=3"						Mechanicus	95																																																																																						0
-Reach of Nature	1			100					4	Reach of Nature	"6gk,qty=3"						Reach of Nature	95																																																																																						0
-The Reaper's Beckoning	1			100					4	The Reaper's Beckoning	"6gk,qty=3"						The Reaper's Beckoning	95																																																																																						0
-Nature's Bulwark	1			100					4	Nature's Bulwark	"6gk,qty=3"						Nature's Bulwark	95																																																																																						0
-Enslaver	1			100					4	Enslaver	"6gk,qty=3"						Enslaver	95																																																																																						0
-Torrent Of Nature	1			100					4	Torrent Of Nature	"6gk,qty=3"						Torrent Of Nature	95																																																																																						0
-Death Spitter	1			100					4	Death Spitter	"6gk,qty=3"						Death Spitter	95																																																																																						0
-Quills of Nature	1			100					4	Quills of Nature	"6gk,qty=3"						Quills of Nature	95																																																																																						0
-The Cull	1			100					4	The Cull	"6gk,qty=3"						The Cull	95																																																																																						0
-Breath of the Balrog	1			100					4	Breath of the Balrog	"6gk,qty=3"						Breath of the Balrog	95																																																																																						0
-Breath of The Ice Fiend	1			100					4	Breath of The Ice Fiend	"6gk,qty=3"						Breath of The Ice Fiend	95																																																																																						0
-Breath of The Stormlord	1			100					4	Breath of The Stormlord	"6gk,qty=3"						Breath of The Stormlord	95																																																																																						0
-Breath of The Rotting	1			100					4	Breath of The Rotting	"6gk,qty=3"						Breath of The Rotting	95																																																																																						0
-Breath of The Dervish	1			100					4	Breath of The Dervish	"6gk,qty=3"						Breath of The Dervish	95																																																																																						0
-Breath of The Unknowable	1			100					4	Breath of The Unknowable	"6gk,qty=3"						Breath of The Unknowable	95																																																																																						0
-Spine of the Balrog	1			100					4	Spine of the Balrog	"6gk,qty=3"						Spine of the Balrog	95																																																																																						0
-Spine of The Ice Fiend	1			100					4	Spine of The Ice Fiend	"6gk,qty=3"						Spine of The Ice Fiend	95																																																																																						0
-Spine of The Stormlord	1			100					4	Spine of The Stormlord	"6gk,qty=3"						Spine of The Stormlord	95																																																																																						0
-Spine of The Rotting	1			100					4	Spine of The Rotting	"6gk,qty=3"						Spine of The Rotting	95																																																																																						0
-Spine of The Dervish	1			100					4	Spine of The Dervish	"6gk,qty=3"						Spine of The Dervish	95																																																																																						0
-Spine of The Unknowable	1			100					4	Spine of The Unknowable	"6gk,qty=3"						Spine of The Unknowable	95																																																																																						0
-Skirmisher's Mastery	1			100					4	Skirmisher's Mastery	"6gk,qty=3"						Skirmisher's Mastery	95																																																																																						0
-Brawler's Mastery	1			100					4	Brawler's Mastery	"6gk,qty=3"						Brawler's Mastery	95																																																																																						0
-Infinite Thoughts	1			100					4	Infinite Thoughts	"6gk,qty=3"						Infinite Thoughts	95																																																																																						0
-Endless Barrage	1			100					4	Endless Barrage	"6gk,qty=3"						Endless Barrage	95																																																																																						0
-Perpetual Fury	1			100					4	Perpetual Fury	"6gk,qty=3"						Perpetual Fury	95																																																																																						0
+Lunar Nexus Reroll	1			100					4	Lunar Nexus	"6gk,qty=3"						Lunar Nexus	95																																																																																						0
+Voltaic Nexus Reroll	1			100					4	Voltaic Nexus	"6gk,qty=3"						Voltaic Nexus	95																																																																																						0
+Pox Nexus Reroll	1			100					4	Pox Nexus	"6gk,qty=3"						Pox Nexus	95																																																																																						0
+Hurricanic Nexus Reroll	1			100					4	Hurricanic Nexus	"6gk,qty=3"						Hurricanic Nexus	95																																																																																						0
+Aetheric Nexus Reroll	1			100					4	Aetheric Nexus	"6gk,qty=3"						Aetheric Nexus	95																																																																																						0
+Entropy Reroll	1			100					4	Entropy	"6gk,qty=3"						Entropy	95																																																																																						0
+Superconductor Reroll	1			100					4	Superconductor	"6gk,qty=3"						Superconductor	95																																																																																						0
+Chromatic Brilliance Reroll	1			100					4	Chromatic Brilliance	"6gk,qty=3"						Chromatic Brilliance	95																																																																																						0
+Glacial Focus Reroll	1			100					4	Glacial Focus	"6gk,qty=3"						Glacial Focus	95																																																																																						0
+Magmatic Focus Reroll	1			100					4	Magmatic Focus	"6gk,qty=3"						Magmatic Focus	95																																																																																						0
+Arcing Focus Reroll	1			100					4	Arcing Focus	"6gk,qty=3"						Arcing Focus	95																																																																																						0
+Psychic Focus Reroll	1			100					4	Psychic Focus	"6gk,qty=3"						Psychic Focus	95																																																																																						0
+Geothermic Focus Reroll	1			100					4	Geothermic Focus	"6gk,qty=3"						Geothermic Focus	95																																																																																						0
+Vile Focus Reroll	1			100					4	Vile Focus	"6gk,qty=3"						Vile Focus	95																																																																																						0
+Celestial Focus Reroll	1			100					4	Celestial Focus	"6gk,qty=3"						Celestial Focus	95																																																																																						0
+Webbed Focus Reroll	1			100					4	Webbed Focus	"6gk,qty=3"						Webbed Focus	95																																																																																						0
+Spiritual Focus Reroll	1			100					4	Spiritual Focus	"6gk,qty=3"						Spiritual Focus	95																																																																																						0
+Solar Eclipse Reroll	1			100					4	Solar Eclipse	"6gk,qty=3"						Solar Eclipse	95																																																																																						0
+Lunar Eclipse Reroll	1			100					4	Lunar Eclipse	"6gk,qty=3"						Lunar Eclipse	95																																																																																						0
+Voltaic Storm Reroll	1			100					4	Voltaic Storm	"6gk,qty=3"						Voltaic Storm	95																																																																																						0
+Pox Corona Reroll	1			100					4	Pox Corona	"6gk,qty=3"						Pox Corona	95																																																																																						0
+Hurricanic Gale Reroll	1			100					4	Hurricanic Gale	"6gk,qty=3"						Hurricanic Gale	95																																																																																						0
+Aetheric Anomaly Reroll	1			100					4	Aetheric Anomaly	"6gk,qty=3"						Aetheric Anomaly	95																																																																																						0
+Solar Flare Reroll	1			100					4	Solar Flare	"6gk,qty=3"						Solar Flare	95																																																																																						0
+Lunar Tide Reroll	1			100					4	Lunar Tide	"6gk,qty=3"						Lunar Tide	95																																																																																						0
+Voltaic Field Reroll	1			100					4	Voltaic Field	"6gk,qty=3"						Voltaic Field	95																																																																																						0
+Pox Miasma Reroll	1			100					4	Pox Miasma	"6gk,qty=3"						Pox Miasma	95																																																																																						0
+Hurricanic Typhoon Reroll	1			100					4	Hurricanic Typhoon	"6gk,qty=3"						Hurricanic Typhoon	95																																																																																						0
+Aetheric Disjunction Reroll	1			100					4	Aetheric Disjunction	"6gk,qty=3"						Aetheric Disjunction	95																																																																																						0
+Solar Wind Reroll	1			100					4	Solar Wind	"6gk,qty=3"						Solar Wind	95																																																																																						0
+Lunar Umbra Reroll	1			100					4	Lunar Umbra	"6gk,qty=3"						Lunar Umbra	95																																																																																						0
+Voltaic Cascade Reroll	1			100					4	Voltaic Cascade	"6gk,qty=3"						Voltaic Cascade	95																																																																																						0
+Pox Plague Reroll	1			100					4	Pox Plague	"6gk,qty=3"						Pox Plague	95																																																																																						0
+Hurricanic Maelstrom Reroll	1			100					4	Hurricanic Maelstrom	"6gk,qty=3"						Hurricanic Maelstrom	95																																																																																						0
+Aetheric Chaos Reroll	1			100					4	Aetheric Chaos	"6gk,qty=3"						Aetheric Chaos	95																																																																																						0
+Formed Flame Reroll	1			100					4	Formed Flame	"6gk,qty=3"						Formed Flame	95																																																																																						0
+Ice Bite Reroll	1			100					4	Ice Bite	"6gk,qty=3"						Ice Bite	95																																																																																						0
+Thunderhead Gavel Reroll	1			100					4	Thunderhead Gavel	"6gk,qty=3"						Thunderhead Gavel	95																																																																																						0
+Molten Fangs Reroll	1			100					4	Molten Fangs	"6gk,qty=3"						Molten Fangs	95																																																																																						0
+Frozen Fangs Reroll	1			100					4	Frozen Fangs	"6gk,qty=3"						Frozen Fangs	95																																																																																						0
+Arcing Fangs Reroll	1			100					4	Arcing Fangs	"6gk,qty=3"						Arcing Fangs	95																																																																																						0
+Jaws of Nature Reroll	1			100					4	Jaws of Nature	"6gk,qty=3"						Jaws of Nature	95																																																																																						0
+Mechanicus Reroll	1			100					4	Mechanicus	"6gk,qty=3"						Mechanicus	95																																																																																						0
+Reach of Nature Reroll	1			100					4	Reach of Nature	"6gk,qty=3"						Reach of Nature	95																																																																																						0
+The Reaper's Beckoning Reroll	1			100					4	The Reaper's Beckoning	"6gk,qty=3"						The Reaper's Beckoning	95																																																																																						0
+Nature's Bulwark Reroll	1			100					4	Nature's Bulwark	"6gk,qty=3"						Nature's Bulwark	95																																																																																						0
+Enslaver Reroll	1			100					4	Enslaver	"6gk,qty=3"						Enslaver	95																																																																																						0
+Torrent Of Nature Reroll	1			100					4	Torrent Of Nature	"6gk,qty=3"						Torrent Of Nature	95																																																																																						0
+Death Spitter Reroll	1			100					4	Death Spitter	"6gk,qty=3"						Death Spitter	95																																																																																						0
+Quills of Nature Reroll	1			100					4	Quills of Nature	"6gk,qty=3"						Quills of Nature	95																																																																																						0
+The Cull Reroll	1			100					4	The Cull	"6gk,qty=3"						The Cull	95																																																																																						0
+Breath of the Balrog Reroll	1			100					4	Breath of the Balrog	"6gk,qty=3"						Breath of the Balrog	95																																																																																						0
+Breath of The Ice Fiend Reroll	1			100					4	Breath of The Ice Fiend	"6gk,qty=3"						Breath of The Ice Fiend	95																																																																																						0
+Breath of The Stormlord Reroll	1			100					4	Breath of The Stormlord	"6gk,qty=3"						Breath of The Stormlord	95																																																																																						0
+Breath of The Rotting Reroll	1			100					4	Breath of The Rotting	"6gk,qty=3"						Breath of The Rotting	95																																																																																						0
+Breath of The Dervish Reroll	1			100					4	Breath of The Dervish	"6gk,qty=3"						Breath of The Dervish	95																																																																																						0
+Breath of The Unknowable Reroll	1			100					4	Breath of The Unknowable	"6gk,qty=3"						Breath of The Unknowable	95																																																																																						0
+Spine of the Balrog Reroll	1			100					4	Spine of the Balrog	"6gk,qty=3"						Spine of the Balrog	95																																																																																						0
+Spine of The Ice Fiend Reroll	1			100					4	Spine of The Ice Fiend	"6gk,qty=3"						Spine of The Ice Fiend	95																																																																																						0
+Spine of The Stormlord Reroll	1			100					4	Spine of The Stormlord	"6gk,qty=3"						Spine of The Stormlord	95																																																																																						0
+Spine of The Rotting Reroll	1			100					4	Spine of The Rotting	"6gk,qty=3"						Spine of The Rotting	95																																																																																						0
+Spine of The Dervish Reroll	1			100					4	Spine of The Dervish	"6gk,qty=3"						Spine of The Dervish	95																																																																																						0
+Spine of The Unknowable Reroll	1			100					4	Spine of The Unknowable	"6gk,qty=3"						Spine of The Unknowable	95																																																																																						0
+Skirmisher's Mastery Reroll	1			100					4	Skirmisher's Mastery	"6gk,qty=3"						Skirmisher's Mastery	95																																																																																						0
+Brawler's Mastery Reroll	1			100					4	Brawler's Mastery	"6gk,qty=3"						Brawler's Mastery	95																																																																																						0
+Infinite Thoughts Reroll	1			100					4	Infinite Thoughts	"6gk,qty=3"						Infinite Thoughts	95																																																																																						0
+Endless Barrage Reroll	1			100					4	Endless Barrage	"6gk,qty=3"						Endless Barrage	95																																																																																						0
+Perpetual Fury Reroll	1			100					4	Perpetual Fury	"6gk,qty=3"						Perpetual Fury	95																																																																																						0
 Remove Cold Damage%	1			100					3	any	wms	gcb					useitem				extra-cold			-10	-10																					wms																																																										0
 Remove Fire Damage%	1			100					3	any	wms	gcr					useitem				extra-fire			-10	-10																					wms																																																										0
 Remove Lit Damage%	1			100					3	any	wms	gcy					useitem				extra-ltng			-10	-10																					wms																																																										0
 Remove Poison Damage%	1			100					3	any	wms	gcg					useitem				extra-pois			-10	-10																					wms																																																										0
+Tinkering Adds Mdam	1			100	7	12	79		3	"weap,any"	hrn	key					useitem				dmg-mag			100	101																					key																																																										0
+Tinkering Adds Pdam	1			100	7	12	79		3	"weap,any"	fng	key					useitem				dmg-pois		5	100	101																					key																																																										0
+Tinkering Adds Mdam	1			100	7	12	79		3	"armo,any"	hrn	key					useitem				dmg-mag			100	101																					key																																																										0
+Tinkering Adds Pdam	1			100	7	12	79		3	"armo,any"	fng	key					useitem				dmg-pois		5	100	101																					key																																																										0
+Tinkering Adds Mdam	1			100	7	12	79		3	"ring,any"	hrn	key					useitem				dmg-mag			100	101																					key																																																										0
+Tinkering Adds Pdam	1			100	7	12	79		3	"ring,any"	fng	key					useitem				dmg-pois		5	100	101																					key																																																										0
+Tinkering Adds Mdam	1			100	7	12	79		3	"amul,any"	hrn	key					useitem				dmg-mag			100	101																					key																																																										0
+Tinkering Adds Pdam	1			100	7	12	79		3	"amul,any"	fng	key					useitem				dmg-pois		5	100	101																					key																																																										0
+Tinkering Adds Mdam	1			100	7	12	79		3	Tinkerer's Dream	hrn	key					useitem				dmg-mag			100	101																					key																																																										0
+Tinkering Adds Pdam	1			100	7	12	79		3	Tinkerer's Dream	fng	key					useitem				dmg-pois		5	100	101																					key																																																										0
+Tinkering Adds Life x10	1			100					2	"weap,any"	hr1						useitem				hp			20	20																																																																															0
+Tinkering Adds Mana x10	1			100					2	"weap,any"	so1						useitem				mana			20	20																																																																															0
+Tinkering Adds Life x10	1			100					2	"armo,any"	hr1						useitem				hp			20	20																																																																															0
+Tinkering Adds Mana x10	1			100					2	"armo,any"	so1						useitem				mana			20	20																																																																															0
+Tinkering Adds Life x10	1			100					2	"ring,any"	hr1						useitem				hp			20	20																																																																															0
+Tinkering Adds Mana x10	1			100					2	"ring,any"	so1						useitem				mana			20	20																																																																															0
+Tinkering Adds Life x10	1			100					2	"amul,any"	hr1						useitem				hp			20	20																																																																															0
+Tinkering Adds Mana x10	1			100					2	"amul,any"	so1						useitem				mana			20	20																																																																															0
+Tinkering Adds Life x10	1			100					2	Tinkerer's Dream	hr1						useitem				hp			20	20																																																																															0
+Tinkering Adds Mana x10	1			100					2	Tinkerer's Dream	so1						useitem				mana			20	20																																																																															0
+Multi Stocker Output Platter	1			100	15	441	9		2	t55	ko5						useitem				item-04			-10	-10																					1z1																																																										0
+Multi Stocker Output Jack	1			100	15	451	9		2	t65	ko5						useitem				item-14			-10	-10																					hr1																																																										0
+Multi Stocker Output Soulstone	1			100	15	452	9		2	t66	ko5						useitem				item-15			-10	-10																					so1																																																										0
+Steak Platter to Soulstone Conversion Pgem	1			100					2	1z1	gem5						so1																																																																																							0
