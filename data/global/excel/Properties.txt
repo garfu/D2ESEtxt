@@ -508,3 +508,4 @@ petmax-increase	1			1	petmax_increase																														0
 velocity-percent	1			1	velocitypercent																														0
 curse-resistance	1			1	curse_resistance																														0
 cast-swing	1			1	item_fastercastrate			1	item_fasterattackrate																										0
+flat_dmg_poismag%	1			1	min_dmg_poismag%			3	max_dmg_poismag%																										0
