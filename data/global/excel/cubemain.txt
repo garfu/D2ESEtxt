@@ -20556,7 +20556,7 @@ Tinkering Adds Life x10	1			100					2	"amul,any"	hr1						useitem				hp			20	20	
 Tinkering Adds Mana x10	1			100					2	"amul,any"	so1						useitem				mana			20	20																																																																															0
 Tinkering Adds Life x10	1			100					2	Tinkerer's Dream	hr1						useitem				hp			20	20																																																																															0
 Tinkering Adds Mana x10	1			100					2	Tinkerer's Dream	so1						useitem				mana			20	20																																																																															0
-Multi Stocker Output Platter	1			100	15	441	9		2	t55	ko5						useitem				item-04			-10	-10																					1z1																																																										0
-Multi Stocker Output Jack	1			100	15	451	9		2	t65	ko5						useitem				item-14			-10	-10																					hr1																																																										0
-Multi Stocker Output Soulstone	1			100	15	452	9		2	t66	ko5						useitem				item-15			-10	-10																					so1																																																										0
+Multi Stocker Output Platter	1			100	15	441	9		2	t55	ko5						useitem				item-04			-10	-10																					1z1																													ko5																													0
+Multi Stocker Output Jack	1			100	15	451	9		2	t65	ko5						useitem				item-14			-10	-10																					hr1																													ko5																													0
+Multi Stocker Output Soulstone	1			100	15	452	9		2	t66	ko5						useitem				item-15			-10	-10																					so1																													ko5																													0
 Steak Platter to Soulstone Conversion Pgem	1			100					2	1z1	gem5						so1																																																																																							0
