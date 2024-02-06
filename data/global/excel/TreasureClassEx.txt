@@ -1571,12 +1571,12 @@ M Diablo Tier 5	34	93	-2						M Diabolic Tier 5	1	M Boss Misc Tier 5	1										
 M Diablo Tier 6	34	94	-2						M Diabolic Tier 6	1	M Boss Misc Tier 6	1																				0
 M Kanji Uber Only 1			1						r84	1	r85	1	r86	1	r87	1	r88	1	r89	1	r90	1										0
 M Kanji Uber Only 2			1						r91	1	r92	1	r93	1	r94	1	r95	1	r96	1	r97	1										0
-M Ufrag Explosion			200						M Uniques Tier 6	4	M Mats Tier 6	20	M Runes 16 Tier 1	6	M Pots Tier 1	10	"gld,mul=32768"	40	M Boot Uniques	1	M Belt Uniques	1	M Armo Uniques	1								0
-M Tyoh Explosion			200						M Uniques Tier 6	4	M Mats Tier 6	20	M Runes 16 Tier 1	6	M Pots Tier 1	10	"gld,mul=32768"	40	M Boot Uniques	1	M Belt Uniques	1	M Armo Uniques	1								0
-M Emitnwod Explosion			200						M Uniques Tier 6	4	M Mats Tier 6	20	M Runes 16 Tier 1	6	M Pots Tier 1	10	"gld,mul=32768"	40	M Boot Uniques	1	M Belt Uniques	1	M Armo Uniques	1								0
-M Effellarr Explosion			200						M Uniques Tier 6	4	M Mats Tier 6	20	M Runes 16 Tier 1	6	M Pots Tier 1	10	"gld,mul=32768"	40	M Boot Uniques	1	M Belt Uniques	1	M Armo Uniques	1								0
-M Mudeyhnne Explosion			200						M Uniques Tier 6	4	M Mats Tier 6	20	M Runes 16 Tier 1	6	M Pots Tier 1	10	"gld,mul=32768"	40	M Boot Uniques	1	M Belt Uniques	1	M Armo Uniques	1								0
-M Lyrtsa Explosion			200						M Uniques Tier 6	4	M Mats Tier 6	20	M Runes 16 Tier 1	6	M Pots Tier 1	10	"gld,mul=32768"	40	M Boot Uniques	1	M Belt Uniques	1	M Armo Uniques	1								0
+M Ufrag Explosion			150						M Uniques Tier 6	4	M Mats Tier 6	20	M Runes 16 Tier 1	6	M Pots Tier 1	10	"gld,mul=32768"	33														0
+M Tyoh Explosion			150						M Uniques Tier 6	4	M Mats Tier 6	20	M Runes 16 Tier 1	6	M Pots Tier 1	10	"gld,mul=32768"	33														0
+M Emitnwod Explosion			150						M Uniques Tier 6	4	M Mats Tier 6	20	M Runes 16 Tier 1	6	M Pots Tier 1	10	"gld,mul=32768"	33														0
+M Effellarr Explosion			150						M Uniques Tier 6	4	M Mats Tier 6	20	M Runes 16 Tier 1	6	M Pots Tier 1	10	"gld,mul=32768"	33														0
+M Mudeyhnne Explosion			150						M Uniques Tier 6	4	M Mats Tier 6	20	M Runes 16 Tier 1	6	M Pots Tier 1	10	"gld,mul=32768"	33														0
+M Lyrtsa Explosion			150						M Uniques Tier 6	4	M Mats Tier 6	20	M Runes 16 Tier 1	6	M Pots Tier 1	10	"gld,mul=32768"	33														0
 M Ufrag 1			-3						Endless Potential	1	M Ufrag Explosion	1	bh1	1																		0
 M Tyoh 1			-3						Endless Potential	1	M Tyoh Explosion	1	bh2	1																		0
 M Emitnwod 1			-3						Endless Potential	1	M Emitnwod Explosion	1	bh3	1																		0
