@@ -20564,6 +20564,7 @@ Multi Stocker Output Platter	1			100	15	441	9		2	t55	ko5						useitem				item-04
 Multi Stocker Output Jack	1			100	15	451	9		2	t65	ko5						useitem				item-14			-10	-10																					hr1																													ko5																													0
 Multi Stocker Output Soulstone	1			100	15	452	9		2	t66	ko5						useitem				item-15			-10	-10																					so1																													ko5																													0
 Steak Platter to Soulstone Conversion Pgem	1			100	16				2	1z1	gem5						so1																																																																																							0
+Soulstone to JackHearts Conversion Pgem	1			100	16				2	so1	gem5						hr1																																																																																							0
 Dstone More Ele Flat Mod	1			100	16	493	199		3	"weap,any"	yyy	gcw					useitem				flat_dmg_firecoldltng%			2	2	levelreq			2	2																gcv																																																										0
 Dstone More Ele Flat Mod	1			100	16	493	199		3	"armo,any"	yyy	gcw					useitem				flat_dmg_firecoldltng%			2	2	levelreq			2	2																gcv																																																										0
 Dstone More Ele Flat Mod	1			100	16	493	199		3	"ring,any"	yyy	gcw					useitem				flat_dmg_firecoldltng%			2	2	levelreq			2	2																gcv																																																										0
