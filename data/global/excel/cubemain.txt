@@ -4462,13 +4462,13 @@ Aura Forging	1			100	18	202	0		3	"amul,any"	an6	gem0					useitem				craftflag			
 Aura Forging	1			100	18	202	0		3	"amul,any"	an7	gem0					useitem				craftflag			188	188	aura		414	31	31																																																																										0
 Aura Forging	1			100	18	202	0		3	"amul,any"	an8	gem0					useitem				craftflag			189	189	aura		123	31	31																																																																										0
 Aura Forging	1			100	18	202	0		3	"amul,any"	an9	gem0					useitem				craftflag			183	183	aura		120	31	31																																																																										0
-Remove Bad Aura Forging	1			100	18	202	177		4	"amul,any"	"wms,qty=3"						useitem				craftflag			-177	-177	aura		100	-99	-31																an3	99																																																									0
-Remove Bad Aura Forging	1			100	18	202	178		4	"amul,any"	"wms,qty=3"						useitem				craftflag			-178	-178	aura		114	-99	-31																an4	99																																																									0
-Remove Bad Aura Forging	1			100	18	202	179		4	"amul,any"	"wms,qty=3"						useitem				craftflag			-179	-179	aura		106	-99	-31																an5	99																																																									0
-Remove Bad Aura Forging	1			100	18	202	180		4	"amul,any"	"wms,qty=3"						useitem				craftflag			-180	-180	aura		116	-99	-31																an6	99																																																									0
-Remove Bad Aura Forging	1			100	18	202	181		4	"amul,any"	"wms,qty=3"						useitem				craftflag			-181	-181	aura		105	-99	-31																an7	99																																																									0
-Remove Bad Aura Forging	1			100	18	202	182		4	"amul,any"	"wms,qty=3"						useitem				craftflag			-182	-182	aura		110	-99	-31																an8	99																																																									0
-Remove Aura Forging	1			100	18	202	184		4	"amul,any"	"wms,qty=3"						useitem				craftflag			-184	-184	aura		108	-99	-31																an3	99																																																									0
+Remove Bad Aura Forging	1			100	18	202	177		4	"amul,any"	"wms,qty=3"						useitem				craftflag			-177	-177	aura		100	-31	-31																an3	99																																																									0
+Remove Bad Aura Forging	1			100	18	202	178		4	"amul,any"	"wms,qty=3"						useitem				craftflag			-178	-178	aura		114	-31	-31																an4	99																																																									0
+Remove Bad Aura Forging	1			100	18	202	179		4	"amul,any"	"wms,qty=3"						useitem				craftflag			-179	-179	aura		106	-31	-31																an5	99																																																									0
+Remove Bad Aura Forging	1			100	18	202	180		4	"amul,any"	"wms,qty=3"						useitem				craftflag			-180	-180	aura		116	-31	-31																an6	99																																																									0
+Remove Bad Aura Forging	1			100	18	202	181		4	"amul,any"	"wms,qty=3"						useitem				craftflag			-181	-181	aura		105	-31	-31																an7	99																																																									0
+Remove Bad Aura Forging	1			100	18	202	182		4	"amul,any"	"wms,qty=3"						useitem				craftflag			-182	-182	aura		110	-31	-31																an8	99																																																									0
+Remove Aura Forging	1			100	18	202	184		4	"amul,any"	"wms,qty=3"						useitem				craftflag			-184	-184	aura		108	-31	-31																an3	99																																																									0
 Remove Aura Forging	1			100	18	202	185		4	"amul,any"	"wms,qty=3"						useitem				craftflag			-185	-185	aura		113	-31	-31																an4	99																																																									0
 Remove Aura Forging	1			100	18	202	186		4	"amul,any"	"wms,qty=3"						useitem				craftflag			-186	-186	aura		104	-31	-31																an5	99																																																									0
 Remove Aura Forging	1			100	18	202	187		4	"amul,any"	"wms,qty=3"						useitem				craftflag			-187	-187	aura		115	-31	-31																an6	99																																																									0
