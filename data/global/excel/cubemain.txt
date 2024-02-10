@@ -4624,10 +4624,10 @@ DS + Any Torso + key	1			100	16	99	119		3	tors	ppp	key					useitem				levelreq		
 FH + Any Torso + key	1			100	16	0	199		3	tors	hh2	key					useitem				levelreq			3	3	str			4	4																key																																																										0
 TO + Any Torso + key	1			100					3	tors	ttt	key					useitem				levelreq			3	3	hp			16	16																key																																																										0
 BM + Any Torso + key	1			100	16	114	149		3	tors	eee	key					useitem				levelreq			3	3	dmg-to-mana			6	6																key																																																										0
-HS + Any Torso + key	1			100	15	91	-100		3	tors	hly	key					useitem				levelreq			3	3	ease			-4	-4																key																																																										0
+HS + Any Torso + key	1			100	15	91	-100		3	tors	hly	key					useitem				levelreq			3	3	ac			20	20																key																																																										0
 CG + Any Torso + key	1			100					3	tors	ggg	key					useitem				levelreq			3	3	mana			16	16																key																																																										0
 BM + Any Torso + vps	1			100	15	89	-4		3	tors	eee	vps					useitem				levelreq			3	3	move1			5	5																vps																																																										0
-HS + Any Torso + vps	1			100	16	89	10		3	tors	hly	vps					useitem				levelreq			3	3	light			2	2																vps																																																										0
+HS + Any Torso + vps	1			100	16	89	10		3	tors	hly	vps					useitem				levelreq			3	3	block			5	5																vps																																																										0
 SS + Any Helm	1			100	16	80	799		2	helm	sss						useitem				levelreq			3	3	gold%			10	10																																																																										0
 FH + Any Helm	1			100	16	16	899		2	helm	hh2						useitem				levelreq			3	3	ac%			8	8																																																																										0
 TO + Any Helm	1			100	16	76	59		2	helm	ttt						useitem				levelreq			3	3	hp%			4	4																																																																										0
@@ -4643,10 +4643,10 @@ DS + Any Helm + key	1			100	16	99	119		3	helm	ppp	key					useitem				levelreq			
 FH + Any Helm + key	1			100	16	0	199		3	helm	hh2	key					useitem				levelreq			3	3	str			4	4																key																																																										0
 TO + Any Helm + key	1			100					3	helm	ttt	key					useitem				levelreq			3	3	hp			16	16																key																																																										0
 BM + Any Helm + key	1			100	16	114	149		3	helm	eee	key					useitem				levelreq			3	3	dmg-to-mana			6	4																key																																																										0
-HS + Any Helm + key	1			100	15	91	-100		3	helm	hly	key					useitem				levelreq			3	3	dmgpct			10	10																key																																																										0
+HS + Any Helm + key	1			100	15	91	-100		3	helm	hly	key					useitem				levelreq			3	3	ac			20	20																key																																																										0
 CG + Any Helm + key	1			100					3	helm	ggg	key					useitem				levelreq			3	3	mana			16	16																key																																																										0
 BM + Any Helm + vps	1			100	15	89	-4		3	helm	eee	vps					useitem				levelreq			3	3	move1			5	5																vps																																																										0
-HS + Any Helm + vps	1			100	16	89	10		3	helm	hly	vps					useitem				levelreq			3	3	light			2	2																vps																																																										0
+HS + Any Helm + vps	1			100	16	89	10		3	helm	hly	vps					useitem				levelreq			3	3	block			5	5																vps																																																										0
 SS + Any Shield	1			100	16	80	399		2	shld	sss						useitem				levelreq			3	3	gold%			10	10																																																																										0
 FH + Any Shield	1			100	16	16	899		2	shld	hh2						useitem				levelreq			3	3	ac%			8	8																																																																										0
 TO + Any Shield	1			100	16	76	59		2	shld	ttt						useitem				levelreq			3	3	hp%			4	4																																																																										0
@@ -4662,10 +4662,10 @@ DS + Any Shield + key	1			100	16	99	119		3	shld	ppp	key					useitem				levelreq	
 FH + Any Shield + key	1			100	16	0	199		3	shld	hh2	key					useitem				levelreq			3	3	str			4	4																key																																																										0
 TO + Any Shield + key	1			100					3	shld	ttt	key					useitem				levelreq			3	3	hp			16	16																key																																																										0
 BM + Any Shield + key	1			100	16	114	149		3	shld	eee	key					useitem				levelreq			3	3	dmg-to-mana			6	6																key																																																										0
-HS + Any Shield + key	1			100	15	91	-100		3	shld	hly	key					useitem				levelreq			3	3	dmgpct			10	10																key																																																										0
+HS + Any Shield + key	1			100	15	91	-100		3	shld	hly	key					useitem				levelreq			3	3	ac			20	20																key																																																										0
 CG + Any Shield + key	1			100					3	shld	ggg	key					useitem				levelreq			3	3	mana			16	16																key																																																										0
 BM + Any Shield + vps	1			100	15	89	-4		3	shld	eee	vps					useitem				levelreq			3	3	move1			5	5																vps																																																										0
-HS + Any Shield + vps	1			100	16	89	10		3	shld	hly	vps					useitem				levelreq			3	3	light			2	2																vps																																																										0
+HS + Any Shield + vps	1			100	16	89	10		3	shld	hly	vps					useitem				levelreq			3	3	block			5	5	block2			10	10											vps																																																										0
 SS + Any Armor	1			100	16	80	399		2	armo	sss						useitem				levelreq			4	4	gold%			10	10																																																																										0
 FH + Any Armor	1			100	16	16	899		2	armo	hh2						useitem				levelreq			4	4	ac%			8	8																																																																										0
 TO + Any Armor	1			100	16	76	59		2	armo	ttt						useitem				levelreq			4	4	hp%			4	4																																																																										0
