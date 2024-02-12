@@ -20573,3 +20573,7 @@ Dstone More Mag/Pois Flat Mod	1			100	16	496	199		3	"weap,any"	yyy	gck					useit
 Dstone More Mag/Pois Flat Mod	1			100	16	496	199		3	"armo,any"	yyy	gck					useitem				flat_dmg_poismag%			2	2	levelreq			2	2																gck																																																										0
 Dstone More Mag/Pois Flat Mod	1			100	16	496	199		3	"ring,any"	yyy	gck					useitem				flat_dmg_poismag%			2	2	levelreq			2	2																gck																																																										0
 Dstone More Mag/Pois Flat Mod	1			100	16	496	199		3	"amul,any"	yyy	gck					useitem				flat_dmg_poismag%			2	2	levelreq			2	2																gck																																																										0
+Tinkering -1 All - weap	1			100					3	"weap,any"	xl7	wms					useitem				allskills			-1	-1																					wms																																																										0
+Tinkering -1 All - ar	1			100					3	"armo,any"	xl7	wms					useitem				allskills			-1	-1																					wms																																																										0
+Tinkering -1 All - ring	1			100					3	"ring,any"	xl3	wms					useitem				allskills			-1	-1																					wms																																																										0
+Tinkering -1 All - amul	1			100					3	"amul,any"	xl3	wms					useitem				allskills			-1	-1																					wms																																																										0
