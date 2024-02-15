@@ -20577,3 +20577,5 @@ Tinkering -1 All - weap	1			100					3	"weap,any"	xl7	wms					useitem				allskill
 Tinkering -1 All - ar	1			100					3	"armo,any"	xl7	wms					useitem				allskills			-1	-1																					wms																																																										0
 Tinkering -1 All - ring	1			100					3	"ring,any"	xl3	wms					useitem				allskills			-1	-1																					wms																																																										0
 Tinkering -1 All - amul	1			100					3	"amul,any"	xl3	wms					useitem				allskills			-1	-1																					wms																																																										0
+-1 xp ar	1			100					4	"armo,any"	"gcb,qty=2"	wms					useitem				addxp			-1	-1																					wms																																																										0
+-1 xp weapon	1			100					4	"weap,any"	"gcb,qty=2"	wms					useitem				addxp			-1	-1																					wms																																																										0
