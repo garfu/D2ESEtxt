@@ -651,6 +651,9 @@ Cow King (H)			5						Act 5 (H) Ultra	1																						0
 Treant King			6						Act 5 Uber	1080	Ore (GFU)	5	ppp	1																		0
 Treant King (N)			6						Act 5 (N) Uber	720	Ore (GFU)	10	ppp	1																		0
 Treant King (H)			6						Act 5 (H) Uber	360	Ore (GFU)	15	ppp	1																		0
+ROP Rare Charm			1						cx1	1	cx2	1	cx3	1																		0
+ROP Charm			1						Unique Charm 2	10	cx1	15	cx2	15	cx3	15	ROP Rare Charm	15														0
+Clone (H)			1	682	682	682	682	100	Gold	32	Act 5 (H) Equip B	48	Act 5 (H) UGood	6	ppp	2																0
 Reporb			6						Act 5 Uber	1080	Ore (GFU)	5	ppp	1																		0
 Reporb (N)			6						Act 5 (N) Uber	720	Ore (GFU)	10	ppp	1																		0
 Reporb (H)			6						Act 5 (H) Uber	360	Ore (GFU)	15	ROP Charm	1																		0
@@ -687,8 +690,6 @@ Act 4 (H) Boss			1	960	960	960	1024	15	"gld,mul=3072"	10	Act 5 (H) Equip A	55	Ac
 Act 5  Boss			1	960	960	960	1024	15	"gld,mul=3072"	10	Act 5 Equip C	55	Act 5 Junk	8	Act 5 UGood	7																0
 Act 5 (N) Boss			1	960	960	960	1024	15	"gld,mul=3072"	10	Act 5 (N) Equip C	55	Act 5 (N) Junk	8	Act 5 (N) UGood	7																0
 Act 5 (H) Boss			1	960	960	960	1024	15	"gld,mul=3072"	10	Act 5 (H) Equip C	55	Act 5 (H) Junk	8	Act 5 (H) UGood	7																0
-ROP Rare Charm			1						cx1	1	cx2	1	cx3	1																		0
-ROP Charm			1						Unique Charm 2	10	cx1	15	cx2	15	cx3	15	ROP Rare Charm	15														0
 ROP - Base			5						Act 5 Ultra	1080	Ore (GFU)	1																				0
 ROP (N) - Base			5						Act 5 (N) Ultra	720	Ore (GFU)	1																				0
 ROP (H) - Base			5						r15	10	Ore (GFU)	5	sbs	1	srj	1																0
@@ -696,6 +697,7 @@ ROP			-2						ROP Charm	1	ROP - Base	1																				0
 ROP (N)			-2						ROP Charm	1	ROP (N) - Base	1																				0
 ROP (H)			4						ROP Charm	1	ROP (H) - Base	1																				0
 M Maps Nihl			1						mt1	1	mt2	1	mt3	1	mt4	1	mt5	1	mt6	1												0
+M Focus Uniques			1						Glacial Focus	1	Magmatic Focus	1	Arcing Focus	1	Psychic Focus	1	Geothermic Focus	1	Vile Focus	1	Celestial Focus	1	Webbed Focus	1	Spiritual Focus	1						0
 ROP (H) HellNihl			4						ROP Charm	10	ROP (H) - Base	10	M Maps Nihl	8	Tinkerer's Dream	2																0
 Nihlathak			6						Act 5  Boss	1080	Ore (GFU)	1																				0
 Nihlathak (N)			6						Act 5 (N) Boss	720	Ore (GFU)	1																				0
@@ -1389,7 +1391,6 @@ Gold Only Champ			1						"gld,mul=4000"	1																						0
 Gold Only Unique			1						"gld,mul=12000"	1																						0
 Clone			1	682	682	682	682	100	Gold	32	Act 5 Equip B	48	Act 5 UGood	6	ppp	2																0
 Clone (N)			1	682	682	682	682	100	Gold	32	Act 5 (N) Equip B	48	Act 5 (N) UGood	6	ppp	2																0
-Clone (H)			1	682	682	682	682	100	Gold	32	Act 5 (H) Equip B	48	Act 5 (H) UGood	6	ppp	2																0
 Clone Norm			5	682	682	682	682	100	Gold	32	Act 5 Equip B	48	Act 5 UGood	6	ppp	2																0
 Clone Norm (N)			5	682	682	682	682	100	Gold	32	Act 5 (N) Equip B	48	Act 5 (N) UGood	6	ppp	2																0
 Clone Norm (H)			5	682	682	682	682	100	Gold	32	Act 5 (H) Equip B	48	Act 5 (H) UGood	6	ppp	2																0
@@ -1443,7 +1444,6 @@ dclone_xtals_fl_0			1						dclone_xtals_fl_1	1	dclone_xtals_fl_2	1														
 dclone_xtals_nr_0			1						dclone_xtals_nr_1	1	dclone_xtals_nr_2	1																				0
 dclone_xtals			1						dclone_xtals_nr_0	1	dclone_xtals_fl_0	19	dclone_xtals_ch_0	80																		0
 RatHrt			1					5	hrt	1																						0
-M Focus Uniques			1						Glacial Focus	1	Magmatic Focus	1	Arcing Focus	1	Psychic Focus	1	Geothermic Focus	1	Vile Focus	1	Celestial Focus	1	Webbed Focus	1	Spiritual Focus	1						0
 M Glove Uniques			1						Solar Eclipse	1	Lunar Eclipse	1	Voltaic Storm	1	Pox Corona	1	Hurricanic Gale	1	Aetheric Anomaly	1												0
 M Helm Uniques			1						Solar Nexus	2	Lunar Nexus	2	Voltaic Nexus	2	Pox Nexus	2	Hurricanic Nexus	2	Aetheric Nexus	2	Skirmisher's Mastery	1	Brawler's Mastery	1								0
 M Boot Uniques			1						Solar Flare	1	Lunar Tide	1	Voltaic Field	1	Pox Miasma	1	Hurricanic Typhoon	1	Aetheric Disjunction	1												0
