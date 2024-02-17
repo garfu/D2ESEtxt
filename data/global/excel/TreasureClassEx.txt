@@ -662,19 +662,19 @@ Reziarfg (N)			6						Act 5 (N) Uber	720	Ore (GFU)	10	ppp	1																		0
 Reziarfg (H)			6						Act 5 (H) Uber	360	Ore (GFU)	15	ROP Charm	1																		0
 Guardian0			6						Act 5 Uber	1080	Ore (GFU)	6	ppp	2																		0
 Guardian0 (N)			6						Act 5 (N) Uber	720	Ore (GFU)	12	ppp	2																		0
-Guardian0 (H)			6						Clone (H)	1500	Runes 16	4	Ore (GFU)	20	r15	25	sbs	2	srj	2												0
+Guardian0 (H)			6						Clone (H)	400	Runes 16	4	Ore (GFU)	20	r15	25	sbs	2	srj	2												0
 Guardian1			6						Act 5 Uber	1080	Ore (GFU)	6	ppp	2																		0
 Guardian1 (N)			6						Act 5 (N) Uber	720	Ore (GFU)	12	ppp	2																		0
-Guardian1 (H)			6						Clone (H)	1500	Runes 16	4	Ore (GFU)	20	r15	25	sbs	2	srj	2												0
+Guardian1 (H)			6						Clone (H)	400	Runes 16	4	Ore (GFU)	20	r15	25	sbs	2	srj	2												0
 Guardian2			6						Act 5 Uber	1080	Ore (GFU)	6	ppp	2																		0
 Guardian2 (N)			6						Act 5 (N) Uber	720	Ore (GFU)	12	ppp	2																		0
-Guardian2 (H)			6						Clone (H)	1500	Runes 16	4	Ore (GFU)	20	r15	25	sbs	2	srj	2												0
+Guardian2 (H)			6						Clone (H)	400	Runes 16	4	Ore (GFU)	20	r15	25	sbs	2	srj	2												0
 Guardian3			6						Act 5 Uber	1080	Ore (GFU)	6	ppp	2																		0
 Guardian3 (N)			6						Act 5 (N) Uber	720	Ore (GFU)	12	ppp	2																		0
-Guardian3 (H)			6						Clone (H)	1500	Runes 16	4	Ore (GFU)	20	r15	25	sbs	2	srj	2												0
+Guardian3 (H)			6						Clone (H)	400	Runes 16	4	Ore (GFU)	20	r15	25	sbs	2	srj	2												0
 Guardian4			6						Act 5 Uber	1080	Ore (GFU)	6	ppp	2																		0
 Guardian4 (N)			6						Act 5 (N) Uber	720	Ore (GFU)	12	ppp	2																		0
-Guardian4 (H)			6						Clone (H)	1500	Runes 16	4	Ore (GFU)	20	r15	25	sbs	2	srj	2												0
+Guardian4 (H)			6						Clone (H)	400	Runes 16	4	Ore (GFU)	20	r15	25	sbs	2	srj	2												0
 Act 1  Boss			1	960	960	960	1024	15	"gld,mul=3072"	10	Act 3 Equip A	55	Act 3 Junk	8	Act 3 UGood	7																0
 Act 1 (N) Boss			1	960	960	960	1024	15	"gld,mul=3072"	10	Act 3 (N) Equip A	55	Act 3 (N) Junk	8	Act 3 (N) UGood	7																0
 Act 1 (H) Boss			1	960	960	960	1024	15	"gld,mul=3072"	10	Act 3 (H) Equip A	55	Act 3 (H) Junk	8	Act 3 (H) UGood	7																0
@@ -701,7 +701,7 @@ M Focus Uniques			1						Glacial Focus	1	Magmatic Focus	1	Arcing Focus	1	Psychic
 ROP (H) HellNihl			4						ROP Charm	10	ROP (H) - Base	10	M Maps Nihl	8	Tinkerer's Dream	2																0
 Nihlathak			6						Act 5  Boss	1080	Ore (GFU)	1																				0
 Nihlathak (N)			6						Act 5 (N) Boss	720	Ore (GFU)	1																				0
-Nihlathak (H)			6						Act 5 (H) Boss	50	Ore (GFU)	20	ROP (H) HellNihl	10	M Focus Uniques	1																0
+Nihlathak (H)			10						Act 5 (H) Boss	20	Ore (GFU)	20	ROP (H) HellNihl	10	M Focus Uniques	1																0
 Andariel			6						Act 1  Boss	1080	Ore (GFU)	1																				0
 Andariel (N)			6						Act 1 (N) Boss	720	Ore (GFU)	1																				0
 Andariel (H)			6						Act 1 (H) Boss	360	Ore (GFU)	1																				0
