@@ -20090,7 +20090,7 @@ Aura Stone Test	0			100					3	wms,qty=2	yps						an4																												
 Aura Stone Test 2	0			100					4	wms,qty=3	yps						an8																																																																																							0
 Radiant Aura Stone	1			100					4	an4	an6	an7	an8				zz0																																																																																							0
 Mage's Delight Test	0			100					2	wms	yps						Mage's Delight	99																																																																																						0
-Mage's Delight Upgrade	1			100					9	Mage's Delight	an3	an9	sbs,qty=2	r84,qty=2	r88,qty=2		useitem				ac%			200	200	aura		119	31	31	balance3			100	100	extra-all			50	50	extra-mag2			100	100																																																											0
+Mage's Delight Upgrade	1			100					9	Mage's Delight	an3	an9	sbs,qty=2	r84,qty=2	r88,qty=2		useitem				ac%			125	125	aura		119	31	31	balance3			50	50	extra-all			50	50	extra-mag2			100	100																																																											0
 Tinkering Adds +1 All - amul	1			100					3	amul,any	xt3	r44					useitem				allskills			1	1																																																																															0
 Tinkering Adds +1 All - ring	1			100					3	ring,any	xt3	r44					useitem				allskills			1	1																																																																															0
 Stat Potion Test	0			100					2	wms	yps						srj																																																																																							0
