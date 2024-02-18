@@ -654,27 +654,27 @@ Treant King (H)			6						Act 5 (H) Uber	360	Ore (GFU)	15	ppp	1																		
 ROP Rare Charm			1						cx1	1	cx2	1	cx3	1																		0
 ROP Charm			1						Unique Charm 2	10	cx1	15	cx2	15	cx3	15	ROP Rare Charm	15														0
 Clone (H)			1	682	682	682	682	100	Gold	32	Act 5 (H) Equip B	48	Act 5 (H) UGood	6	ppp	2																0
-Reporb			6						Act 5 Uber	1080	Ore (GFU)	5	ppp	1																		0
-Reporb (N)			6						Act 5 (N) Uber	720	Ore (GFU)	10	ppp	1																		0
-Reporb (H)			6						Act 5 (H) Uber	360	Ore (GFU)	15	ROP Charm	1																		0
-Reziarfg			6						Act 5 Uber	1080	Ore (GFU)	5	ppp	1																		0
-Reziarfg (N)			6						Act 5 (N) Uber	720	Ore (GFU)	10	ppp	1																		0
-Reziarfg (H)			6						Act 5 (H) Uber	360	Ore (GFU)	15	ROP Charm	1																		0
-Guardian0			6						Act 5 Uber	1080	Ore (GFU)	6	ppp	2																		0
-Guardian0 (N)			6						Act 5 (N) Uber	720	Ore (GFU)	12	ppp	2																		0
-Guardian0 (H)			6						Clone (H)	400	Runes 16	4	Ore (GFU)	20	r15	25	sbs	2	srj	2												0
-Guardian1			6						Act 5 Uber	1080	Ore (GFU)	6	ppp	2																		0
-Guardian1 (N)			6						Act 5 (N) Uber	720	Ore (GFU)	12	ppp	2																		0
-Guardian1 (H)			6						Clone (H)	400	Runes 16	4	Ore (GFU)	20	r15	25	sbs	2	srj	2												0
-Guardian2			6						Act 5 Uber	1080	Ore (GFU)	6	ppp	2																		0
-Guardian2 (N)			6						Act 5 (N) Uber	720	Ore (GFU)	12	ppp	2																		0
-Guardian2 (H)			6						Clone (H)	400	Runes 16	4	Ore (GFU)	20	r15	25	sbs	2	srj	2												0
-Guardian3			6						Act 5 Uber	1080	Ore (GFU)	6	ppp	2																		0
-Guardian3 (N)			6						Act 5 (N) Uber	720	Ore (GFU)	12	ppp	2																		0
-Guardian3 (H)			6						Clone (H)	400	Runes 16	4	Ore (GFU)	20	r15	25	sbs	2	srj	2												0
-Guardian4			6						Act 5 Uber	1080	Ore (GFU)	6	ppp	2																		0
-Guardian4 (N)			6						Act 5 (N) Uber	720	Ore (GFU)	12	ppp	2																		0
-Guardian4 (H)			6						Clone (H)	400	Runes 16	4	Ore (GFU)	20	r15	25	sbs	2	srj	2												0
+Reporb			6						Act 5 Uber	100	Ore (GFU)	5	ppp	1																		0
+Reporb (N)			6						Act 5 (N) Uber	100	Ore (GFU)	10	ppp	1																		0
+Reporb (H)			6						Act 5 (H) Uber	100	Ore (GFU)	15	ROP Charm	1																		0
+Reziarfg			6						Act 5 Uber	100	Ore (GFU)	5	ppp	1																		0
+Reziarfg (N)			6						Act 5 (N) Uber	100	Ore (GFU)	10	ppp	1																		0
+Reziarfg (H)			6						Act 5 (H) Uber	100	Ore (GFU)	15	ROP Charm	1																		0
+Guardian0			6						Act 5 Uber	100	Ore (GFU)	6	ppp	2																		0
+Guardian0 (N)			6						Act 5 (N) Uber	100	Ore (GFU)	12	ppp	2																		0
+Guardian0 (H)			6						Clone (H)	100	Runes 16	4	Ore (GFU)	20	r15	25	sbs	2	srj	2												0
+Guardian1			6						Act 5 Uber	100	Ore (GFU)	6	ppp	2																		0
+Guardian1 (N)			6						Act 5 (N) Uber	100	Ore (GFU)	12	ppp	2																		0
+Guardian1 (H)			6						Clone (H)	100	Runes 16	4	Ore (GFU)	20	r15	25	sbs	2	srj	2												0
+Guardian2			6						Act 5 Uber	100	Ore (GFU)	6	ppp	2																		0
+Guardian2 (N)			6						Act 5 (N) Uber	100	Ore (GFU)	12	ppp	2																		0
+Guardian2 (H)			6						Clone (H)	100	Runes 16	4	Ore (GFU)	20	r15	25	sbs	2	srj	2												0
+Guardian3			6						Act 5 Uber	100	Ore (GFU)	6	ppp	2																		0
+Guardian3 (N)			6						Act 5 (N) Uber	100	Ore (GFU)	12	ppp	2																		0
+Guardian3 (H)			6						Clone (H)	100	Runes 16	4	Ore (GFU)	20	r15	25	sbs	2	srj	2												0
+Guardian4			6						Act 5 Uber	100	Ore (GFU)	6	ppp	2																		0
+Guardian4 (N)			6						Act 5 (N) Uber	100	Ore (GFU)	12	ppp	2																		0
+Guardian4 (H)			6						Clone (H)	100	Runes 16	4	Ore (GFU)	20	r15	25	sbs	2	srj	2												0
 Act 1  Boss			1	960	960	960	1024	15	"gld,mul=3072"	10	Act 3 Equip A	55	Act 3 Junk	8	Act 3 UGood	7																0
 Act 1 (N) Boss			1	960	960	960	1024	15	"gld,mul=3072"	10	Act 3 (N) Equip A	55	Act 3 (N) Junk	8	Act 3 (N) UGood	7																0
 Act 1 (H) Boss			1	960	960	960	1024	15	"gld,mul=3072"	10	Act 3 (H) Equip A	55	Act 3 (H) Junk	8	Act 3 (H) UGood	7																0
