@@ -807,7 +807,7 @@ Runeword796	Jindujun	1		tors									Su Ha Ra Shi I	r43	r28	r20	r03	r01		allskil
 Runeword797	Revenge	1		weap									Ho U Fu Ku Su Ru	r22	r02	r32	r06	r43	r24	dmg%		240	280	oskill	Iron Maiden	1	1	thorns/lvl	60			gethit-skill	Static Field	100	30	allskills		3	3	cast1		30	30	hp/lvl	12			0
 Runeword797	Revenge	1		weap									Ho U Hu Ku Su Ru	r22	r02	r48	r06	r43	r24	dmg%		240	280	oskill	Iron Maiden	1	1	thorns/lvl	60			gethit-skill	Static Field	100	30	allskills		3	3	cast1		30	30	hp/lvl	12			0
 Runeword798	Burn	1		mele									Mo Ya Su	r35	r11	r43				dmg-fire		400	500	dmg%		130	150	aura	Conviction	20	5	nofreeze		1	1	fireskill		3	3	gethit-skill	Nova	8	32	att-skill	Fire Ball	10	35	0
-Runeword799	Abandon	1		helm	shld								Su Te Ru	r43	r37	r24				ac%		145	185	allskills		2	2	gethit-skill	Fade	8	17	move3		40	40	block		20	20	thorns		300	300	block1		20	20	0
+Runeword799	Abandon	1		helm	shld								Su Te Ru	r43	r37	r24				ac%		145	185	allskills		2	2	oskill	Fade	31	31	move3		40	40	block		20	20	thorns		300	300	block1		20	20	0
 Runeword800	Transformation	1		tors									He N Shi N	r44	r05	r03	r05			ac%		190	260	skilltab	16	3	3	oskill	Claw Mastery	1	1	balance3		30	30	allskills		2	2	lifesteal		20	20	dmg/lvl	4			0
 Runeword801	Peace	1		helm									He I Wa	r44	r01	r27				ac%		100	140	allskills		4	4	enr		25	25	vit		25	25	res-all		30	30	regen		20	30	regen-mana		75	75	0
 Runeword802	Placidity	1		pelt									He I Se I	r44	r01	r31	r01			ac%		130	160	dru		4	4	regen		30	30	mag%		75	75	res-all		45	45	addxp		5	5	skilltab	17	1	1	0
@@ -930,7 +930,7 @@ Runeword915	Youth	1		char									Wa Ka Sa	r27	r04	r15				hp/lvl	16			allskills	
 Runeword916	Harmony	1		char									Wa Se I	r27	r31	r01				hp%		18	18	balance3		18	18	mana%		18	18	swing3		18	18	move3		18	18	cast3		18	18	red-dmg%		18	18	0
 Runeword917	Daylight	1		char									Hi Ru Ma	r34	r24	r33				ac		100	100	allskills		1	1	light		3	3	red-dmg		5	5	gethit-skill	Nova	3	24	res-fire-max		12	12	res-ltng-max		12	12	0
 Runeword918	Spirit	1		char									Ko Ko Ro	r19	r19	r38				res-all		15	15	allskills		1	1	res-ltng-max		9	9	res-fire-max		9	9	res-cold-max		9	9	regen-mana		20	20	vit/lvl	2			0
-Runeword919	Abandon	1		char									Su Te Ru	r43	r37	r24				ac		120	120	allskills		1	1	gethit-skill	Fade	5	17	move3		30	30	block		15	15	thorns		200	200	block1		15	15	0
+Runeword919	Abandon	1		char									Su Te Ru	r43	r37	r24				ac		120	120	allskills		1	1	oskill	Fade	30	30	move3		30	30	block		15	15	thorns		200	200	block1		15	15	0
 Runeword920	Stone	1		tors	shld								I Shi JEW	r01	r03	jew				ac		35	35	res-ltng		20	20	red-dmg		2	2	red-mag		2	2													0
 Runeword921	Void	1		tors	shld								Ku U JEW	r06	r02	jew				res-cold		15	15	res-ltng		15	15	res-pois-len		50	50	red-dmg%		5	5													0
 Runeword922	Forefeel	1		tors									Yo Ka N JEW	r07	r04	r05	jew			ac		70	70	mana%		20	20	mana-kill		5	5	cast1		20	20	extra-fire		10	10	extra-ltng		10	10	extra-cold		10	10	0
