@@ -13,4 +13,6 @@ GFU-dll edit for arrow quantity. Ikanreed did it one realm for us. I'm sure we c
 GFU-some absorb added summons in some way. Either as a new stat or part of the different masteries. Capped at something reasonable. Stat would be cool, or like a summoners charm that had different stats that helped summons etc.
 
 Next Season:
-GFU-Cap -enemy resist at -200. Run into overflows too easy with it uncapped. Allows for better gearing in general. Als adjust new unques to like -25 for early tiers and -50 for later tiers max
+Add dmg fix
+Add orb fix
+Add reroll recipe for uber charm

@@ -5,12 +5,12 @@ dexterity	2	1		11			1	0	11			1	1		145	27	1024				8	55																	65	1	1	Mod
 vitality	3			11			1	0	11			1	1		120	27	1024				8	55			9			maxhp	maxstamina										63	1	1	ModStr1c	ModStr1c		1	1	1	Moditem2allattrib	Moditem2allattrib			0
 statpts	4			9			1	0	13								1024																																			0
 newskills	5			9			1	0	10								1024																																			0
-hitpoints	6			32			1	0	21								1024	8													1	maxhp																				0
-maxhp	7			32			1	0	21		1	1	1		76	10	1024	8			12	2047																	59	1	1	ModStr1u	ModStr1u									0
-mana	8			32			1	0	21								1024	8						1							1	maxmana							255													0
-maxmana	9			32			1	0	21		1	1	0		101	10	1024	8			12	2047																	55	1	1	ModStr1e	ModStr1e									0
-stamina	10			32			1	0	21								1024	8						1							1	maxstamina																				0
-maxstamina	11			32			1	0	21		1	1	0		95	10	1024	8			8	32																	51	1	1	ModStr5d	ModStr5d									0
+hitpoints	6			32			1	0	28								1024	8													1	maxhp																				0
+maxhp	7			32			1	0	28		1	1	1		76	10	1024	8			12	2047																	59	1	1	ModStr1u	ModStr1u									0
+mana	8			32			1	0	28								1024	8						1							1	maxmana							255													0
+maxmana	9			32			1	0	28		1	1	0		101	10	1024	8			12	2047																	55	1	1	ModStr1e	ModStr1e									0
+stamina	10			32			1	0	28								1024	8						1							1	maxstamina																				0
+maxstamina	11			32			1	0	28		1	1	0		95	10	1024	8			8	32																	51	1	1	ModStr5d	ModStr5d									0
 level	12			9			1	0	7								1024																																			0
 experience	13			32			1	0	32								1024																																			0
 gold	14			32			1	0	28								1024																																			0
