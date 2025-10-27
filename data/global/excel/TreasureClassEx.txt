@@ -700,8 +700,8 @@ M Maps Nihl			1						mt1	1	mt2	1	mt3	1	mt4	1	mt5	1	mt6	1												0
 M Focus Uniques			1						Glacial Focus	1	Magmatic Focus	1	Arcing Focus	1	Psychic Focus	1	Geothermic Focus	1	Vile Focus	1	Celestial Focus	1	Webbed Focus	1	Spiritual Focus	1						0
 ROP (H) HellNihl			4						ROP Charm	10	ROP (H) - Base	10	M Maps Nihl	8	Tinkerer's Dream	2																0
 Nihlathak			6						Act 5  Boss	1080	Ore (GFU)	1																				0
-Nihlathak (N)			6						Act 5 (N) Boss	720	Ore (GFU)	1																				0
-Nihlathak (H)			10						Act 5 (H) Boss	20	Ore (GFU)	20	ROP (H) HellNihl	10	M Focus Uniques	1																0
+Nihlathak (N)			6						Act 5 (N) Boss	720	Ore (GFU)	2	yy1	1																		0
+Nihlathak (H)			10						Act 5 (H) Boss	20	Ore (GFU)	20	ROP (H) HellNihl	10	M Focus Uniques	1	yy1	1														0
 Andariel			6						Act 1  Boss	1080	Ore (GFU)	1																				0
 Andariel (N)			6						Act 1 (N) Boss	720	Ore (GFU)	1																				0
 Andariel (H)			6						Act 1 (H) Boss	360	Ore (GFU)	1																				0
@@ -1497,12 +1497,12 @@ M Convoking Tier 3	22	91	3						um6	98	up6	2																				0
 M Convoking Tier 4	22	92	4						um6	97	up6	3																				0
 M Convoking Tier 5	22	93	5						um6	96	up6	4																				0
 M Convoking Tier 6	22	94	6						um6	96	up6	4																				0
-M Mats Tier 1	23	89	1						Nothing	6	pp1	3	ma1	1	hr1	5	so1	5	00g	3	00t	3	00r	3	00h	3	yy1	2				0
-M Mats Tier 2	23	90	1						Nothing	6	pp1	4	ma1	2	hr1	6	so1	6	00g	3	00t	3	00r	3	00h	3	yy1	2				0
-M Mats Tier 3	23	91	2						Nothing	6	pp1	5	ma1	3	hr1	7	so1	7	00g	2	00t	2	00r	2	00h	2	yy1	3				0
-M Mats Tier 4	23	92	2						Nothing	6	pp1	6	ma1	4	hr1	8	so1	8	00g	2	00t	2	00r	2	00h	2	yy1	3				0
-M Mats Tier 5	23	93	3						Nothing	6	pp1	7	ma1	5	hr1	9	so1	9	00g	1	00t	1	00r	1	00h	1	yy1	4				0
-M Mats Tier 6	23	94	4						Nothing	6	pp1	8	ma1	6	hr1	10	so1	10	00g	1	00t	1	00r	1	00h	1	yy1	4				0
+M Mats Tier 1	23	89	1						Nothing	7	pp1	3	ma1	1	hr1	5	so1	5	00g	3	00t	3	00r	3	00h	3						0
+M Mats Tier 2	23	90	1						Nothing	7	pp1	4	ma1	2	hr1	6	so1	6	00g	3	00t	3	00r	3	00h	3						0
+M Mats Tier 3	23	91	2						Nothing	7	pp1	5	ma1	3	hr1	7	so1	7	00g	2	00t	2	00r	2	00h	2						0
+M Mats Tier 4	23	92	2						Nothing	7	pp1	6	ma1	4	hr1	8	so1	8	00g	2	00t	2	00r	2	00h	2						0
+M Mats Tier 5	23	93	3						Nothing	7	pp1	7	ma1	5	hr1	9	so1	9	00g	1	00t	1	00r	1	00h	1						0
+M Mats Tier 6	23	94	4						Nothing	7	pp1	8	ma1	6	hr1	10	so1	10	00g	1	00t	1	00r	1	00h	1						0
 M Xtal Tier 1	24	89	1						Nothing	1	dclone_xtals_nr_1	1	dclone_xtals_nr_2	1																		0
 M Xtal Tier 2	24	90	1						Nothing	1	dclone_xtals_nr_1	1	dclone_xtals_nr_2	1																		0
 M Xtal Tier 3	24	91	1						Nothing	1	dclone_xtals_nr_1	1	dclone_xtals_nr_2	1																		0

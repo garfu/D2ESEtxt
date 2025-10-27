@@ -6,7 +6,6 @@ GFU-Possible to put ES behind one of the defenses? DR% or MDR/DR, both might be 
 GFU-An "in-between" map that comes between current content and maps to move map drops off of Nihl and provide some harder content that isn't just maps. Could obivouslly be a map drop from Nihl heh
 GFU-Sa packs added toloot pool of mats in maps. I can balance
 GFU-Not many or 0 unique packs in maps, intended?
-GFU-Allow JoaT, Soulstones, and Steak platters stack in new multistocker to be able to remove them as those items and tinker on +20 hp/mana and add vonersion to soulstone recipe to steak platter
 GFU-Make every single summon do some sort of elemental damage so their damage doesn't roll over and summon builds could actually work. Look into phasing?
 GFU-Mapling using 2x maple branch + eventual Sa 10pack drop + scroll 50 for -40 req level. Hopefully recipe is each, just use 'any' I guess... lol
 GFU-dll edit for arrow quantity. Ikanreed did it one realm for us. I'm sure we can figure it out or ask him | https://d2mods.info/forum/viewtopic.php?t=45056
@@ -16,3 +15,5 @@ Next Season:
 Add dmg fix
 Add orb fix
 Add reroll recipe for uber charm
+
+Annhilation to some kind of damaging aura, like winter's fury but orangish and magic??
