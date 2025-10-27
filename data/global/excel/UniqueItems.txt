@@ -1111,7 +1111,7 @@ Mage's Delight	100	1		1	1	88	80	ytp	Archmage Plate	3		13	45000	blac			magesdelig
 Based Ring	100	1		0	69	1	1	rn9	Ring	1		1	15000	blac	blac		invrin6																																																				0
 Based Amulet	100	1		0	69	1	1	au9	Amulet	1		1	15000	dblu	dblu		invamu7																																																				0
 Based Belt	100	1		0	69	1	1	3lb	Sash	1		1	5000	blac	blac						sock		2	2	indestruct		1	1																																									0
-Tinkerer's Dream	100	1		1	69	88	1	cx0	Small Charm	1	1	1	10000	blac	blac																																																						0
+Tinkerer's Dream	100	1		1	69	1	1	cx0	Small Charm	1	1	1	10000	blac	blac																																																						0
 Monster Ring 0	100	1		1	1	1	1	mr0	Monster Ring 0	1		1	1								aura	Conviction	31	31	item-skillontakedamage	PB1Meteor	5	20	abs-all%		98	98																																					0
 Monster Ring 1	100	1		1	1	1	1	mr1	Monster Ring 1	1		1	1								aura	Conviction	31	31	item-skillontakedamage	PB2Glacial Spike	5	20	abs-all%		98	98	pierce		100	100																																	0
 Monster Ring 2	100	1		1	1	1	1	mr2	Monster Ring 2	1		1	1								aura	Conviction	31	31	item-skillontakedamage	PB3Charged Bolt	5	20	abs-all%		98	98																																					0

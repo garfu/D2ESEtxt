@@ -1824,6 +1824,8 @@ Decipherer: 2 Flags	1			100					2	"flg,qty=2"							ddd																									
 Ear: Eye + Brain + Scalp + Jawbone + Fang	1			100					5	eyz	brz	scz	jaw	fng			ear	99																																																																																						0
 Steak: Wirt's Leg + ID Scroll + DS	1			100					3	leg	isc	ppp					zzz																																																																																							0
 Cookbook: Wirt's Leg + TP Scroll + 7 DS	1			100					9	"club,any"	tsc	"ppp,qty=7"					yyy																																																																																							0
+TD Maple blocker MS	1			100					4	Tinkerer's Dram	key	rpot	can8				void																																																																																							0
+TD Maple blocker	1			100					3	Tinkerer's Dram	key	rpot					void																																																																																							0
 Damage Aug Maple Blocker	1			100					3	"cm7,uni"	key	rpot					vps	99																												key																																																										0
 Trap Small Splashstone Maple	1			100		202	1000		3	Small Splashstone	key	rpot					void																																																																																							0
 Trap Medium Splashstone Maple	1			100		202	1000		3	Medium Splashstone	key	rpot					void																																																																																							0

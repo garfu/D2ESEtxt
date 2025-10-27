@@ -32,6 +32,7 @@ Act 3 (H) Junk			1						Potion 7	8	Misc 2	3	Ammo	1																		0
 Act 4 (H) Junk			1						Potion 7	8	Misc 2	3	Ammo	1																		0
 Act 5 (H) Junk			1						Potion 7	8	Misc 2	3	Ammo	1																		0
 Class Rings			1						srn	1	brg	1	nrn	1	prn	1	drn	1	zrn	1	arn	1										0
+TD			1	1024					Tinkerer's Dream	1																						
 Rings			1						rin	2	Class Rings	1																				0
 Class Amulets			1						sam	1	bam	1	nam	1	pam	1	dam	1	zam	1	aam	1										0
 Amulets			1						amu	2	Class Amulets	1																				0
@@ -547,7 +548,8 @@ Act 5 (H) Unique A	15	81	-2					0	Act 5 (H) Uitem A	1	Cpot 7	1																		
 Act 5 (H) Unique B	15	83	-2					0	Act 5 (H) Uitem B	1	Cpot 7	1																				0
 Act 5 (H) Unique C	15	85	-2					0	Act 5 (H) Uitem C	1	Cpot 7	1																				0
 Act 1 Super A			3	864	864	864	1024	25	"gld,mul=2048"	20	Act 1 Equip A	40	Act 1 Junk	10	Act 1 UGood	5	Sets01	1														0
-Act 1 Super B			5	0	1024	0	0	0	Sets01	100	Sets01	100	Sets01	100	Sets01	100	Sets01	100	Sets01	100	Sets01	100	Sets01	100	Sets01	100	Sets01	100				0
+CF			1	864	0	0	0	0	TD	1																						
+Act 1 Super B			5	0	864	0	0	0	Sets01	100	Sets01	100	Sets01	100	Sets01	100																0
 Act 1 Super C			3	864	864	864	1024	25	"gld,mul=2048"	20	Act 1 Equip C	40	Act 1 Junk	10	Act 1 UGood	5	Sets01	1														0
 Act 2 Super A			3	864	864	864	1024	25	"gld,mul=2048"	20	Act 2 Equip A	40	Act 2 Junk	10	Act 2 UGood	5																0
 Act 2 Super B			3	864	864	864	1024	25	"gld,mul=2048"	20	Act 2 Equip B	40	Act 2 Junk	10	Act 2 UGood	5																0
@@ -698,7 +700,7 @@ ROP (N)			-2						ROP Charm	1	ROP (N) - Base	1																				0
 ROP (H)			4						ROP Charm	1	ROP (H) - Base	1																				0
 M Maps Nihl			1						mt1	1	mt2	1	mt3	1	mt4	1	mt5	1	mt6	1												0
 M Focus Uniques			1						Glacial Focus	1	Magmatic Focus	1	Arcing Focus	1	Psychic Focus	1	Geothermic Focus	1	Vile Focus	1	Celestial Focus	1	Webbed Focus	1	Spiritual Focus	1						0
-ROP (H) HellNihl			4						ROP Charm	10	ROP (H) - Base	10	M Maps Nihl	8	Tinkerer's Dream	2																0
+ROP (H) HellNihl			4						ROP Charm	10	ROP (H) - Base	10	M Maps Nihl	8																		0
 Nihlathak			6						Act 5  Boss	1080	Ore (GFU)	1																				0
 Nihlathak (N)			6						Act 5 (N) Boss	720	Ore (GFU)	2	yy1	1																		0
 Nihlathak (H)			10						Act 5 (H) Boss	20	Ore (GFU)	20	ROP (H) HellNihl	10	M Focus Uniques	1	yy1	1														0
