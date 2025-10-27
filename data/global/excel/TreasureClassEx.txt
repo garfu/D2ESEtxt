@@ -12,8 +12,8 @@ Potion 4			1						hp2	4	hp3	8	hp4	4	mp2	2	mp3	4	mp4	2	rvs	1										0
 Potion 5			1						hp3	8	hp4	8	mp3	4	mp4	4	rvs	1														0
 Potion 6			1						hp3	4	hp4	8	hp5	4	mp3	2	mp4	4	mp5	2	rvs	1										0
 Potion 7			1						hp4	8	hp5	8	mp4	4	mp5	4	rvs	1														0
-Ore (GFU) 1			1						Uni Ore 0	1	Uni Ore 1	1	Uni Ore 2	1	Uni Ore 3	1	Uni Ore 4	1	Uni Ore 5	1												0
-Ore (GFU) 2			1						Uni Ore 6	1	Uni Ore 7	1	Uni Ore 8	1	Uni Ore 9	1	Uni Ore 10	1	Uni Ore 11	1												0
+Ore (GFU) 1			1						00r	1	00t	1																				0
+Ore (GFU) 2			1						00g	1	00h	1																				0
 Ore (GFU)			1						Ore (GFU) 1	1	Ore (GFU) 2	1																				0
 Ore			1						Ore (GFU)	1																						0
 Act 1 Junk			1						Potion 1	8	Misc 0	3	Ammo	1																		0

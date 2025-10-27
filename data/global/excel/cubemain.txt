@@ -18325,14 +18325,14 @@ Ore -> Xtal	1			100	15	478	1		1	ore							useitem				xtal-08			-1	-1												
 Ore -> Xtal	1			100	15	479	1		1	ore							useitem				xtal-09			-1	-1																					xr9																																																										0
 Ore -> Xtal	1			100	15	480	1		1	ore							useitem				xtal-10			-1	-1																					xrx																																																										0
 Ore -> Xtal	1			100	15	481	1		1	ore							useitem				xtal-11			-1	-1																					xry																																																										0
-Xtal Can Input	1			100					2	can9	00h						useitem				xtal-06			10	10																																																																															0
-Xtal Can Input	1			100					2	can9	00r						useitem				xtal-08			10	10																																																																															0
-Xtal Can Input	1			100					2	can9	00g						useitem				xtal-09			10	10																																																																															0
-Xtal Can Input	1			100					2	can9	00t						useitem				xtal-10			10	10																																																																															0
-Xtal Can Output	1			100	15	476	10		2	xu6	key						useitem				xtal-06			-10	-10																					00h																													key																													0
-Xtal Can Output	1			100	15	478	10		2	xu8	key						useitem				xtal-08			-10	-10																					00r																													key																													0
-Xtal Can Output	1			100	15	479	10		2	xu9	key						useitem				xtal-09			-10	-10																					00g																													key																													0
-Xtal Can Output	1			100	15	480	10		2	xux	key						useitem				xtal-10			-10	-10																					00t																													key																													0
+Xtal Can Input	1			100					2	can9	00h						useitem				xtal-00			3	3	xtal-01			3	3	xtal-02			3	3																																																																					0
+Xtal Can Input	1			100					2	can9	00r						useitem				xtal-03			3	3	xtal-04			3	3	xtal-05			3	3																																																																					0
+Xtal Can Input	1			100					2	can9	00g						useitem				xtal-06			3	3	xtal-07			3	3	xtal-08			3	3																																																																					0
+Xtal Can Input	1			100					2	can9	00t						useitem				xtal-09			3	3	xtal-10			3	3	xtal-11			3	3																																																																					0
+Xtal Can Output	0			100	15	476	10		2	xu6	key						useitem				xtal-06			-10	-10																					00h																													key																													0
+Xtal Can Output	0			100	15	478	10		2	xu8	key						useitem				xtal-08			-10	-10																					00r																													key																													0
+Xtal Can Output	0			100	15	479	10		2	xu9	key						useitem				xtal-09			-10	-10																					00g																													key																													0
+Xtal Can Output	0			100	15	480	10		2	xux	key						useitem				xtal-10			-10	-10																					00t																													key																													0
 Trap	1			100					3	cix	ddd	"ring,mag"					void																																																																																							0
 Trap	1			100					3	ci4	ddd	"ring,mag"					void																																																																																							0
 Trap	1			100					3	ci2	ddd	"ring,mag"					void																																																																																							0
