@@ -13926,24 +13926,24 @@ Tier 3 Create Token Map Warped Worldstone	1			100					3	mt9	"up3,qty=2"						m15
 Tier 3 Create Token Map Chaos Palace	1			100					3	m10	"up1,qty=2"						m16	99																																																																																						0
 Tier 3 Create Token Map Lost Tombs	1			100					3	m11	"up6,qty=2"						m17	99																																																																																						0
 Tier 3 Create Token Map Hidden Durance	1			100					3	m12	"up2,qty=2"						m18	99																																																																																						0
-Tier 4 Create Token Map Shifting Sands	1			100					5	m13	"up4,qty=4"						m19	99																																																																																						0
-Tier 4 Create Token Map Ancient Temple	1			100					5	m14	"up5,qty=4"						m20	99																																																																																						0
-Tier 4 Create Token Map Warped Worldstone	1			100					5	m15	"up3,qty=4"						m21	99																																																																																						0
-Tier 4 Create Token Map Chaos Palace	1			100					5	m16	"up1,qty=4"						m22	99																																																																																						0
-Tier 4 Create Token Map Lost Tombs	1			100					5	m17	"up6,qty=4"						m23	99																																																																																						0
-Tier 4 Create Token Map Hidden Durance	1			100					5	m18	"up2,qty=4"						m24	99																																																																																						0
-Tier 5 Create Token Map Shifting Sands	1			100					8	m19	"up4,qty=7"						m25	99																																																																																						0
-Tier 5 Create Token Map Ancient Temple	1			100					8	m20	"up5,qty=7"						m26	99																																																																																						0
-Tier 5 Create Token Map Warped Worldstone	1			100					8	m21	"up3,qty=7"						m27	99																																																																																						0
-Tier 5 Create Token Map Chaos Palace	1			100					8	m22	"up1,qty=7"						m28	99																																																																																						0
-Tier 5 Create Token Map Lost Tombs	1			100					8	m23	"up6,qty=7"						m29	99																																																																																						0
-Tier 5 Create Token Map Hidden Durance	1			100					8	m24	"up2,qty=7"						m30	99																																																																																						0
-Tier 6 Create Token Map Shifting Sands	1			100					11	m25	"up4,qty=10"						m31	99																																																																																						0
-Tier 6 Create Token Map Ancient Temple	1			100					11	m26	"up5,qty=10"						m32	99																																																																																						0
-Tier 6 Create Token Map Warped Worldstone	1			100					11	m27	"up3,qty=10"						m33	99																																																																																						0
-Tier 6 Create Token Map Chaos Palace	1			100					11	m28	"up1,qty=10"						m34	99																																																																																						0
-Tier 6 Create Token Map Lost Tombs	1			100					11	m29	"up6,qty=10"						m35	99																																																																																						0
-Tier 6 Create Token Map Hidden Durance	1			100					11	m30	"up2,qty=10"						m36	99																																																																																						0
+Tier 4 Create Token Map Shifting Sands	1			100					5	m13	"up4,qty=3"						m19	99																																																																																						0
+Tier 4 Create Token Map Ancient Temple	1			100					5	m14	"up5,qty=3"						m20	99																																																																																						0
+Tier 4 Create Token Map Warped Worldstone	1			100					5	m15	"up3,qty=3"						m21	99																																																																																						0
+Tier 4 Create Token Map Chaos Palace	1			100					5	m16	"up1,qty=3"						m22	99																																																																																						0
+Tier 4 Create Token Map Lost Tombs	1			100					5	m17	"up6,qty=3"						m23	99																																																																																						0
+Tier 4 Create Token Map Hidden Durance	1			100					5	m18	"up2,qty=3"						m24	99																																																																																						0
+Tier 5 Create Token Map Shifting Sands	1			100					8	m19	"up4,qty=5"						m25	99																																																																																						0
+Tier 5 Create Token Map Ancient Temple	1			100					8	m20	"up5,qty=5"						m26	99																																																																																						0
+Tier 5 Create Token Map Warped Worldstone	1			100					8	m21	"up3,qty=5"						m27	99																																																																																						0
+Tier 5 Create Token Map Chaos Palace	1			100					8	m22	"up1,qty=5"						m28	99																																																																																						0
+Tier 5 Create Token Map Lost Tombs	1			100					8	m23	"up6,qty=5"						m29	99																																																																																						0
+Tier 5 Create Token Map Hidden Durance	1			100					8	m24	"up2,qty=5"						m30	99																																																																																						0
+Tier 6 Create Token Map Shifting Sands	1			100					11	m25	"up4,qty=8"						m31	99																																																																																						0
+Tier 6 Create Token Map Ancient Temple	1			100					11	m26	"up5,qty=8"						m32	99																																																																																						0
+Tier 6 Create Token Map Warped Worldstone	1			100					11	m27	"up3,qty=8"						m33	99																																																																																						0
+Tier 6 Create Token Map Chaos Palace	1			100					11	m28	"up1,qty=8"						m34	99																																																																																						0
+Tier 6 Create Token Map Lost Tombs	1			100					11	m29	"up6,qty=8"						m35	99																																																																																						0
+Tier 6 Create Token Map Hidden Durance	1			100					11	m30	"up2,qty=8"						m36	99																																																																																						0
 Create Helm Aura Stone Defiance	1			100					17	"umt2,qty=5"	"urt,qty=10"	6gv	hp1				x0d	99																																																																																						0
 Create Helm Aura Stone Cleansing	1			100					17	"umt2,qty=5"	"urt,qty=10"	6gy	hp2				x1d	99																																																																																						0
 Create Helm Aura Stone Resist Fire	1			100					17	"umt2,qty=5"	"urt,qty=10"	6gb	hp3				x2d	99																																																																																						0
@@ -13958,12 +13958,12 @@ Upgrade Splashstone Small > Medium	1			100					4	Small Splashstone	"map,qty=3"		
 Upgrade Splashstone Medium > Large	1			100					10	Medium Splashstone	"map,qty=9"						Large Splashstone	54																																																																																						0
 Upgrade Splashstone Large > Huge	1			100					18	Large Splashstone	"map,qty=15"	"r50,qty=2"					Huge Splashstone	84																																																																																						0
 Upgrade Splashstone Huge > Perfect	1			100					6	Huge Splashstone	"umt2,qty=5"						Perfect Huge Splashstone	84																																																																																						0
-Create Uber Boss Token : The Undying Inferno	1			100					21	"up1,qty=20"	m34						1b1	99																												m34	99																																																									0
-Create Uber Boss Token : The Frozen Waste	1			100					21	"up2,qty=20"	m36						1b2	99																												m36	99																																																									0
-Create Uber Boss Token : The Static Plateau	1			100					21	"up3,qty=20"	m33						1b3	99																												m33	99																																																									0
-Create Uber Boss Token : The Decaying Mire	1			100					21	"up5,qty=20"	m32						1b4	99																												m32	99																																																									0
-Create Uber Boss Token : The Firmament Enduring	1			100					21	"up4,qty=20"	m31						1b5	99																												m31	99																																																									0
-Create Uber Boss Token : The Nexus Arcana	1			100					21	"up6,qty=20"	m35						1b6	99																												m35	99																																																									0
+Create Uber Boss Token : The Undying Inferno	1			100					21	"up1,qty=15"	m34						1b1	99																												m34	99																																																									0
+Create Uber Boss Token : The Frozen Waste	1			100					21	"up2,qty=15"	m36						1b2	99																												m36	99																																																									0
+Create Uber Boss Token : The Static Plateau	1			100					21	"up3,qty=15"	m33						1b3	99																												m33	99																																																									0
+Create Uber Boss Token : The Decaying Mire	1			100					21	"up5,qty=15"	m32						1b4	99																												m32	99																																																									0
+Create Uber Boss Token : The Firmament Enduring	1			100					21	"up4,qty=15"	m31						1b5	99																												m31	99																																																									0
+Create Uber Boss Token : The Nexus Arcana	1			100					21	"up6,qty=15"	m35						1b6	99																												m35	99																																																									0
 Create Uber-Uber Boss Token: Wish of Night Eternal	0			100					6	bh1	bh2	bh3	bh4	bh5	bh6			99																																																																																						0
 Add Wings To Endless Potential: Red	1			100					2	Endless Potential	bh1						useitem	99			state		185	1	1																					bh1	99																																																									0
 Add Wings To Endless Potential: Blue	1			100					2	Endless Potential	bh2						useitem	99			state		187	1	1																					bh2	99																																																									0
