@@ -973,7 +973,7 @@ Runeword958	Swamp	1		glov									Nu Ma	r45	r33					allskills		1	1	ass		1	1	nec	
 Runeword959	Prohibit			char									JEW x 3	jew	jew	jew				vit-h		-900	-900																									0
 Runeword960	Diablo	1		char									Ma Mo No	r33	r35	r36				allskills		1	1	oskill	Inferno	28	28	oskill	Firestorm	28	28	pierce-ltng		10	10	pierce-fire		10	10	dmg-cold	100	150	300	oskill	420	1	1	0
 Runeword950	Rhino	1		shld									Sa I JEW	r15	r01	jew				allskills		1	1	res-ltng		40	40	thorns/lvl	16			oskill	Charge	3	3	ac%		200	300	balance1		25	25	dex		-10	-10	0
-Runeword961	Wirt's Other Leg	1		boot									Fire Wood	r85	r87					oskill	Whirlwind	3	3	oskill	Dragon Flight	3	3	skill	Whirlwind	15	15	move3		65	65	regen		-30	-30	hit-skill	Twister	20	35	cheap		35	35	0
+Runeword961	Wirt's Other Leg	1		boot									Fire Wood	r85	r87					oskill	Whirlwind	3	3	oskill	Dragon Flight	3	3	skill	Whirlwind	15	15	move3		65	65	indestruct		1	1	hit-skill	Twister	20	35	cheap		35	35	0
 Runeword962	Master of Water	1		char									Water Ma Su	r86	r33	r43				oskill	Cold Mastery	20	20	oskill	SCold Missiles	20	20	oskill	Arctic Blast	20	20	cast1		20	20	mana/lvl	8			dmg-cold	50	200	400	pierce-cold		16	16	0
 Runeword963	Master of Thunder	1		char									Thunder Ma Su	r91	r33	r43				oskill	Lightning Mastery	20	20	oskill	SNova	20	20	oskill	Fist of the Heavens	20	20	cast1		20	20	mana/lvl	8			dmg-ltng		200	400	pierce-ltng		8	8	0
 Runeword964	Angel	1		char									Heaven Shi JEW	r96	r03	jew				oskill	Teleport	10	10	dmg%		100	100	extra-wind		10	10	hit-skill	ctcFist of the Heavens	10	24	res-all		30	30	regen		30	30	mana-kill		27	27	0
