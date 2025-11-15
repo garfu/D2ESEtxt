@@ -14219,11 +14219,11 @@ Tinkering -1 All - ring	1			100	15	127	1		3	"ring,any"	xl3	wms					"useitem,rem"
 Tinkering -1 All - amul	1			100	15	127	1		3	"amul,any"	xl3	wms					"useitem,rem"				allskills			-1	-1																					wms																																																										0
 -1 xp ar	1			100	15	85	1		4	"armo,any"	"gcb,qty=2"	wms					"useitem,rem"				addxp			-1	-1																					wms																																																										0
 -1 xp weapon	1			100	15	85	1		4	"weap,any"	"gcb,qty=2"	wms					"useitem,rem"				addxp			-1	-1																					wms																																																										0
-Create Radiance Crystallized	1			100					3	bh1	bh2	Radiance					useitem																													x1c	99																																																									0
-Create Entropy Crystallized	1			100					3	bh3	bh4	Entropy					useitem																													x2c	99																																																									0
-Create Supercontuctor Crystallized	1			100					3	bh5	bh6	Superconductor					useitem																													x3c	99																																																									0
-I Rune x2 + Identify Scroll ->El Rune	1			100					3	"r01,qty=2"	isc						r51	99																												isc																																																										0
-U Rune x2 + Identify Scroll ->Eld Rune	1			100					3	"r02,qty=2"	isc						r52	99																												isc																																																										0
+Create Radiance Crystallized	1			100					3	bh1	bh2	Radiance					x1c	99																																																																																						0
+Create Entropy Crystallized	1			100					3	bh3	bh4	Entropy					x2c	99																																																																																						0
+Create Supercontuctor Crystallized	1			100					3	bh5	bh6	Superconductor					x3c	99																																																																																						0
+I Rune x2 + Identify Scroll ->El Rune	1			100					3	"r01,qty=2"	isc						x3c	99																												isc																																																										0
+U Rune x2 + Identify Scroll ->Eld Rune	1			100					3	"r02,qty=2"	isc						x3c	99																												isc																																																										0
 Shi Rune x2 + Identify Scroll ->Tir Rune	1			100					3	"r03,qty=2"	isc						r53	99																												isc																																																										0
 Ka Rune x2 + Identify Scroll ->Nef Rune	1			100					3	"r04,qty=2"	isc						r54	99																												isc																																																										0
 N Rune x2 + Identify Scroll ->Eth Rune	1			100					3	"r05,qty=2"	isc						r55	99																												isc																																																										0
