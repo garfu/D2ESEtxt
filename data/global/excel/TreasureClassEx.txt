@@ -1511,12 +1511,12 @@ M Xtal Tier 3	24	91	1						Nothing	1	dclone_xtals_nr_1	1	dclone_xtals_nr_2	1				
 M Xtal Tier 4	24	92	2						Nothing	1	dclone_xtals_nr_1	1	dclone_xtals_nr_2	1																		0
 M Xtal Tier 5	24	93	2						Nothing	1	dclone_xtals_nr_1	1	dclone_xtals_nr_2	1																		0
 M Xtal Tier 6	24	94	3						Nothing	1	dclone_xtals_nr_1	1	dclone_xtals_nr_2	1																		0
-M Runes 16 Tier 1	25	89	1						Nothing	100	r50	8	r46	10	33l	3	Runes 15	2200														0
-M Runes 16 Tier 2	25	90	1						Nothing	100	r50	16	r46	20	33l	6	Runes 15	2100														0
-M Runes 16 Tier 3	25	91	1						Nothing	100	r50	24	r46	30	33l	9	Runes 15	2000														0
-M Runes 16 Tier 4	25	92	1						Nothing	100	r50	32	r46	40	33l	12	Runes 15	1900														0
-M Runes 16 Tier 5	25	93	1						Nothing	100	r50	40	r46	50	33l	15	Runes 15	1800														0
-M Runes 16 Tier 6	25	94	1						Nothing	100	r50	48	r46	60	33l	18	Runes 15	1400														0
+M Runes 16 Tier 1	25	89	1						Nothing	100	r50	8	r46	10	Runes 15	2200																0
+M Runes 16 Tier 2	25	90	1						Nothing	100	r50	16	r46	20	Runes 15	2100																0
+M Runes 16 Tier 3	25	91	1						Nothing	100	r50	24	r46	30	Runes 15	2000																0
+M Runes 16 Tier 4	25	92	1						Nothing	100	r50	32	r46	40	Runes 15	1900																0
+M Runes 16 Tier 5	25	93	1						Nothing	100	r50	40	r46	50	Runes 15	1800																0
+M Runes 16 Tier 6	25	94	1						Nothing	100	r50	48	r46	60	Runes 15	1400																0
 M Pots Tier 1	26	89	1						Nothing	6	srj	1	sbs	1																		0
 M Pots Tier 2	26	90	1						Nothing	6	srj	1	sbs	1																		0
 M Pots Tier 3	26	91	2						Nothing	5	srj	1	sbs	1																		0
